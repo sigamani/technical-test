@@ -4,7 +4,7 @@ Each question tests aspects of what we require from our data scientists at Qudo.
 
 **Please choose one and only one question to answer. You must use python as the core programming language. You may submit your solution however you like (i.e. Github/GitLab repo, compressed folder). The questions are meant to be challenging and somewhat open-ended - Be creative. You must submit your work no later 10 AM (GMT) on Monday the 25th of October.**
 
-## 1. Exploratory Data Analysis ([statista](https://gitlab.com/questionardo-mvp/qudo-technical-test/-/tree/main/statista) folder)
+## 1. Exploratory Data Analysis ([statista](https://github.com/sigamani/technical-test/tree/main/statista) folder)
 Here we have two waves of a consumer survey conducted in the UK between 2020 and 2021. An hotel company has come to you wanting to understand the various dynamics of the UK market when it comes to travel and hospitality. They would like to start a chain of hotels next year in the UK. What can we tell them just based on the data we have? Things to explore (for ideas but feel free to choose your own):
 - Clustering to find groups which are based on their travel habits. 
 - Are there any distinct audiences you can see to target on Google/Social Media?
@@ -18,7 +18,7 @@ Furthermore, please create a supervised classification model using as the target
 
 **Tech. you should consider:** Jupyter Notebook, Plotly, Tableau, GitHub, GitLab
 
-## 2. Core Python Development ([pipeline-code](https://gitlab.com/questionardo-mvp/qudo-technical-test/-/tree/main/pipeline-code) folder)
+## 2. Core Python Development ([pipeline-code](https://github.com/sigamani/technical-test/tree/main/pipeline-code) folder)
 We would like you to refactor the current analysis pipeline and deploy using a cloud provider of your choice (Heroku is a free and easy solution). The pipeline should be a web app with a run button that runs and outputs a particular segmentation of your choice (rules-based or k-modes). If using Heroku is difficult, simply give instructions to deploy using localhost. 
 
 Things to consider when refactoring: Can we replace our CSV input using a suitable database (MongoDB, PostgreSQL)? Would we be better served using some internally defined business object logic for the storage of our survey data? Can you optimise some of the longer parts of the analysis, such as cost function optimisation for the k-modes algorithm? Are we missing some unit tests? Could we refactor the code to be simpler and easier to read? Could we reorganise the folders and file structure to be neater? You will not be judged on the aesthetics of your web app, this s a python development exercise.
