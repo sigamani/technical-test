@@ -1,0 +1,397 @@
+,q_code,pop_mode,response_rate,mode_pop_perc,chi_2_result,targeting_seg
+394,SOC_US_IH_DM_L_v5_16072020,"$25,000 - $49,999",100.0,27.8,0.0,Aware of Go City
+80,City or Metropolis:SBEH_WW_DESTTYPE_CB_07062021,NoAnswer,100.0,55.2,0.0,Aware of Go City
+77,SBEH_WW_AVTRIP_RB_07062021,4 days or fewer,100.0,34.2,0.0,Unaware of passes or Go City
+76,SBEH_WW_TRFREQ_RB_07062021,Once a year or about once a year,100.0,37.2,0.0,Aware of Go City
+75,Vienna:SBEH_US_TRINTWW_CB_14062021,not shown,100.0,75.4,0.0,Unaware of passes or Go City
+74,Stockholm:SBEH_US_TRINTWW_CB_14062021,not shown,100.0,75.4,0.0,Unaware of passes or Go City
+73,Rome:SBEH_US_TRINTWW_CB_14062021,not shown,100.0,75.4,0.0,Unaware of passes or Go City
+72,Paris:SBEH_US_TRINTWW_CB_14062021,not shown,100.0,75.4,0.0,Unaware of passes or Go City
+71,Madrid:SBEH_US_TRINTWW_CB_14062021,not shown,100.0,75.4,0.0,Unaware of passes or Go City
+70,London:SBEH_US_TRINTWW_CB_14062021,not shown,100.0,75.4,0.0,Unaware of passes or Go City
+69,Helsinki:SBEH_US_TRINTWW_CB_14062021,not shown,100.0,75.4,0.0,Unaware of passes or Go City
+68,Gothenburg:SBEH_US_TRINTWW_CB_14062021,not shown,100.0,75.4,0.0,Unaware of passes or Go City
+67,Dublin:SBEH_US_TRINTWW_CB_14062021,not shown,100.0,75.4,0.0,Unaware of passes or Go City
+66,Berlin:SBEH_US_TRINTWW_CB_14062021,not shown,100.0,75.4,0.0,Unaware of passes or Go City
+65,Barcelona:SBEH_US_TRINTWW_CB_14062021,not shown,100.0,75.4,0.0,Unaware of passes or Go City
+64,Cancun:SBEH_US_TRINTWW_CB_14062021,not shown,100.0,75.4,0.0,Unaware of passes or Go City
+63,Singapore:SBEH_US_TRINTWW_CB_14062021,not shown,100.0,75.4,0.0,Unaware of passes or Go City
+61,Hong Kong:SBEH_US_TRINTWW_CB_14062021,not shown,100.0,75.4,0.0,Unaware of passes or Go City
+60,Dubai:SBEH_US_TRINTWW_CB_14062021,not shown,100.0,75.4,0.0,Unaware of passes or Go City
+59,Bangkok:SBEH_US_TRINTWW_CB_14062021,not shown,100.0,75.4,0.0,Unaware of passes or Go City
+58,Washington DC:SBEH_US_TRINTUS_CB_14062021.,NoAnswer,100.0,66.8,0.0,Aware of Go City
+57,San Francisco:SBEH_US_TRINTUS_CB_14062021.,NoAnswer,100.0,68.4,0.0,Aware of Go City
+56,San Diego:SBEH_US_TRINTUS_CB_14062021.,NoAnswer,100.0,69.8,0.0,Aware of passes
+55,San Antonio:SBEH_US_TRINTUS_CB_14062021.,NoAnswer,100.0,70.6,0.0,Aware of Go City
+84,Something else:SBEH_WW_DESTTYPE_CB_07062021,NoAnswer,100.0,84.8,0.0,Aware of Go City
+54,Philadelphia:SBEH_US_TRINTUS_CB_14062021.,NoAnswer,100.0,69.9,0.0,Aware of Go City
+85,Hotel:SBEH_WW_STAYTYPE_CB_07062021,Hotel,100.0,69.2,0.0,Aware of Go City
+386,DEM_US_ETH_DM_S_v2_14072020,White,100.0,77.5,0.0,Aware of passes
+202,LIFE_US_CL_RB_L_v1_28052021,Budget,100.0,43.5,0.0,Aware of passes
+156,Soccer:SPORT_WW_SA_CB_L_v1_08012021,NoAnswer,100.0,96.4,0.0,Aware of passes
+155,Something else:LIFE_US_PAS_CB_L_v2_16072020,NoAnswer,100.0,84.6,0.0,Aware of Go City
+221,I do not have a favourite tech brand:LIFE_WW_IT_CB_L_v1_16072020,NoAnswer,100.0,94.3,0.0,Aware of Go City
+223,Travel:LIFE_WW_GS_IMS_S_v1_17072020,Travel,100.0,55.4,0.0,Aware of Go City
+148,Women’s rights / women’s health and reproductive issues:LIFE_US_PAS_CB_L_v2_16072020,NoAnswer,100.0,91.1,0.0,Unaware of passes or Go City
+225,Financial products:LIFE_WW_GS_IMS_S_v1_17072020,Financial products,100.0,57.4,0.0,Aware of Go City
+227,Cosmetics:LIFE_WW_GS_IMS_S_v1_17072020,Cosmetics,100.0,55.6,0.0,Aware of Go City
+228,Furniture:LIFE_WW_GS_IMS_S_v1_17072020,Furniture,100.0,60.1,0.0,Aware of Go City
+141,Poverty and homelessness:LIFE_US_PAS_CB_L_v2_16072020,NoAnswer,100.0,81.9,0.0,Unaware of passes or Go City
+230,Renovation:LIFE_WW_GS_IMS_S_v1_17072020,NoAnswer,100.0,58.8,0.0,Unaware of passes or Go City
+136,Human rights / civil rights / discrimination:LIFE_US_PAS_CB_L_v2_16072020,NoAnswer,100.0,86.5,0.0,Unaware of passes or Go City
+238,Travel and exploration:LIFE_WW_LS_CB_L_v1_04062021,NoAnswer,100.0,83.8,0.0,Unaware of passes or Go City
+248,Travel and exploration:LIFE_WW_LS_CB_L_v1_04062021.1,NoAnswer,100.0,71.1,0.0,Unaware of passes or Go City
+130,Climate change / global warming:LIFE_US_PAS_CB_L_v2_16072020,NoAnswer,100.0,87.8,0.0,Unaware of passes or Go City
+126,Travelling:LIFE_WW_ACT_CB_L_v1_16072020,NoAnswer,100.0,77.9,0.0,Unaware of passes or Go City
+264,LinkedIn:MC_WW_SM_CB_L_v1_16072020,not shown,100.0,56.2,0.0,Aware of passes
+118,News & Current affairs:LIFE_WW_ACT_CB_L_v1_16072020,NoAnswer,100.0,72.7,0.0,Unaware of passes or Go City
+322,"Kindness: Being honest, loyal, helpful and forgiving:PSY_WW_VALUES_CB_S_SEG_16072020","<strong>Kindness</strong>: Being honest, loyal, helpful and forgiving",100.0,56.1,0.0,Aware of passes
+108,History:LIFE_WW_ACT_CB_L_v1_16072020,NoAnswer,100.0,75.4,0.0,Unaware of passes or Go City
+107,Health and fitness:LIFE_WW_ACT_CB_L_v1_16072020,NoAnswer,100.0,79.9,0.0,Unaware of passes or Go City
+382,DEM_WW_SETTLEMENT_RB_S_v1_CINT_24072020,Suburban,100.0,51.9,0.0,Aware of Go City
+91,Somewhere else:SBEH_WW_STAYTYPE_CB_07062021,NoAnswer,100.0,88.5,0.0,Aware of Go City
+86,Luxury resort:SBEH_WW_STAYTYPE_CB_07062021,NoAnswer,100.0,87.9,0.0,Aware of passes
+53,Orlando:SBEH_US_TRINTUS_CB_14062021.,NoAnswer,100.0,63.1,0.0,Aware of passes
+62,Shanghai:SBEH_US_TRINTWW_CB_14062021,not shown,100.0,75.4,0.0,Unaware of passes or Go City
+51,New York:SBEH_US_TRINTUS_CB_14062021.,NoAnswer,100.0,59.1,0.0,Aware of passes
+26,Turbopass :AIDA_WW_BEX_CB_16082021,not shown,100.0,68.1,0.0,Unaware of passes or Go City
+25,iVenture Card :AIDA_WW_BEX_CB_16082021,not shown,100.0,68.1,0.0,Unaware of passes or Go City
+24,The Sightseeing Pass :AIDA_WW_BEX_CB_16082021,not shown,100.0,68.1,0.0,Unaware of passes or Go City
+23,City Pass :AIDA_WW_BEX_CB_16082021,not shown,100.0,68.1,0.0,Unaware of passes or Go City
+3,Renting a car:AIDA_WW_CAW_CB_07062021,Renting a car,100.0,71.3,0.0,Aware of Go City
+4,Hiring a tour guide:AIDA_WW_CAW_CB_07062021,NoAnswer,100.0,50.7,0.0,Unaware of passes or Go City
+22,Go City :AIDA_WW_BEX_CB_16082021,not shown,100.0,68.1,0.0,Unaware of passes or Go City
+52,Oahu:SBEH_US_TRINTUS_CB_14062021.,NoAnswer,100.0,71.6,0.0,Aware of Go City
+5,Finding a 5* hotel:AIDA_WW_CAW_CB_07062021,Finding a 5* hotel,100.0,62.3,0.0,Aware of Go City
+21,Other:AIDA_WW_AWS_RB_14062021,not shown,100.0,93.7,0.0,Aware of passes
+12,iVenture Card:AIDA_WW_ABA_IMS_07062021,NoAnswer,100.0,56.0,0.0,Unaware of passes or Go City
+20,AIDA_WW_AWS_RB_14062021,not shown,100.0,93.7,0.0,Aware of passes
+18,Go Las Vegas:AIDA_WW_ABA_IMS_07062021,NoAnswer,100.0,59.5,0.0,Unaware of passes or Go City
+7,Buying a weekly ticket for public transport:AIDA_WW_CAW_CB_07062021,NoAnswer,100.0,57.0,0.0,Unaware of passes or Go City
+17,Zipper Pass:AIDA_WW_ABA_IMS_07062021,NoAnswer,100.0,59.0,0.0,Unaware of passes or Go City
+8,Getting free advice/maps from the local tourist organization:AIDA_WW_CAW_CB_07062021,Getting free advice/maps from the local tourist organization,100.0,62.8,0.0,Aware of Go City
+9,Renting a bike from the street (public bicycle scheme):AIDA_WW_CAW_CB_07062021,NoAnswer,100.0,65.0,0.0,Unaware of passes or Go City
+16,Tour Pass:AIDA_WW_ABA_IMS_07062021,NoAnswer,100.0,59.1,0.0,Unaware of passes or Go City
+10,CityPass:AIDA_WW_ABA_IMS_07062021,not shown,100.0,40.5,0.0,Unaware of passes or Go City
+11,The Sightseeing Pass:AIDA_WW_ABA_IMS_07062021,NoAnswer,100.0,53.8,0.0,Unaware of passes or Go City
+15,Hopper Pass:AIDA_WW_ABA_IMS_07062021,NoAnswer,100.0,59.5,0.0,Unaware of passes or Go City
+14,The New York Pass:AIDA_WW_ABA_IMS_07062021,NoAnswer,100.0,51.7,0.0,Unaware of passes or Go City
+19,Go Oahu:AIDA_WW_ABA_IMS_07062021,NoAnswer,100.0,59.5,0.0,Unaware of passes or Go City
+28,Go City:AIDA_WW_BSAT_RBG_07062021,NoAnswer,100.0,81.7,0.0,Unaware of passes or Go City
+27,The New York Pass :AIDA_WW_BEX_CB_16082021,not shown,100.0,68.1,0.0,Unaware of passes or Go City
+29,CityPass:AIDA_WW_BSAT_RBG_07062021,NoAnswer,100.0,75.6,0.0,Unaware of passes or Go City
+50,New Orleans:SBEH_US_TRINTUS_CB_14062021.,NoAnswer,100.0,68.0,0.0,Aware of Go City
+49,Miami:SBEH_US_TRINTUS_CB_14062021.,NoAnswer,100.0,66.1,0.0,Aware of Go City
+48,Los Angeles:SBEH_US_TRINTUS_CB_14062021.,NoAnswer,100.0,66.6,0.0,Aware of passes
+47,Las Vegas:SBEH_US_TRINTUS_CB_14062021.,NoAnswer,100.0,60.3,0.0,Aware of passes
+46,Chicago:SBEH_US_TRINTUS_CB_14062021.,NoAnswer,100.0,66.5,0.0,Aware of passes
+45,Boston:SBEH_US_TRINTUS_CB_14062021.,NoAnswer,100.0,68.1,0.0,Aware of passes
+44,I plan a leisure trip abroad in the next two years:SBEH_US_PASS_CB_07062021,NoAnswer,100.0,75.4,0.0,Unaware of passes or Go City
+389,"What would best describe the occupation of the person with the highest income in your household, including you?",C2,100.0,22.0,0.0,Aware of Go City
+43,I plan a leisure trip within the USA in the next two years:SBEH_US_PASS_CB_07062021,I plan a leisure trip within the USA in the next two years,100.0,73.8,0.0,Aware of Go City
+42,I own a valid passport:SBEH_US_PASS_CB_07062021,NoAnswer,100.0,60.2,0.0,Unaware of passes or Go City
+2,Getting travel insurance:AIDA_WW_CAW_CB_07062021,Getting travel insurance,100.0,50.1,0.0,Unaware of passes or Go City
+41,NPS_WW_LS_s_v1_14012021,not shown,100.0,97.4,0.0,Aware of passes
+39,The New York Pass:AIDA_WW_BCON_RBG_07062021,not shown,100.0,68.1,0.0,Unaware of passes or Go City
+38,Turbopass:AIDA_WW_BCON_RBG_07062021,not shown,100.0,68.1,0.0,Unaware of passes or Go City
+37,iVenture Card:AIDA_WW_BCON_RBG_07062021,not shown,100.0,68.1,0.0,Unaware of passes or Go City
+36,The Sightseeing Pass:AIDA_WW_BCON_RBG_07062021,not shown,100.0,68.1,0.0,Unaware of passes or Go City
+35,CityPass:AIDA_WW_BCON_RBG_07062021,not shown,100.0,68.1,0.0,Unaware of passes or Go City
+34,Go City:AIDA_WW_BCON_RBG_07062021,not shown,100.0,68.1,0.0,Unaware of passes or Go City
+33,The New York Pass:AIDA_WW_BSAT_RBG_07062021,NoAnswer,100.0,81.6,0.0,Aware of Go City
+388,SOC_WW_PR_DM_S_v2_16072020,Does not apply / I am not studying / have not studied at university/college,100.0,20.2,0.0,Unaware of passes or Go City
+31,iVentureCard:AIDA_WW_BSAT_RBG_07062021,NoAnswer,100.0,83.5,0.0,Aware of Go City
+30,The Sightseeing Pass:AIDA_WW_BSAT_RBG_07062021,NoAnswer,100.0,82.3,0.0,Aware of Go City
+40,AIDA_WW_PURCHI_RB_07062021,not shown,100.0,41.4,0.0,Unaware of passes or Go City
+13,Turbopass:AIDA_WW_ABA_IMS_07062021,NoAnswer,100.0,53.4,0.0,Unaware of passes or Go City
+6,Finding free accommodation via couch surfing website:AIDA_WW_CAW_CB_07062021,NoAnswer,100.0,86.7,0.0001,Unaware of passes or Go City
+222,Car:LIFE_WW_GS_IMS_S_v1_17072020,Car,100.0,60.4,0.0001,Aware of Go City
+169,Basketball:SPORT_WW_SA_CB_L_v1_08012021,NoAnswer,100.0,89.6,0.0001,Aware of passes
+387,SOC_WW_EDU_DM_S_v1_14072020,High School/Tertiary/Tech. College/College,100.0,46.5,0.0001,Unaware of passes or Go City
+261,Instagram:MC_WW_SM_CB_L_v1_16072020,not shown,100.0,56.2,0.0001,Aware of passes
+94,Beauty & Fashion:LIFE_WW_ACT_CB_L_v1_16072020,NoAnswer,100.0,84.6,0.0001,Unaware of passes or Go City
+97,Business:LIFE_WW_ACT_CB_L_v1_16072020,NoAnswer,100.0,88.4,0.0001,Unaware of passes or Go City
+308,Friendly and welcoming:AE_WW_CV_CB_S_v1_22072020,Friendly and welcoming,100.0,53.4,0.0001,Aware of passes
+232,LIFE_USA_GS_RB_L_v1_17072020,Budget,100.0,46.8,0.0001,Aware of Go City
+345,Achieving status and power:PSY_WW_HOPES_CB_S_SEG_16072020,NoAnswer,100.0,93.8,0.0002,Aware of passes
+319,AE_WW_AP_IM_P2_08012021,Comfortable,100.0,66.3,0.0002,Unaware of passes or Go City
+344,Belonging and feeling loved:PSY_WW_HOPES_CB_S_SEG_16072020,NoAnswer,100.0,59.8,0.0004,Aware of Go City
+260,Twitter:MC_WW_SM_CB_L_v1_16072020,not shown,100.0,56.2,0.0005,Aware of passes
+172,BMW:LIFE_US_CAR_CB_L_v1_04062021,NoAnswer,100.0,85.3,0.0005,Aware of passes
+393,SOC_US_IP_DM_S_v4_16072020,"$25,000 - $49,999",100.0,26.2,0.0006,Aware of Go City
+229,Insurance:LIFE_WW_GS_IMS_S_v1_17072020,Insurance,100.0,58.5,0.0006,Aware of Go City
+122,Science:LIFE_WW_ACT_CB_L_v1_16072020,NoAnswer,100.0,88.6,0.0006,Unaware of passes or Go City
+138,Medical  / cancer research:LIFE_US_PAS_CB_L_v2_16072020,NoAnswer,100.0,81.3,0.0007,Unaware of passes or Go City
+262,YouTube:MC_WW_SM_CB_L_v1_16072020,not shown,100.0,56.2,0.0008,Aware of passes
+385,DEM_WW_CH_RB_L_v1_16072020,None,100.0,46.7,0.0008,Aware of passes
+224,Groceries:LIFE_WW_GS_IMS_S_v1_17072020,Groceries,100.0,84.0,0.0008,Aware of Go City
+132,The disabled:LIFE_US_PAS_CB_L_v2_16072020,NoAnswer,100.0,86.3,0.0008,Unaware of passes or Go City
+105,Films & Cinema:LIFE_WW_ACT_CB_L_v1_16072020,NoAnswer,100.0,80.6,0.0008,Unaware of passes or Go City
+92,Adventure:LIFE_WW_ACT_CB_L_v1_16072020,NoAnswer,100.0,78.2,0.0008,Unaware of passes or Go City
+135,Globalization:LIFE_US_PAS_CB_L_v2_16072020,NoAnswer,100.0,98.3,0.0008,Aware of passes
+87,Airbnb / privately rented accommodations:SBEH_WW_STAYTYPE_CB_07062021,NoAnswer,100.0,83.9,0.001,Unaware of passes or Go City
+32,Turbopass:AIDA_WW_BSAT_RBG_07062021,NoAnswer,100.0,83.4,0.0011,Aware of Go City
+149,Worker’s rights / fair wages:LIFE_US_PAS_CB_L_v2_16072020,NoAnswer,100.0,95.0,0.0012,Unaware of passes or Go City
+167,Yoga:SPORT_WW_SA_CB_L_v1_08012021,NoAnswer,100.0,86.9,0.0012,Unaware of passes or Go City
+362,Dreamer:PSY_WW_ARCHETYPES_CB_S_SEG_07012021,NoAnswer,100.0,72.8,0.0012,Unaware of passes or Go City
+142,Protecting oceans / marine mammals:LIFE_US_PAS_CB_L_v2_16072020,NoAnswer,100.0,92.8,0.0013,Unaware of passes or Go City
+373,PSY_WW_MOTIVATIONS_RB_S_SEG_07012021,Security,100.0,40.9,0.0014,Unaware of passes or Go City
+134,Employment (job creation):LIFE_US_PAS_CB_L_v2_16072020,NoAnswer,100.0,94.9,0.0015,Unaware of passes or Go City
+1,DEM_WW_GENDER_RB_L_v3_14072020,Female,100.0,59.7,0.0015,Aware of passes
+390,SOC_WW_ES_DM_S_v2_07012021,Retired,100.0,25.6,0.0015,Aware of Go City
+199,Opel:LIFE_US_CAR_CB_L_v1_04062021,NoAnswer,100.0,99.8,0.0016,Aware of passes
+157,Tennis:SPORT_WW_SA_CB_L_v1_08012021,NoAnswer,100.0,95.6,0.0018,Aware of passes
+78,Beach or seaside resort:SBEH_WW_DESTTYPE_CB_07062021,Beach or seaside resort,100.0,52.2,0.002,Aware of Go City
+297,WSJ:MC_US_NP_CB_L_v1_16072020_,not shown,100.0,65.8,0.0022,Unaware of passes or Go City
+121,Reading:LIFE_WW_ACT_CB_L_v1_16072020,NoAnswer,100.0,70.2,0.0022,Unaware of passes or Go City
+145,Recycling  / reducing pollution:LIFE_US_PAS_CB_L_v2_16072020,NoAnswer,100.0,88.6,0.0023,Unaware of passes or Go City
+159,Rugby:SPORT_WW_SA_CB_L_v1_08012021,NoAnswer,100.0,99.5,0.0023,Aware of passes
+381,DEM_WW_GENERATION_RB_S_v1_14012021,Baby boomers,100.0,33.6,0.0024,Aware of passes
+357,The one from a brand I am familiar with:PSY_WW_CIALDINIBRANDS_CB_S_SEG_24072020,The one from a brand I am familiar with,100.0,73.7,0.0025,Aware of passes
+270,Clubhouse:MC_WW_SM_CB_L_v1_16072020,not shown,100.0,56.2,0.0026,Aware of passes
+170,Some other sport:SPORT_WW_SA_CB_L_v1_08012021,NoAnswer,100.0,70.3,0.0028,Aware of Go City
+254,Social media:MC_WW_MC_RK_S_v1_16072020,NoAnswer,100.0,56.2,0.0032,Aware of Go City
+117,Nature & Environment:LIFE_WW_ACT_CB_L_v1_16072020,NoAnswer,100.0,85.9,0.0033,Unaware of passes or Go City
+268,TikTok:MC_WW_SM_CB_L_v1_16072020,not shown,100.0,56.2,0.0034,Aware of passes
+363,Explorer:PSY_WW_ARCHETYPES_CB_S_SEG_07012021,NoAnswer,100.0,71.9,0.0036,Unaware of passes or Go City
+303,"I like documentaries, current affairs, educational, factual, and serious content:AE_WW_AE_CB_S_v1_07012021",NoAnswer,100.0,55.9,0.0042,Unaware of passes or Go City
+226,Clothing:LIFE_WW_GS_IMS_S_v1_17072020,Clothing,100.0,77.3,0.0045,Aware of Go City
+179,Mercedes:LIFE_US_CAR_CB_L_v1_04062021,NoAnswer,100.0,91.0,0.0047,Unaware of passes or Go City
+336,"Someone who is a practical person who is not interested in abstract ideas prefers to work this routine and has few artistic interests|Someone who spends time reflecting on things, has an active imagination, and likes to think up new ways of doing things, but may lack imagination:PSY_WW_OCEANFIVEITEM_RG_S_SEG_24072020",four,100.0,30.6,0.0052,Aware of Go City
+120,Politics:LIFE_WW_ACT_CB_L_v1_16072020,NoAnswer,100.0,76.7,0.0053,Unaware of passes or Go City
+128,Animal rights:LIFE_US_PAS_CB_L_v2_16072020,NoAnswer,100.0,68.3,0.006,Unaware of passes or Go City
+392,SOC_WW_IS_DM_S_v1_07012021,"Having just enough income not to struggle, but cannot save much",100.0,33.3,0.0071,Aware of Go City
+200,Tesla:LIFE_US_CAR_CB_L_v1_04062021,NoAnswer,100.0,92.8,0.0072,Unaware of passes or Go City
+153,Introducing gun control:LIFE_US_PAS_CB_L_v2_16072020,NoAnswer,100.0,96.9,0.0077,Unaware of passes or Go City
+100,Celebrities & Interviews:LIFE_WW_ACT_CB_L_v1_16072020,NoAnswer,100.0,87.0,0.0081,Unaware of passes or Go City
+263,Pinterest:MC_WW_SM_CB_L_v1_16072020,not shown,100.0,56.2,0.0082,Aware of passes
+267,Quora:MC_WW_SM_CB_L_v1_16072020,not shown,100.0,56.2,0.0086,Aware of passes
+256,Radio:MC_WW_MC_RK_S_v1_16072020,NoAnswer,100.0,92.9,0.0089,Aware of Go City
+102,Cooking:LIFE_WW_ACT_CB_L_v1_16072020,NoAnswer,100.0,60.6,0.0091,Unaware of passes or Go City
+190,Honda:LIFE_US_CAR_CB_L_v1_04062021,NoAnswer,100.0,79.6,0.0099,Unaware of passes or Go City
+354,The one that everyone else is buying:PSY_WW_CIALDINIBRANDS_CB_S_SEG_24072020,NoAnswer,100.0,96.8,0.01,Aware of passes
+204,Samsung:LIFE_WW_IT_CB_L_v1_16072020,NoAnswer,100.0,50.6,0.0107,Unaware of passes or Go City
+158,Cricket:SPORT_WW_SA_CB_L_v1_08012021,NoAnswer,100.0,99.3,0.0107,Aware of passes
+296,BBC America:MC_US_NP_CB_L_v1_16072020_,not shown,100.0,65.8,0.012,Unaware of passes or Go City
+384,DEM_WW_RB_S_v1_14012021,Bachelors,100.0,27.7,0.0124,Aware of Go City
+161,Netball:SPORT_WW_SA_CB_L_v1_08012021,NoAnswer,100.0,99.1,0.0129,Aware of passes
+0,DEM_WW_AGE_DM_L_v1_14072020,65 and above,100.0,21.3,0.013,Aware of passes
+259,Facebook:MC_WW_SM_CB_L_v1_16072020,not shown,100.0,56.2,0.0137,Aware of passes
+342,Feeling safe and secure:PSY_WW_HOPES_CB_S_SEG_16072020,Feeling safe and secure,100.0,58.2,0.0141,Aware of Go City
+272,None. I do not use social media:MC_WW_SM_CB_L_v1_16072020,not shown,100.0,56.2,0.0144,Aware of Go City
+316,AE_WW_AP_IM_P5_22072020,Human drawn,100.0,92.3,0.0153,Aware of passes
+143,Protection / promotion of art / cultural heritage:LIFE_US_PAS_CB_L_v2_16072020,NoAnswer,100.0,96.7,0.0158,Unaware of passes or Go City
+295,The Washington Post:MC_US_NP_CB_L_v1_16072020_,not shown,100.0,65.8,0.0159,Unaware of passes or Go City
+219,Bose:LIFE_WW_IT_CB_L_v1_16072020,NoAnswer,100.0,79.1,0.0163,Unaware of passes or Go City
+266,Tumblr:MC_WW_SM_CB_L_v1_16072020,not shown,100.0,56.2,0.0164,Aware of passes
+269,Reddit:MC_WW_SM_CB_L_v1_16072020,not shown,100.0,56.2,0.0166,Aware of passes
+299,Other media outlet(s):MC_US_NP_CB_L_v1_16072020_,not shown,100.0,65.8,0.0171,Unaware of passes or Go City
+271,Other social media platform(s):MC_WW_SM_CB_L_v1_16072020,not shown,100.0,56.2,0.0178,Aware of passes
+207,Apple:LIFE_WW_IT_CB_L_v1_16072020,NoAnswer,100.0,53.0,0.0181,Aware of Go City
+139,Mental health:LIFE_US_PAS_CB_L_v2_16072020,NoAnswer,100.0,86.8,0.021,Unaware of passes or Go City
+218,Sonos:LIFE_WW_IT_CB_L_v1_16072020,NoAnswer,100.0,98.6,0.0214,Unaware of passes or Go City
+265,Snapchat:MC_WW_SM_CB_L_v1_16072020,not shown,100.0,56.2,0.0215,Aware of passes
+129,Children’s rights / children’s health:LIFE_US_PAS_CB_L_v2_16072020,NoAnswer,100.0,74.7,0.0216,Unaware of passes or Go City
+111,Humanities:LIFE_WW_ACT_CB_L_v1_16072020,NoAnswer,100.0,96.2,0.0225,Unaware of passes or Go City
+247,Health and wellbeing:LIFE_WW_LS_CB_L_v1_04062021.1,NoAnswer,100.0,61.3,0.0234,Aware of Go City
+231,Tech:LIFE_WW_GS_IMS_S_v1_17072020,Tech,100.0,65.3,0.0238,Aware of Go City
+192,GMC:LIFE_US_CAR_CB_L_v1_04062021,NoAnswer,100.0,93.3,0.0279,Aware of Go City
+123,Social Causes:LIFE_WW_ACT_CB_L_v1_16072020,NoAnswer,100.0,92.1,0.0288,Unaware of passes or Go City
+236,Sport and fitness:LIFE_WW_LS_CB_L_v1_04062021,NoAnswer,100.0,89.4,0.0301,Aware of passes
+306,Glamorous and sophisticated:AE_WW_CV_CB_S_v1_22072020,NoAnswer,100.0,92.3,0.0317,Aware of passes
+312,AE_WW_AP_IM_P1_22072020,Calming,100.0,74.8,0.032,Unaware of passes or Go City
+317,AE_WW_AP_IM_P6_22072020,Simple,100.0,50.1,0.0322,Unaware of passes or Go City
+361,Sage:PSY_WW_ARCHETYPES_CB_S_SEG_07012021,NoAnswer,100.0,87.9,0.034,Aware of Go City
+305,Exciting and cool:AE_WW_CV_CB_S_v1_22072020,NoAnswer,100.0,75.5,0.0341,Aware of passes
+301,"I like bold, intense art; I like horror movies, sketch show, late-night comedy, and heavy metal:AE_WW_AE_CB_S_v1_07012021",NoAnswer,100.0,77.8,0.0341,Aware of passes
+164,Swimming:SPORT_WW_SA_CB_L_v1_08012021,NoAnswer,100.0,86.1,0.0384,Unaware of passes or Go City
+298,ABCNews:MC_US_NP_CB_L_v1_16072020_,not shown,100.0,65.8,0.0401,Unaware of passes or Go City
+151,Eradicating hate speech:LIFE_US_PAS_CB_L_v2_16072020,NoAnswer,100.0,96.7,0.0403,Aware of passes
+137,Literacy:LIFE_US_PAS_CB_L_v2_16072020,NoAnswer,100.0,94.2,0.0407,Unaware of passes or Go City
+166,Running:SPORT_WW_SA_CB_L_v1_08012021,NoAnswer,100.0,89.4,0.0413,Unaware of passes or Go City
+144,Provision of medical care and medicines:LIFE_US_PAS_CB_L_v2_16072020,NoAnswer,100.0,94.9,0.0442,Unaware of passes or Go City
+131,Criminal justice reform:LIFE_US_PAS_CB_L_v2_16072020,NoAnswer,100.0,93.9,0.0485,Unaware of passes or Go City
+79,Mountain or alpine resort:SBEH_WW_DESTTYPE_CB_07062021,NoAnswer,100.0,83.1,,Aware of Go City
+81,Culturally/Spiritually significant place:SBEH_WW_DESTTYPE_CB_07062021,NoAnswer,100.0,91.6,,Unaware of passes or Go City
+82,Rural or countryside locales:SBEH_WW_DESTTYPE_CB_07062021,NoAnswer,100.0,77.1,,Aware of Go City
+83,Niche or extreme destinations (e.g. Antarctica):SBEH_WW_DESTTYPE_CB_07062021,NoAnswer,100.0,98.6,,Aware of passes
+88,Youth hostel:SBEH_WW_STAYTYPE_CB_07062021,NoAnswer,100.0,99.1,,Aware of Go City
+89,Relative or friend’s house:SBEH_WW_STAYTYPE_CB_07062021,NoAnswer,100.0,71.3,,Aware of Go City
+90,Campsite:SBEH_WW_STAYTYPE_CB_07062021,NoAnswer,100.0,92.5,,Aware of Go City
+93,Arts and crafts:LIFE_WW_ACT_CB_L_v1_16072020,NoAnswer,100.0,81.7,,Unaware of passes or Go City
+95,Blogging:LIFE_WW_ACT_CB_L_v1_16072020,NoAnswer,100.0,93.9,,Aware of passes
+96,Boating:LIFE_WW_ACT_CB_L_v1_16072020,NoAnswer,100.0,97.1,,Aware of passes
+98,Camping:LIFE_WW_ACT_CB_L_v1_16072020,NoAnswer,100.0,90.9,,Aware of passes
+99,Cars/motoring:LIFE_WW_ACT_CB_L_v1_16072020,NoAnswer,100.0,93.1,,Aware of Go City
+101,Playing video/computer games:LIFE_WW_ACT_CB_L_v1_16072020,NoAnswer,100.0,81.1,,Aware of Go City
+103,Education:LIFE_WW_ACT_CB_L_v1_16072020,NoAnswer,100.0,91.0,,Unaware of passes or Go City
+104,Extreme sports:LIFE_WW_ACT_CB_L_v1_16072020,NoAnswer,100.0,96.9,,Unaware of passes or Go City
+106,Gardening:LIFE_WW_ACT_CB_L_v1_16072020,NoAnswer,100.0,83.9,,Unaware of passes or Go City
+109,Holiday house/Timeshare:LIFE_WW_ACT_CB_L_v1_16072020,NoAnswer,100.0,98.0,,Aware of Go City
+110,Horses:LIFE_WW_ACT_CB_L_v1_16072020,NoAnswer,100.0,97.9,,Unaware of passes or Go City
+112,Hunting/Fishing:LIFE_WW_ACT_CB_L_v1_16072020,NoAnswer,100.0,92.9,,Unaware of passes or Go City
+113,Interior decorating/Renovating:LIFE_WW_ACT_CB_L_v1_16072020,NoAnswer,100.0,90.8,,Unaware of passes or Go City
+114,Lifestyle:LIFE_WW_ACT_CB_L_v1_16072020,NoAnswer,100.0,87.0,,Unaware of passes or Go City
+115,Literature:LIFE_WW_ACT_CB_L_v1_16072020,NoAnswer,100.0,93.4,,Unaware of passes or Go City
+116,Music:LIFE_WW_ACT_CB_L_v1_16072020,NoAnswer,100.0,62.5,,Aware of Go City
+119,Photography:LIFE_WW_ACT_CB_L_v1_16072020,NoAnswer,100.0,93.4,,Unaware of passes or Go City
+124,Sports:LIFE_WW_ACT_CB_L_v1_16072020,NoAnswer,100.0,80.3,,Unaware of passes or Go City
+125,Technology/Computers:LIFE_WW_ACT_CB_L_v1_16072020,NoAnswer,100.0,87.5,,Aware of passes
+127,Watching sports on TV:LIFE_WW_ACT_CB_L_v1_16072020,NoAnswer,100.0,79.4,,Unaware of passes or Go City
+133,Early education:LIFE_US_PAS_CB_L_v2_16072020,NoAnswer,100.0,93.4,,Unaware of passes or Go City
+140,Nature / wildlife preservation:LIFE_US_PAS_CB_L_v2_16072020,NoAnswer,100.0,85.5,,Unaware of passes or Go City
+146,Sexual orientation-based rights:LIFE_US_PAS_CB_L_v2_16072020,NoAnswer,100.0,94.8,,Unaware of passes or Go City
+147,University education:LIFE_US_PAS_CB_L_v2_16072020,NoAnswer,100.0,96.1,,Unaware of passes or Go City
+150,Family values:LIFE_US_PAS_CB_L_v2_16072020,NoAnswer,100.0,90.6,,Unaware of passes or Go City
+152,Protecting the Second Amendment (gun rights):LIFE_US_PAS_CB_L_v2_16072020,NoAnswer,100.0,95.6,,Unaware of passes or Go City
+154,Protecting the American way of life:LIFE_US_PAS_CB_L_v2_16072020,NoAnswer,100.0,96.5,,Unaware of passes or Go City
+160,Athletics:SPORT_WW_SA_CB_L_v1_08012021,NoAnswer,100.0,94.3,,Aware of Go City
+162,Ice Hockey:SPORT_WW_SA_CB_L_v1_08012021,NoAnswer,100.0,98.8,,Aware of passes
+163,Rowing:SPORT_WW_SA_CB_L_v1_08012021,NoAnswer,100.0,99.4,,Aware of passes
+165,Badminton:SPORT_WW_SA_CB_L_v1_08012021,NoAnswer,100.0,97.6,,Aware of passes
+168,Weightlifting/Gym:SPORT_WW_SA_CB_L_v1_08012021,NoAnswer,100.0,85.6,,Unaware of passes or Go City
+171,Audi:LIFE_US_CAR_CB_L_v1_04062021,NoAnswer,100.0,88.3,,Aware of passes
+173,Fiat:LIFE_US_CAR_CB_L_v1_04062021,NoAnswer,100.0,98.8,,Aware of Go City
+174,Ford:LIFE_US_CAR_CB_L_v1_04062021,NoAnswer,100.0,75.1,,Unaware of passes or Go City
+175,Hyundai:LIFE_US_CAR_CB_L_v1_04062021,NoAnswer,100.0,92.2,,Unaware of passes or Go City
+176,Jaguar:LIFE_US_CAR_CB_L_v1_04062021,NoAnswer,100.0,96.4,,Unaware of passes or Go City
+177,Lamborghini:LIFE_US_CAR_CB_L_v1_04062021,NoAnswer,100.0,96.0,,Aware of Go City
+178,Maserati:LIFE_US_CAR_CB_L_v1_04062021,NoAnswer,100.0,98.0,,Aware of Go City
+180,Mini:LIFE_US_CAR_CB_L_v1_04062021,NoAnswer,100.0,98.4,,Unaware of passes or Go City
+181,Nissan:LIFE_US_CAR_CB_L_v1_04062021,NoAnswer,100.0,86.2,,Unaware of passes or Go City
+182,Porsche:LIFE_US_CAR_CB_L_v1_04062021,NoAnswer,100.0,96.5,,Aware of passes
+183,Renault:LIFE_US_CAR_CB_L_v1_04062021,NoAnswer,100.0,99.9,,Aware of Go City
+184,Rover:LIFE_US_CAR_CB_L_v1_04062021,NoAnswer,100.0,98.8,,Aware of Go City
+185,Toyota:LIFE_US_CAR_CB_L_v1_04062021,NoAnswer,100.0,71.7,,Unaware of passes or Go City
+186,Volkswagen:LIFE_US_CAR_CB_L_v1_04062021,NoAnswer,100.0,94.1,,Unaware of passes or Go City
+187,Volvo:LIFE_US_CAR_CB_L_v1_04062021,NoAnswer,100.0,96.8,,Unaware of passes or Go City
+188,Ram Pickup:LIFE_US_CAR_CB_L_v1_04062021,NoAnswer,100.0,96.7,,Aware of passes
+189,Chevrolet:LIFE_US_CAR_CB_L_v1_04062021,NoAnswer,100.0,74.2,,Aware of Go City
+191,Jeep:LIFE_US_CAR_CB_L_v1_04062021,NoAnswer,100.0,83.5,,Unaware of passes or Go City
+193,Buick:LIFE_US_CAR_CB_L_v1_04062021,NoAnswer,100.0,93.8,,Aware of Go City
+194,Cadillac:LIFE_US_CAR_CB_L_v1_04062021,NoAnswer,100.0,89.7,,Aware of passes
+195,Chrysler:LIFE_US_CAR_CB_L_v1_04062021,NoAnswer,100.0,96.2,,Aware of passes
+196,Dodge:LIFE_US_CAR_CB_L_v1_04062021,NoAnswer,100.0,92.0,,Unaware of passes or Go City
+197,Mazda:LIFE_US_CAR_CB_L_v1_04062021,NoAnswer,100.0,94.6,,Unaware of passes or Go City
+198,Mitsubishi:LIFE_US_CAR_CB_L_v1_04062021,NoAnswer,100.0,97.7,,Unaware of passes or Go City
+201,Some other car maker:LIFE_US_CAR_CB_L_v1_04062021,NoAnswer,100.0,92.2,,Aware of Go City
+203,Sony:LIFE_WW_IT_CB_L_v1_16072020,NoAnswer,100.0,74.0,,Aware of Go City
+205,Panasonic:LIFE_WW_IT_CB_L_v1_16072020,NoAnswer,100.0,93.5,,Unaware of passes or Go City
+206,LG:LIFE_WW_IT_CB_L_v1_16072020,NoAnswer,100.0,72.6,,Unaware of passes or Go City
+208,Toshiba:LIFE_WW_IT_CB_L_v1_16072020,NoAnswer,100.0,94.9,,Unaware of passes or Go City
+209,Microsoft:LIFE_WW_IT_CB_L_v1_16072020,NoAnswer,100.0,65.4,,Unaware of passes or Go City
+210,JVC:LIFE_WW_IT_CB_L_v1_16072020,NoAnswer,100.0,96.6,,Unaware of passes or Go City
+211,BO:LIFE_WW_IT_CB_L_v1_16072020,NoAnswer,100.0,99.7,,Aware of Go City
+212,Sennheiser:LIFE_WW_IT_CB_L_v1_16072020,NoAnswer,100.0,98.9,,Unaware of passes or Go City
+213,Huawei:LIFE_WW_IT_CB_L_v1_16072020,NoAnswer,100.0,99.3,,Unaware of passes or Go City
+214,Philips:LIFE_WW_IT_CB_L_v1_16072020,NoAnswer,100.0,96.8,,Aware of Go City
+215,HP:LIFE_WW_IT_CB_L_v1_16072020,NoAnswer,100.0,64.3,,Unaware of passes or Go City
+216,Pioneer:LIFE_WW_IT_CB_L_v1_16072020,NoAnswer,100.0,96.5,,Aware of Go City
+217,Sharp:LIFE_WW_IT_CB_L_v1_16072020,NoAnswer,100.0,96.7,,Unaware of passes or Go City
+220,Other brand(s):LIFE_WW_IT_CB_L_v1_16072020,NoAnswer,100.0,96.2,,Aware of Go City
+233,Family life and harmony:LIFE_WW_LS_CB_L_v1_04062021,Family life and harmony,100.0,53.6,,Aware of passes
+234,Career and success:LIFE_WW_LS_CB_L_v1_04062021,NoAnswer,100.0,88.9,,Aware of passes
+235,Education and learning:LIFE_WW_LS_CB_L_v1_04062021,NoAnswer,100.0,89.1,,Aware of Go City
+237,Health and wellbeing:LIFE_WW_LS_CB_L_v1_04062021,NoAnswer,100.0,64.6,,Aware of Go City
+239,Creativity and art:LIFE_WW_LS_CB_L_v1_04062021,NoAnswer,100.0,84.0,,Aware of Go City
+240,Glamour and fashion:LIFE_WW_LS_CB_L_v1_04062021,NoAnswer,100.0,96.7,,Aware of passes
+241,Serving community and volunteering:LIFE_WW_LS_CB_L_v1_04062021,NoAnswer,100.0,94.3,,Aware of passes
+242,Excitement and risk:LIFE_WW_LS_CB_L_v1_04062021,NoAnswer,100.0,94.0,,Unaware of passes or Go City
+243,Family life and harmony:LIFE_WW_LS_CB_L_v1_04062021.1,NoAnswer,100.0,55.0,,Aware of Go City
+244,Career and success:LIFE_WW_LS_CB_L_v1_04062021.1,NoAnswer,100.0,85.3,,Aware of passes
+245,Education and learning:LIFE_WW_LS_CB_L_v1_04062021.1,NoAnswer,100.0,91.4,,Aware of passes
+246,Sport and fitness:LIFE_WW_LS_CB_L_v1_04062021.1,NoAnswer,100.0,91.8,,Aware of passes
+249,Creativity and art:LIFE_WW_LS_CB_L_v1_04062021.1,NoAnswer,100.0,85.6,,Aware of Go City
+250,Glamour and fashion:LIFE_WW_LS_CB_L_v1_04062021.1,NoAnswer,100.0,97.1,,Aware of Go City
+251,Serving community and volunteering:LIFE_WW_LS_CB_L_v1_04062021.1,NoAnswer,100.0,92.4,,Unaware of passes or Go City
+252,Excitement and risk:LIFE_WW_LS_CB_L_v1_04062021.1,NoAnswer,100.0,93.4,,Aware of passes
+253,Online news:MC_WW_MC_RK_S_v1_16072020,NoAnswer,100.0,72.5,,Unaware of passes or Go City
+255,TV:MC_WW_MC_RK_S_v1_16072020,TV,100.0,55.7,,Unaware of passes or Go City
+257,Newspapers:MC_WW_MC_RK_S_v1_16072020,NoAnswer,100.0,92.6,,Aware of Go City
+258,"Video on demand (i.e. Netflix, Amazon Prime, Disney+, etc.):MC_WW_MC_RK_S_v1_16072020",NoAnswer,100.0,69.6,,Unaware of passes or Go City
+273,AL Jazeera:MC_US_TV_CB_L_v3_17072020,NoAnswer,100.0,55.6,,Unaware of passes or Go City
+274,BBC World News:MC_US_TV_CB_L_v3_17072020,NoAnswer,100.0,54.4,,Unaware of passes or Go City
+275,Bloomberg TV:MC_US_TV_CB_L_v3_17072020,NoAnswer,100.0,55.2,,Unaware of passes or Go City
+276,CNBC:MC_US_TV_CB_L_v3_17072020,NoAnswer,100.0,53.3,,Aware of passes
+277,CNN:MC_US_TV_CB_L_v3_17072020,NoAnswer,100.0,47.7,,Unaware of passes or Go City
+278,Discovery:MC_US_TV_CB_L_v3_17072020,NoAnswer,100.0,48.6,,Unaware of passes or Go City
+279,Fox News:MC_US_TV_CB_L_v3_17072020,NoAnswer,100.0,47.6,,Unaware of passes or Go City
+280,HLN:MC_US_TV_CB_L_v3_17072020,NoAnswer,100.0,55.3,,Unaware of passes or Go City
+281,MSNBC:MC_US_TV_CB_L_v3_17072020,NoAnswer,100.0,52.4,,Unaware of passes or Go City
+282,National Geographic:MC_US_TV_CB_L_v3_17072020,NoAnswer,100.0,49.0,,Unaware of passes or Go City
+283,Sky News:MC_US_TV_CB_L_v3_17072020,NoAnswer,100.0,55.5,,Unaware of passes or Go City
+284,CBS:MC_US_TV_CB_L_v3_17072020,not shown,100.0,44.3,,Aware of Go City
+285,ABC:MC_US_TV_CB_L_v3_17072020,not shown,100.0,44.3,,Aware of Go City
+286,NBC:MC_US_TV_CB_L_v3_17072020,not shown,100.0,44.3,,Aware of Go City
+287,CW:MC_US_TV_CB_L_v3_17072020,NoAnswer,100.0,52.2,,Unaware of passes or Go City
+288,Other TV channel(s):MC_US_TV_CB_L_v3_17072020,NoAnswer,100.0,47.1,,Unaware of passes or Go City
+289,Huffington Post:MC_US_NP_CB_L_v1_16072020_,not shown,100.0,65.8,,Unaware of passes or Go City
+290,CNN:MC_US_NP_CB_L_v1_16072020_,not shown,100.0,65.8,,Unaware of passes or Go City
+291,The New York Times:MC_US_NP_CB_L_v1_16072020_,not shown,100.0,65.8,,Unaware of passes or Go City
+292,Fox News:MC_US_NP_CB_L_v1_16072020_,not shown,100.0,65.8,,Unaware of passes or Go City
+293,NBC News:MC_US_NP_CB_L_v1_16072020_,not shown,100.0,65.8,,Unaware of passes or Go City
+294,Mail Online:MC_US_NP_CB_L_v1_16072020_,not shown,100.0,65.8,,Unaware of passes or Go City
+300,"I like vibrant, diverse art; I like chat shows, reality TV, and romantic comedies:AE_WW_AE_CB_S_v1_07012021",NoAnswer,100.0,75.9,,Unaware of passes or Go City
+302,"I like reflective, calming art; I like indie movies and classical music. I like classical, jazz, poetry, foreign movies, indie movies, art books, etc:AE_WW_AE_CB_S_v1_07012021",NoAnswer,100.0,86.2,,Unaware of passes or Go City
+304,"I like sci-fi, fantasy, action, crime drama, and  mystery:AE_WW_AE_CB_S_v1_07012021","I like sci-fi, fantasy, action, crime drama, and  mystery",100.0,53.1,,Aware of passes
+307,Natural and outdoors:AE_WW_CV_CB_S_v1_22072020,NoAnswer,100.0,60.5,,Unaware of passes or Go City
+309,Reliable and orderly:AE_WW_CV_CB_S_v1_22072020,NoAnswer,100.0,86.4,,Aware of Go City
+310,Rugged and adventurous:AE_WW_CV_CB_S_v1_22072020,NoAnswer,100.0,91.6,,Unaware of passes or Go City
+311,Calming and mellow:AE_WW_CV_CB_S_v1_22072020,NoAnswer,100.0,61.8,,Aware of Go City
+313,AE_WW_AP_IM_P2_22072020,Minimalist,100.0,62.3,,Aware of passes
+314,AE_WW_AP_IM_P3_22072020,Easy to view,100.0,84.4,,Unaware of passes or Go City
+315,AE_WW_AP_IM_P4_22072020,Realistic,100.0,86.9,,Aware of Go City
+318,AE_WW_AP_IM_P1_08012021,Casual,100.0,70.2,,Unaware of passes or Go City
+320,AE_WW_AP_IM_P3_08012021,Simple,100.0,96.1,,Aware of passes
+321,"Peace: Having equality, harmony, eco-friendliness, and social justice, and being wise:PSY_WW_VALUES_CB_S_SEG_16072020",NoAnswer,100.0,60.3,,Aware of passes
+323,Duty: Honouring elders and being polite and self-disciplined:PSY_WW_VALUES_CB_S_SEG_16072020,NoAnswer,100.0,82.8,,Aware of Go City
+324,"Tradition: Respecting tradition, being humble, and being devout and moderate:PSY_WW_VALUES_CB_S_SEG_16072020",NoAnswer,100.0,71.1,,Aware of Go City
+325,"Order: Having a society with order, cleanliness, solidarity, and security:PSY_WW_VALUES_CB_S_SEG_16072020",NoAnswer,100.0,77.8,,Unaware of passes or Go City
+326,"Power: Being wealthy, authoritative, powerful, and respected:PSY_WW_VALUES_CB_S_SEG_16072020",NoAnswer,100.0,95.4,,Aware of passes
+327,"Success: Being smart, capable, ambitious, and influential:PSY_WW_VALUES_CB_S_SEG_16072020",NoAnswer,100.0,83.6,,Unaware of passes or Go City
+328,"Fun: Having pleasure, enjoying life, and being self-indulgent:PSY_WW_VALUES_CB_S_SEG_16072020",NoAnswer,100.0,62.7,,Aware of Go City
+329,"Stimulation: Having a life that is varied, daring, and exciting:PSY_WW_VALUES_CB_S_SEG_16072020",NoAnswer,100.0,91.1,,Unaware of passes or Go City
+330,"Independence: Being free to choose my own goals, and pursue my own interests:PSY_WW_VALUES_CB_S_SEG_16072020",NoAnswer,100.0,58.7,,Unaware of passes or Go City
+331,Protecting and cherishing other people; being caring and not doing harm to others:PSY_WW_MORALS_CB_S_SEG_11082021,Harm,100.0,62.8,,Aware of passes
+332,Seeing that things are done justly and fairly; being equitable and not cheating:PSY_WW_MORALS_CB_S_SEG_11082021,NoAnswer,100.0,52.6,,Aware of Go City
+333,"Standing with your group, family, or country; being loyal and not betraying people:PSY_WW_MORALS_CB_S_SEG_11082021",NoAnswer,100.0,65.0,,Aware of Go City
+334,Honoring tradition and respecting authority; being strong and not being subversive:PSY_WW_MORALS_CB_S_SEG_11082021,NoAnswer,100.0,76.0,,Unaware of passes or Go City
+335,Not breaking taboos or doing disgusting things; following natural law and upholding standards of decency:PSY_WW_MORALS_CB_S_SEG_11082021,NoAnswer,100.0,87.4,,Aware of Go City
+337,"Someone who doesn’t necessarily work to a schedule tends to be flexible, but disorganized and often forgets to put things back in their proper place|Someone who likes to plan things likes to tidy up pays attention to details but can be rigid or inflexible:PSY_WW_OCEANFIVEITEM_RG_S_SEG_24072020",four,100.0,36.8,,Unaware of passes or Go City
+338,"Someone who is a reserved, private person, who doesn’t like to draw attention to themselves and can be shy around strangers|Someone who is talkative, outgoing, is comfortable around people but could be noisy and attention-seeking:PSY_WW_OCEANFIVEITEM_RG_S_SEG_24072020",two,100.0,31.3,,Aware of passes
+339,"Someone who is forthright tends to be critical and find fault with others and doesn’t suffer fools gladly|Someone who is generally trusting and forgiving is interested in people, but can be taken for granted and finds it difficult to say no:PSY_WW_OCEANFIVEITEM_RG_S_SEG_24072020",four,100.0,39.2,,Aware of passes
+340,"Someone who is relaxed, unemotional, rarely gets irritated, and seldom feels blue|Someone who is sensitive and excitable, and can be tense:PSY_WW_OCEANFIVEITEM_RG_S_SEG_24072020",four,100.0,28.7,,Aware of passes
+341,A stable and predictable life with basic needs met:PSY_WW_HOPES_CB_S_SEG_16072020,NoAnswer,100.0,58.2,,Aware of Go City
+343,Being free to be me:PSY_WW_HOPES_CB_S_SEG_16072020,NoAnswer,100.0,65.9,,Aware of passes
+346,Nothing; life is hopeless:PSY_WW_HOPES_CB_S_SEG_16072020,NoAnswer,100.0,97.2,,Aware of Go City
+347,The end of life as I know it today:PSY_WW_FEARS_CB_S_SEG_16072020,NoAnswer,100.0,77.6,,Aware of Go City
+348,Being injured or attacked:PSY_WW_FEARS_CB_S_SEG_16072020,NoAnswer,100.0,78.1,,Unaware of passes or Go City
+349,Feeling trapped and helpless:PSY_WW_FEARS_CB_S_SEG_16072020,NoAnswer,100.0,72.8,,Unaware of passes or Go City
+350,Being alone or losing one’s community:PSY_WW_FEARS_CB_S_SEG_16072020,NoAnswer,100.0,77.4,,Unaware of passes or Go City
+351,Feeling ashamed or worthless:PSY_WW_FEARS_CB_S_SEG_16072020,NoAnswer,100.0,84.9,,Aware of passes
+352,Not having enough to survive or live with dignity:PSY_WW_FEARS_CB_S_SEG_16072020,NoAnswer,100.0,61.4,,Aware of Go City
+353,I am not afraid of anything:PSY_WW_FEARS_CB_S_SEG_16072020,NoAnswer,100.0,86.1,,Aware of Go City
+355,The one that looks the best:PSY_WW_CIALDINIBRANDS_CB_S_SEG_24072020,NoAnswer,100.0,84.9,,Aware of passes
+356,"The one that matches my identity, or that people like me buy:PSY_WW_CIALDINIBRANDS_CB_S_SEG_24072020",NoAnswer,100.0,76.1,,Aware of Go City
+358,The one from a brand that has sent me a free gift in the past:PSY_WW_CIALDINIBRANDS_CB_S_SEG_24072020,NoAnswer,100.0,94.0,,Aware of passes
+359,The one that is most exclusive and unique:PSY_WW_CIALDINIBRANDS_CB_S_SEG_24072020,NoAnswer,100.0,88.0,,Aware of passes
+360,The one that is recommended by experts:PSY_WW_CIALDINIBRANDS_CB_S_SEG_24072020,NoAnswer,100.0,70.6,,Unaware of passes or Go City
+364,Ruler:PSY_WW_ARCHETYPES_CB_S_SEG_07012021,NoAnswer,100.0,92.9,,Aware of passes
+365,Artist:PSY_WW_ARCHETYPES_CB_S_SEG_07012021,NoAnswer,100.0,81.6,,Aware of Go City
+366,Caregiver:PSY_WW_ARCHETYPES_CB_S_SEG_07012021,NoAnswer,100.0,72.0,,Unaware of passes or Go City
+367,Magician:PSY_WW_ARCHETYPES_CB_S_SEG_07012021,NoAnswer,100.0,88.8,,Aware of Go City
+368,Hero:PSY_WW_ARCHETYPES_CB_S_SEG_07012021,NoAnswer,100.0,77.4,,Unaware of passes or Go City
+369,Outlaw:PSY_WW_ARCHETYPES_CB_S_SEG_07012021,NoAnswer,100.0,86.4,,Aware of Go City
+370,Lover:PSY_WW_ARCHETYPES_CB_S_SEG_07012021,NoAnswer,100.0,70.5,,Aware of passes
+371,Jester:PSY_WW_ARCHETYPES_CB_S_SEG_07012021,NoAnswer,100.0,94.1,,Aware of passes
+372,Everyman:PSY_WW_ARCHETYPES_CB_S_SEG_07012021,NoAnswer,100.0,87.7,,Aware of Go City
+374,"Fearful, including scared, anxious, insecure, weak, rejected, or threatened:PSY_WW_FEELINGS_IMS_S_SEG_13042021",NoAnswer,100.0,77.2,,Aware of Go City
+375,"Angry, including let down, humiliated, bitter, aggressive, frustrated, critical:PSY_WW_FEELINGS_IMS_S_SEG_13042021",NoAnswer,100.0,88.4,,Unaware of passes or Go City
+376,"Disgusted, including repelled, nauseated, revolted, awful, disapproving, disappointed:PSY_WW_FEELINGS_IMS_S_SEG_13042021",NoAnswer,100.0,89.6,,Aware of Go City
+377,"Sad, including hurt, depressed, guilty, despairing, vulnerable, or lonely:PSY_WW_FEELINGS_IMS_S_SEG_13042021",NoAnswer,100.0,75.1,,Aware of Go City
+378,"Happy, including playful, content, interested, accepting,  peaceful, trusting or optimistic:PSY_WW_FEELINGS_IMS_S_SEG_13042021",NoAnswer,100.0,50.7,,Unaware of passes or Go City
+379,"Surprised, including startled, confused, amazed:PSY_WW_FEELINGS_IMS_S_SEG_13042021",NoAnswer,100.0,88.0,,Aware of passes
+380,"Deflated, including bored, busy, stressed or tired:PSY_WW_FEELINGS_IMS_S_SEG_13042021",NoAnswer,100.0,66.7,,Unaware of passes or Go City
+383,DEM_WW_MS_RB_L_v1_16072020,Married,100.0,40.0,,Aware of Go City
+391,SOC_WW_HH_RB_L_v1_15072020,Owned house,100.0,53.0,,Aware of passes
+395,REGION,South,100.0,43.1,,Unaware of passes or Go City

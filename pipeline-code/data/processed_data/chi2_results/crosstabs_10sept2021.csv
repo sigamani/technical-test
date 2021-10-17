@@ -1,0 +1,7345 @@
+, , 
+ ,Crosstabs,N = 1183
+ , ,
+ , 
+DEM_WW_AGE_DM_L_v1_14072020, 
+,cluster1,cluster2
+65 and above,12.7,23.4
+55-64,17.5,20.8
+45-54,20.6,18.2
+35-44,19.8,17.3
+25-34,21.4,14.7
+18-24,7.9,5.7
+Significance,cluster1,cluster2
+65 and above,.,.
+55-64,---,+++
+45-54,.,.
+35-44,.,.
+25-34,.,.
+18-24,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+DEM_WW_GENDER_RB_L_v3_14072020, 
+,cluster1,cluster2
+Female,58.7,63.3
+Male,41.3,36.7
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+DEM_USA_STATE_DM_L_v1_27052021, 
+,cluster1,cluster2
+Florida,4.2,8.0
+California,7.7,6.4
+Texas,7.0,6.1
+Pennsylvania,2.1,5.6
+New York,5.6,5.1
+North Carolina,5.6,4.8
+Ohio,2.8,4.8
+Illinois,2.1,4.3
+Michigan,2.8,3.8
+Georgia,2.1,3.1
+New Jersey,6.3,2.3
+Tennessee,0.7,3.1
+Virginia,2.8,2.6
+South Carolina,0.7,2.7
+Indiana,2.8,2.3
+Arizona,2.1,2.2
+Massachusetts,2.1,2.1
+Washington,2.8,1.9
+Kentucky,1.4,2.0
+Wisconsin,1.4,1.9
+Connecticut,2.8,1.7
+Arkansas,0.7,1.9
+Missouri,2.8,1.5
+Maryland,0.7,1.8
+Oklahoma,1.4,1.7
+Minnesota,0.7,1.7
+Colorado,4.2,1.1
+Oregon,1.4,1.2
+Alabama,2.1,1.0
+West Virginia,1.4,1.1
+Kansas,1.4,1.0
+Louisiana,0.7,1.1
+Nevada,1.4,0.9
+Mississippi,1.4,0.8
+Nebraska,0.7,0.9
+Maine,0.7,0.7
+Rhode Island,0.7,0.6
+New Mexico,0.7,0.6
+Hawaii,0.7,0.5
+Utah,0.7,0.5
+North Dakota,0.7,0.4
+Montana,0.7,0.3
+Alaska,0.7,0.3
+Iowa,0.7,0.3
+Delaware,0.7,0.2
+Wyoming,0.7,0.3
+District of Columbia,0.7,0.3
+Idaho,0.7,0.2
+New Hampshire,0.7,0.2
+Vermont,0.7,0.1
+American Samoa,0.7,0.1
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Getting travel insurance:AIDA_WW_CAW_CB_07062021, 
+,cluster1,cluster2
+Getting travel insurance,55.6,60.6
+NoAnswer,44.4,39.4
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+"Getting a pass that allows entry to multiple attractions, sightseeing places, and museums:AIDA_WW_CAW_CB_07062021", 
+,cluster1,cluster2
+"Getting a pass that allows entry to multiple attractions, sightseeing places, and museums",100.0,100.0
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Renting a car:AIDA_WW_CAW_CB_07062021, 
+,cluster1,cluster2
+Renting a car,78.6,76.0
+NoAnswer,21.4,24.0
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Hiring a tour guide:AIDA_WW_CAW_CB_07062021, 
+,cluster1,cluster2
+Hiring a tour guide,57.1,59.7
+NoAnswer,42.9,40.3
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Finding a 5* hotel:AIDA_WW_CAW_CB_07062021, 
+,cluster1,cluster2
+Finding a 5* hotel,69.0,68.7
+NoAnswer,31.0,31.3
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Finding free accommodation via couch surfing website:AIDA_WW_CAW_CB_07062021, 
+,cluster1,cluster2
+NoAnswer,81.7,84.2
+Finding free accommodation via couch surfing website,18.3,15.8
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Buying a weekly ticket for public transport:AIDA_WW_CAW_CB_07062021, 
+,cluster1,cluster2
+Buying a weekly ticket for public transport,50.0,55.6
+NoAnswer,50.0,44.4
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Getting free advice/maps from the local tourist organization:AIDA_WW_CAW_CB_07062021, 
+,cluster1,cluster2
+Getting free advice/maps from the local tourist organization,77.8,73.3
+NoAnswer,22.2,26.7
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Renting a bike from the street (public bicycle scheme):AIDA_WW_CAW_CB_07062021, 
+,cluster1,cluster2
+NoAnswer,55.6,56.5
+Renting a bike from the street (public bicycle scheme),44.4,43.5
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Walking into the mayor’s office for a quick catch up:AIDA_WW_CAW_CB_07062021, 
+,cluster1,cluster2
+NoAnswer,100.0,100.0
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+ATR_01, 
+,cluster1,cluster2
+No,100.0,100.0
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Go City:AIDA_WW_ABA_IMS_07062021, 
+,cluster1,cluster2
+NoAnswer,0.8,99.9
+Go City,99.2,0.1
+Significance,cluster1,cluster2
+NoAnswer,---,+++
+Go City,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+CityPass:AIDA_WW_ABA_IMS_07062021, 
+,cluster1,cluster2
+NoAnswer,38.1,69.4
+CityPass,61.9,30.6
+Significance,cluster1,cluster2
+NoAnswer,---,+++
+CityPass,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+The Sightseeing Pass:AIDA_WW_ABA_IMS_07062021, 
+,cluster1,cluster2
+NoAnswer,77.0,92.1
+The Sightseeing Pass,23.0,7.9
+Significance,cluster1,cluster2
+NoAnswer,---,+++
+The Sightseeing Pass,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+iVenture Card:AIDA_WW_ABA_IMS_07062021, 
+,cluster1,cluster2
+NoAnswer,87.3,94.9
+iVenture Card,12.7,5.1
+Significance,cluster1,cluster2
+NoAnswer,---,+++
+iVenture Card,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Turbopass:AIDA_WW_ABA_IMS_07062021, 
+,cluster1,cluster2
+NoAnswer,77.8,91.2
+Turbopass,22.2,8.8
+Significance,cluster1,cluster2
+NoAnswer,---,+++
+Turbopass,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+The New York Pass:AIDA_WW_ABA_IMS_07062021, 
+,cluster1,cluster2
+NoAnswer,69.8,88.8
+The New York Pass,30.2,11.2
+Significance,cluster1,cluster2
+NoAnswer,---,+++
+The New York Pass,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Hopper Pass:AIDA_WW_ABA_IMS_07062021, 
+,cluster1,cluster2
+NoAnswer,100.0,100.0
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Tour Pass:AIDA_WW_ABA_IMS_07062021, 
+,cluster1,cluster2
+NoAnswer,98.4,99.3
+Tour Pass,1.6,0.7
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Zipper Pass:AIDA_WW_ABA_IMS_07062021, 
+,cluster1,cluster2
+NoAnswer,98.4,99.2
+Zipper Pass,1.6,0.8
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Go Las Vegas:AIDA_WW_ABA_IMS_07062021, 
+,cluster1,cluster2
+NoAnswer,100.0,100.0
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Go Oahu:AIDA_WW_ABA_IMS_07062021, 
+,cluster1,cluster2
+NoAnswer,100.0,100.0
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+AIDA_WW_AWS_RB_14062021, 
+,cluster1,cluster2
+not shown,0.8,99.2
+Google search,37.0,0.1
+Travel website/app,16.5,0.1
+Social media,16.5,0.1
+From a friend/family member,11.8,0.1
+Not sure,8.7,0.1
+Other,3.1,0.1
+Email,2.4,0.1
+Bing search,2.4,0.1
+Non-travel website/app,0.8,0.1
+Significance,cluster1,cluster2
+not shown,---,+++
+Google search,+++,---
+Travel website/app,+++,---
+Social media,+++,---
+From a friend/family member,+++,---
+Not sure,+++,---
+Other,+++,---
+Email,+++,---
+Bing search,+++,---
+Non-travel website/app,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Other:AIDA_WW_AWS_RB_14062021, 
+,cluster1,cluster2
+not shown,0.8,99.5
+NoAnswer,96.1,0.1
+A decal in a tourist spot,0.8,0.1
+Costco,0.8,0.1
+Billboard,0.8,0.1
+TV,0.8,0.1
+Significance,cluster1,cluster2
+not shown,---,+++
+NoAnswer,+++,---
+A decal in a tourist spot,+++,---
+Costco,+++,---
+Billboard,+++,---
+TV,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Go City :AIDA_WW_BEX_CB_16082021, 
+,cluster1,cluster2
+NoAnswer,58.3,48.0
+not shown,0.8,51.9
+Go City,40.9,0.1
+Significance,cluster1,cluster2
+NoAnswer,+++,---
+not shown,---,+++
+Go City,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+City Pass :AIDA_WW_BEX_CB_16082021, 
+,cluster1,cluster2
+not shown,0.8,51.9
+NoAnswer,64.6,35.7
+City Pass,34.6,12.4
+Significance,cluster1,cluster2
+not shown,---,+++
+NoAnswer,+++,---
+City Pass,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+The Sightseeing Pass :AIDA_WW_BEX_CB_16082021, 
+,cluster1,cluster2
+NoAnswer,92.1,45.0
+not shown,0.8,51.9
+The Sightseeing Pass,7.1,3.0
+Significance,cluster1,cluster2
+NoAnswer,+++,---
+not shown,---,+++
+The Sightseeing Pass,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+iVenture Card :AIDA_WW_BEX_CB_16082021, 
+,cluster1,cluster2
+NoAnswer,95.3,46.9
+not shown,0.8,51.9
+iVenture Card,3.9,1.1
+Significance,cluster1,cluster2
+NoAnswer,+++,---
+not shown,---,+++
+iVenture Card,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Turbopass :AIDA_WW_BEX_CB_16082021, 
+,cluster1,cluster2
+NoAnswer,96.9,46.5
+not shown,0.8,51.9
+Turbopass,2.4,1.6
+Significance,cluster1,cluster2
+NoAnswer,+++,---
+not shown,.,.
+Turbopass,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+The New York Pass :AIDA_WW_BEX_CB_16082021, 
+,cluster1,cluster2
+NoAnswer,92.1,43.8
+not shown,0.8,51.9
+The New York Pass,7.1,4.3
+Significance,cluster1,cluster2
+NoAnswer,+++,---
+not shown,.,.
+The New York Pass,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Go City:AIDA_WW_BSAT_RBG_07062021, 
+,cluster1,cluster2
+NoAnswer,51.6,83.3
+not shown,7.1,16.4
+Satisfied,20.6,0.1
+Very satisfied,18.3,0.1
+Neither satisfied nor dissatisfied,2.4,0.1
+Significance,cluster1,cluster2
+NoAnswer,---,+++
+not shown,---,+++
+Satisfied,+++,---
+Very satisfied,+++,---
+Neither satisfied nor dissatisfied,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+CityPass:AIDA_WW_BSAT_RBG_07062021, 
+,cluster1,cluster2
+NoAnswer,57.5,71.1
+not shown,7.1,16.5
+Very satisfied,19.7,5.2
+Satisfied,14.2,5.7
+Neither satisfied nor dissatisfied,0.8,1.4
+Very dissatisfied,0.8,0.1
+Significance,cluster1,cluster2
+NoAnswer,.,.
+not shown,---,+++
+Very satisfied,+++,---
+Satisfied,.,.
+Neither satisfied nor dissatisfied,---,+++
+Very dissatisfied,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+The Sightseeing Pass:AIDA_WW_BSAT_RBG_07062021, 
+,cluster1,cluster2
+NoAnswer,85.0,80.5
+not shown,7.1,16.5
+Very satisfied,3.9,1.5
+Satisfied,3.1,1.1
+Neither satisfied nor dissatisfied,0.8,0.4
+Significance,cluster1,cluster2
+NoAnswer,.,.
+not shown,.,.
+Very satisfied,.,.
+Satisfied,+++,---
+Neither satisfied nor dissatisfied,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+iVentureCard:AIDA_WW_BSAT_RBG_07062021, 
+,cluster1,cluster2
+NoAnswer,88.9,82.3
+not shown,7.1,16.4
+Satisfied,1.6,0.6
+Very satisfied,1.6,0.6
+Neither satisfied nor dissatisfied,0.8,0.1
+Significance,cluster1,cluster2
+NoAnswer,+++,---
+not shown,.,.
+Satisfied,.,.
+Very satisfied,.,.
+Neither satisfied nor dissatisfied,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Turbopass:AIDA_WW_BSAT_RBG_07062021, 
+,cluster1,cluster2
+NoAnswer,89.1,81.9
+not shown,7.0,16.5
+Satisfied,0.8,1.0
+Very satisfied,1.6,0.3
+Neither satisfied nor dissatisfied,0.8,0.2
+Dissatisfied,0.8,0.1
+Significance,cluster1,cluster2
+NoAnswer,.,.
+not shown,.,.
+Satisfied,---,+++
+Very satisfied,.,.
+Neither satisfied nor dissatisfied,+++,---
+Dissatisfied,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+The New York Pass:AIDA_WW_BSAT_RBG_07062021, 
+,cluster1,cluster2
+NoAnswer,85.0,79.3
+not shown,7.1,16.5
+Very satisfied,4.7,2.4
+Satisfied,2.4,1.6
+Neither satisfied nor dissatisfied,0.8,0.3
+Significance,cluster1,cluster2
+NoAnswer,.,.
+not shown,.,.
+Very satisfied,.,.
+Satisfied,.,.
+Neither satisfied nor dissatisfied,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Go City:AIDA_WW_BCON_RBG_07062021, 
+,cluster1,cluster2
+not shown,0.8,51.6
+NoAnswer,0.8,47.9
+Very likely,44.5,0.1
+Somewhat likely,36.7,0.1
+Neither likely nor unlikely,14.8,0.1
+Somewhat unlikely,1.6,0.1
+Very unlikely,0.8,0.1
+Significance,cluster1,cluster2
+not shown,---,+++
+NoAnswer,---,+++
+Very likely,+++,---
+Somewhat likely,+++,---
+Neither likely nor unlikely,+++,---
+Somewhat unlikely,+++,---
+Very unlikely,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+CityPass:AIDA_WW_BCON_RBG_07062021, 
+,cluster1,cluster2
+not shown,0.8,51.8
+NoAnswer,37.2,17.6
+Somewhat likely,24.0,12.9
+Very likely,27.1,9.4
+Neither likely nor unlikely,9.3,7.3
+Somewhat unlikely,0.8,0.8
+Very unlikely,0.8,0.3
+Significance,cluster1,cluster2
+not shown,.,.
+NoAnswer,+++,---
+Somewhat likely,+++,---
+Very likely,.,.
+Neither likely nor unlikely,+++,---
+Somewhat unlikely,.,.
+Very unlikely,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+The Sightseeing Pass:AIDA_WW_BCON_RBG_07062021, 
+,cluster1,cluster2
+not shown,0.8,51.8
+NoAnswer,76.4,40.2
+Very likely,13.4,3.1
+Somewhat likely,7.1,3.6
+Neither likely nor unlikely,2.4,1.2
+Significance,cluster1,cluster2
+not shown,.,.
+NoAnswer,+++,---
+Very likely,.,.
+Somewhat likely,+++,---
+Neither likely nor unlikely,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+iVenture Card:AIDA_WW_BCON_RBG_07062021, 
+,cluster1,cluster2
+NoAnswer,85.3,43.0
+not shown,0.8,51.8
+Somewhat likely,4.7,2.1
+Very likely,4.7,1.5
+Neither likely nor unlikely,3.1,1.1
+Very unlikely,0.8,0.3
+Somewhat unlikely,0.8,0.1
+Significance,cluster1,cluster2
+NoAnswer,.,.
+not shown,---,+++
+Somewhat likely,.,.
+Very likely,.,.
+Neither likely nor unlikely,+++,---
+Very unlikely,.,.
+Somewhat unlikely,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Turbopass:AIDA_WW_BCON_RBG_07062021, 
+,cluster1,cluster2
+not shown,0.8,51.8
+NoAnswer,76.0,39.4
+Somewhat likely,11.6,4.1
+Very likely,5.4,2.1
+Neither likely nor unlikely,4.7,2.1
+Somewhat unlikely,0.8,0.4
+Very unlikely,0.8,0.2
+Significance,cluster1,cluster2
+not shown,.,.
+NoAnswer,+++,---
+Somewhat likely,+++,---
+Very likely,.,.
+Neither likely nor unlikely,+++,---
+Somewhat unlikely,.,.
+Very unlikely,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+The New York Pass:AIDA_WW_BCON_RBG_07062021, 
+,cluster1,cluster2
+not shown,0.8,51.8
+NoAnswer,68.2,37.0
+Somewhat likely,12.4,4.2
+Very likely,13.2,4.0
+Neither likely nor unlikely,3.9,2.0
+Somewhat unlikely,0.8,0.6
+Very unlikely,0.8,0.5
+Significance,cluster1,cluster2
+not shown,.,.
+NoAnswer,+++,---
+Somewhat likely,+++,---
+Very likely,.,.
+Neither likely nor unlikely,+++,---
+Somewhat unlikely,.,.
+Very unlikely,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+AIDA_WW_PURCHI_RB_07062021, 
+,cluster1,cluster2
+I am not sure / I will decide on the spot,33.3,66.8
+None. I am very unlikely to buy a leisure pass,4.0,12.9
+Citypass,15.1,9.4
+The New York Pass,7.1,3.4
+The Sightseeing Pass,4.0,3.1
+Go City,29.4,0.1
+Turbopass,2.4,1.7
+not shown,2.4,1.4
+iVenture Card,2.4,1.2
+Significance,cluster1,cluster2
+I am not sure / I will decide on the spot,---,+++
+None. I am very unlikely to buy a leisure pass,---,+++
+Citypass,+++,---
+The New York Pass,+++,---
+The Sightseeing Pass,+++,---
+Go City,.,.
+Turbopass,.,.
+not shown,.,.
+iVenture Card,.,.
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+NPS_WW_LS_s_v1_14012021, 
+,cluster1,cluster2
+not shown,58.7,99.6
+Promoters,22.2,0.1
+Pasives,11.1,0.1
+Passives,4.8,0.1
+Detractors,3.2,0.1
+Significance,cluster1,cluster2
+not shown,---,+++
+Promoters,+++,---
+Pasives,+++,---
+Passives,+++,---
+Detractors,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+I own a valid passport:SBEH_US_PASS_CB_07062021, 
+,cluster1,cluster2
+NoAnswer,42.1,57.8
+I own a valid passport,57.9,42.2
+Significance,cluster1,cluster2
+NoAnswer,---,+++
+I own a valid passport,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+I plan a leisure trip within the USA in the next two years:SBEH_US_PASS_CB_07062021, 
+,cluster1,cluster2
+I plan a leisure trip within the USA in the next two years,82.5,78.0
+NoAnswer,17.5,22.0
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+I plan a leisure trip abroad in the next two years:SBEH_US_PASS_CB_07062021, 
+,cluster1,cluster2
+NoAnswer,54.8,72.1
+I plan a leisure trip abroad in the next two years,45.2,27.9
+Significance,cluster1,cluster2
+NoAnswer,---,+++
+I plan a leisure trip abroad in the next two years,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Boston:SBEH_US_TRINTUS_CB_14062021., 
+,cluster1,cluster2
+NoAnswer,69.8,72.8
+not shown,17.5,22.0
+Boston,12.7,5.1
+Significance,cluster1,cluster2
+NoAnswer,---,+++
+not shown,.,.
+Boston,.,.
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Chicago:SBEH_US_TRINTUS_CB_14062021., 
+,cluster1,cluster2
+NoAnswer,71.4,71.5
+not shown,17.5,22.0
+Chicago,11.1,6.4
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Las Vegas:SBEH_US_TRINTUS_CB_14062021., 
+,cluster1,cluster2
+NoAnswer,62.7,64.7
+not shown,17.5,22.0
+Las Vegas,19.8,13.2
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Los Angeles:SBEH_US_TRINTUS_CB_14062021., 
+,cluster1,cluster2
+NoAnswer,65.9,72.5
+not shown,17.5,22.0
+Los Angeles,16.7,5.5
+Significance,cluster1,cluster2
+NoAnswer,---,+++
+not shown,.,.
+Los Angeles,.,.
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Miami:SBEH_US_TRINTUS_CB_14062021., 
+,cluster1,cluster2
+NoAnswer,74.6,71.5
+not shown,17.5,22.0
+Miami,7.9,6.4
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+New Orleans:SBEH_US_TRINTUS_CB_14062021., 
+,cluster1,cluster2
+NoAnswer,75.4,71.7
+not shown,17.5,22.0
+New Orleans,7.1,6.2
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+New York:SBEH_US_TRINTUS_CB_14062021., 
+,cluster1,cluster2
+NoAnswer,50.8,63.1
+not shown,17.5,22.0
+New York,31.7,14.9
+Significance,cluster1,cluster2
+NoAnswer,---,+++
+not shown,---,+++
+New York,.,.
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Oahu:SBEH_US_TRINTUS_CB_14062021., 
+,cluster1,cluster2
+NoAnswer,81.7,75.3
+not shown,17.5,22.0
+Oahu,0.8,2.6
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Orlando:SBEH_US_TRINTUS_CB_14062021., 
+,cluster1,cluster2
+NoAnswer,64.3,66.9
+not shown,17.5,22.0
+Orlando,18.3,11.1
+Significance,cluster1,cluster2
+NoAnswer,.,.
+not shown,---,+++
+Orlando,.,.
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Philadelphia:SBEH_US_TRINTUS_CB_14062021., 
+,cluster1,cluster2
+NoAnswer,77.0,74.4
+not shown,17.5,22.0
+Philadelphia,5.6,3.6
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+San Antonio:SBEH_US_TRINTUS_CB_14062021., 
+,cluster1,cluster2
+NoAnswer,77.0,74.5
+not shown,17.5,22.0
+San Antonio,5.6,3.5
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+San Diego:SBEH_US_TRINTUS_CB_14062021., 
+,cluster1,cluster2
+NoAnswer,73.0,74.4
+not shown,17.5,22.0
+San Diego,9.5,3.6
+Significance,cluster1,cluster2
+NoAnswer,.,.
+not shown,---,+++
+San Diego,.,.
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+San Francisco:SBEH_US_TRINTUS_CB_14062021., 
+,cluster1,cluster2
+NoAnswer,77.0,71.4
+not shown,17.5,22.0
+San Francisco,5.6,6.5
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Washington DC:SBEH_US_TRINTUS_CB_14062021., 
+,cluster1,cluster2
+NoAnswer,74.6,70.6
+not shown,17.5,22.0
+Washington DC,7.9,7.4
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Bangkok:SBEH_US_TRINTWW_CB_14062021, 
+,cluster1,cluster2
+not shown,54.8,72.1
+NoAnswer,44.4,27.5
+Bangkok,0.8,0.4
+Significance,cluster1,cluster2
+not shown,.,.
+NoAnswer,+++,---
+Bangkok,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Dubai:SBEH_US_TRINTWW_CB_14062021, 
+,cluster1,cluster2
+not shown,54.8,72.1
+NoAnswer,39.7,26.4
+Dubai,5.6,1.5
+Significance,cluster1,cluster2
+not shown,---,+++
+NoAnswer,+++,---
+Dubai,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Hong Kong:SBEH_US_TRINTWW_CB_14062021, 
+,cluster1,cluster2
+not shown,54.8,72.1
+NoAnswer,42.9,27.3
+Hong Kong,2.4,0.6
+Significance,cluster1,cluster2
+not shown,---,+++
+NoAnswer,+++,---
+Hong Kong,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Shanghai:SBEH_US_TRINTWW_CB_14062021, 
+,cluster1,cluster2
+not shown,54.8,72.1
+NoAnswer,44.4,27.5
+Shanghai,0.8,0.4
+Significance,cluster1,cluster2
+not shown,---,+++
+NoAnswer,.,.
+Shanghai,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Singapore:SBEH_US_TRINTWW_CB_14062021, 
+,cluster1,cluster2
+not shown,54.8,72.1
+NoAnswer,44.4,27.4
+Singapore,0.8,0.5
+Significance,cluster1,cluster2
+not shown,---,+++
+NoAnswer,.,.
+Singapore,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Cancun:SBEH_US_TRINTWW_CB_14062021, 
+,cluster1,cluster2
+not shown,54.8,72.1
+NoAnswer,42.1,25.1
+Cancun,3.2,2.8
+Significance,cluster1,cluster2
+not shown,.,.
+NoAnswer,+++,---
+Cancun,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Barcelona:SBEH_US_TRINTWW_CB_14062021, 
+,cluster1,cluster2
+not shown,54.8,72.1
+NoAnswer,42.1,27.0
+Barcelona,3.2,0.9
+Significance,cluster1,cluster2
+not shown,---,+++
+NoAnswer,+++,---
+Barcelona,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Berlin:SBEH_US_TRINTWW_CB_14062021, 
+,cluster1,cluster2
+not shown,54.8,72.1
+NoAnswer,44.4,27.4
+Berlin,0.8,0.5
+Significance,cluster1,cluster2
+not shown,.,.
+NoAnswer,+++,---
+Berlin,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Dublin:SBEH_US_TRINTWW_CB_14062021, 
+,cluster1,cluster2
+not shown,54.8,72.1
+NoAnswer,43.7,26.9
+Dublin,1.6,1.0
+Significance,cluster1,cluster2
+not shown,.,.
+NoAnswer,+++,---
+Dublin,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Gothenburg:SBEH_US_TRINTWW_CB_14062021, 
+,cluster1,cluster2
+not shown,54.3,72.1
+NoAnswer,44.9,27.8
+Gothenburg,0.8,0.1
+Significance,cluster1,cluster2
+not shown,.,.
+NoAnswer,+++,---
+Gothenburg,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Helsinki:SBEH_US_TRINTWW_CB_14062021, 
+,cluster1,cluster2
+not shown,54.3,72.1
+NoAnswer,44.9,27.7
+Helsinki,0.8,0.2
+Significance,cluster1,cluster2
+not shown,.,.
+NoAnswer,+++,---
+Helsinki,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+London:SBEH_US_TRINTWW_CB_14062021, 
+,cluster1,cluster2
+not shown,54.8,72.1
+NoAnswer,36.5,24.1
+London,8.7,3.8
+Significance,cluster1,cluster2
+not shown,---,+++
+NoAnswer,+++,---
+London,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Madrid:SBEH_US_TRINTWW_CB_14062021, 
+,cluster1,cluster2
+not shown,54.8,72.1
+NoAnswer,42.9,27.4
+Madrid,2.4,0.5
+Significance,cluster1,cluster2
+not shown,---,+++
+NoAnswer,+++,---
+Madrid,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Paris:SBEH_US_TRINTWW_CB_14062021, 
+,cluster1,cluster2
+not shown,54.8,72.1
+NoAnswer,36.5,24.0
+Paris,8.7,3.9
+Significance,cluster1,cluster2
+not shown,---,+++
+NoAnswer,+++,---
+Paris,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Rome:SBEH_US_TRINTWW_CB_14062021, 
+,cluster1,cluster2
+not shown,54.8,72.1
+NoAnswer,41.3,25.8
+Rome,4.0,2.1
+Significance,cluster1,cluster2
+not shown,---,+++
+NoAnswer,.,.
+Rome,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Stockholm:SBEH_US_TRINTWW_CB_14062021, 
+,cluster1,cluster2
+not shown,54.8,72.1
+NoAnswer,44.4,27.4
+Stockholm,0.8,0.5
+Significance,cluster1,cluster2
+not shown,---,+++
+NoAnswer,.,.
+Stockholm,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Vienna:SBEH_US_TRINTWW_CB_14062021, 
+,cluster1,cluster2
+not shown,54.8,72.1
+NoAnswer,44.4,27.4
+Vienna,0.8,0.5
+Significance,cluster1,cluster2
+not shown,---,+++
+NoAnswer,.,.
+Vienna,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+SBEH_WW_TRFREQ_RB_07062021, 
+,cluster1,cluster2
+Multiple times a year,46.0,37.8
+Once a year or about once a year,37.3,38.4
+Less than once a year,16.7,23.7
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+SBEH_WW_AVTRIP_RB_07062021, 
+,cluster1,cluster2
+4 days or fewer,31.0,32.9
+5-6 days,30.2,32.6
+Between 1 and 2 weeks,28.6,23.3
+No rules,4.0,6.0
+2 weeks or more,6.3,5.2
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Beach or seaside resort:SBEH_WW_DESTTYPE_CB_07062021, 
+,cluster1,cluster2
+Beach or seaside resort,64.3,53.5
+NoAnswer,35.7,46.5
+Significance,cluster1,cluster2
+Beach or seaside resort,+++,---
+NoAnswer,---,+++
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Mountain or alpine resort:SBEH_WW_DESTTYPE_CB_07062021, 
+,cluster1,cluster2
+NoAnswer,86.5,81.6
+Mountain or alpine resort,13.5,18.4
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+City or Metropolis:SBEH_WW_DESTTYPE_CB_07062021, 
+,cluster1,cluster2
+NoAnswer,37.3,52.9
+City or Metropolis,62.7,47.1
+Significance,cluster1,cluster2
+NoAnswer,---,+++
+City or Metropolis,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Culturally/Spiritually significant place:SBEH_WW_DESTTYPE_CB_07062021, 
+,cluster1,cluster2
+NoAnswer,89.7,91.3
+Culturally/Spiritually significant place,10.3,8.7
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Rural or countryside locales:SBEH_WW_DESTTYPE_CB_07062021, 
+,cluster1,cluster2
+NoAnswer,79.4,76.0
+Rural or countryside locales,20.6,24.0
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Niche or extreme destinations (e.g. Antarctica):SBEH_WW_DESTTYPE_CB_07062021, 
+,cluster1,cluster2
+NoAnswer,96.8,99.0
+Niche or extreme destinations (e.g. Antarctica),3.2,1.0
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Something else:SBEH_WW_DESTTYPE_CB_07062021, 
+,cluster1,cluster2
+NoAnswer,98.4,87.1
+Something else,1.6,12.9
+Significance,cluster1,cluster2
+NoAnswer,+++,---
+Something else,---,+++
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Hotel:SBEH_WW_STAYTYPE_CB_07062021, 
+,cluster1,cluster2
+Hotel,84.1,73.2
+NoAnswer,15.9,26.8
+Significance,cluster1,cluster2
+Hotel,+++,---
+NoAnswer,---,+++
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Luxury resort:SBEH_WW_STAYTYPE_CB_07062021, 
+,cluster1,cluster2
+NoAnswer,74.6,88.9
+Luxury resort,25.4,11.1
+Significance,cluster1,cluster2
+NoAnswer,---,+++
+Luxury resort,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Airbnb / privately rented accommodations:SBEH_WW_STAYTYPE_CB_07062021, 
+,cluster1,cluster2
+NoAnswer,73.8,83.2
+Airbnb / privately rented accommodations,26.2,16.8
+Significance,cluster1,cluster2
+NoAnswer,---,+++
+Airbnb / privately rented accommodations,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Youth hostel:SBEH_WW_STAYTYPE_CB_07062021, 
+,cluster1,cluster2
+NoAnswer,99.2,99.2
+Youth hostel,0.8,0.8
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Relative or friend’s house:SBEH_WW_STAYTYPE_CB_07062021, 
+,cluster1,cluster2
+NoAnswer,77.0,71.1
+Relative or friend’s house,23.0,28.9
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Campsite:SBEH_WW_STAYTYPE_CB_07062021, 
+,cluster1,cluster2
+NoAnswer,96.0,92.0
+Campsite,4.0,8.0
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Somewhere else:SBEH_WW_STAYTYPE_CB_07062021, 
+,cluster1,cluster2
+NoAnswer,96.8,90.4
+Somewhere else,3.2,9.6
+Significance,cluster1,cluster2
+NoAnswer,+++,---
+Somewhere else,---,+++
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Adventure:LIFE_WW_ACT_CB_L_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,66.7,77.3
+Adventure,33.3,22.7
+Significance,cluster1,cluster2
+NoAnswer,---,+++
+Adventure,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Arts and crafts:LIFE_WW_ACT_CB_L_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,81.0,81.0
+Arts and crafts,19.0,19.0
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Beauty & Fashion:LIFE_WW_ACT_CB_L_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,71.4,84.9
+Beauty & Fashion,28.6,15.1
+Significance,cluster1,cluster2
+NoAnswer,---,+++
+Beauty & Fashion,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Blogging:LIFE_WW_ACT_CB_L_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,92.1,94.1
+Blogging,7.9,5.9
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Boating:LIFE_WW_ACT_CB_L_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,95.2,97.7
+Boating,4.8,2.3
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Business:LIFE_WW_ACT_CB_L_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,77.0,88.3
+Business,23.0,11.7
+Significance,cluster1,cluster2
+NoAnswer,---,+++
+Business,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Camping:LIFE_WW_ACT_CB_L_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,86.5,91.4
+Camping,13.5,8.6
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Cars/motoring:LIFE_WW_ACT_CB_L_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,93.7,92.9
+Cars/motoring,6.3,7.1
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Celebrities & Interviews:LIFE_WW_ACT_CB_L_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,84.9,85.1
+Celebrities & Interviews,15.1,14.9
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Playing video/computer games:LIFE_WW_ACT_CB_L_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,82.5,82.2
+Playing video/computer games,17.5,17.8
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Cooking:LIFE_WW_ACT_CB_L_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,49.2,59.9
+Cooking,50.8,40.1
+Significance,cluster1,cluster2
+NoAnswer,---,+++
+Cooking,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Education:LIFE_WW_ACT_CB_L_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,87.3,91.0
+Education,12.7,9.0
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Extreme sports:LIFE_WW_ACT_CB_L_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,95.2,97.0
+Extreme sports,4.8,3.0
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Films & Cinema:LIFE_WW_ACT_CB_L_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,75.4,78.2
+Films & Cinema,24.6,21.8
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Gardening:LIFE_WW_ACT_CB_L_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,82.5,83.3
+Gardening,17.5,16.7
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Health and fitness:LIFE_WW_ACT_CB_L_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,63.5,78.2
+Health and fitness,36.5,21.8
+Significance,cluster1,cluster2
+NoAnswer,---,+++
+Health and fitness,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+History:LIFE_WW_ACT_CB_L_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,75.4,71.2
+History,24.6,28.8
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Holiday house/Timeshare:LIFE_WW_ACT_CB_L_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,98.4,97.8
+Holiday house/Timeshare,1.6,2.2
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Horses:LIFE_WW_ACT_CB_L_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,96.8,97.7
+Horses,3.2,2.3
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Humanities:LIFE_WW_ACT_CB_L_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,93.7,95.5
+Humanities,6.3,4.5
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Hunting/Fishing:LIFE_WW_ACT_CB_L_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,92.1,92.1
+Hunting/Fishing,7.9,7.9
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Interior decorating/Renovating:LIFE_WW_ACT_CB_L_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,88.9,89.8
+Interior decorating/Renovating,11.1,10.2
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Lifestyle:LIFE_WW_ACT_CB_L_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,83.3,86.4
+Lifestyle,16.7,13.6
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Literature:LIFE_WW_ACT_CB_L_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,88.9,93.1
+Literature,11.1,6.9
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Music:LIFE_WW_ACT_CB_L_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,65.1,61.1
+Music,34.9,38.9
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Nature & Environment:LIFE_WW_ACT_CB_L_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,83.3,83.7
+Nature & Environment,16.7,16.3
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+News & Current affairs:LIFE_WW_ACT_CB_L_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,65.9,69.3
+News & Current affairs,34.1,30.7
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Photography:LIFE_WW_ACT_CB_L_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,92.1,92.5
+Photography,7.9,7.5
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Politics:LIFE_WW_ACT_CB_L_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,76.2,74.0
+Politics,23.8,26.0
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Reading:LIFE_WW_ACT_CB_L_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,72.2,66.9
+Reading,27.8,33.1
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Science:LIFE_WW_ACT_CB_L_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,82.5,87.0
+Science,17.5,13.0
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Social Causes:LIFE_WW_ACT_CB_L_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,88.9,91.0
+Social Causes,11.1,9.0
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Sports:LIFE_WW_ACT_CB_L_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,74.6,80.6
+Sports,25.4,19.4
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Technology/Computers:LIFE_WW_ACT_CB_L_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,82.5,88.3
+Technology/Computers,17.5,11.7
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Travelling:LIFE_WW_ACT_CB_L_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,50.8,74.6
+Travelling,49.2,25.4
+Significance,cluster1,cluster2
+NoAnswer,---,+++
+Travelling,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Watching sports on TV:LIFE_WW_ACT_CB_L_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,74.6,79.0
+Watching sports on TV,25.4,21.0
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Animal rights:LIFE_US_PAS_CB_L_v2_16072020, 
+,cluster1,cluster2
+NoAnswer,63.5,65.8
+Animal rights,36.5,34.2
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Children’s rights / children’s health:LIFE_US_PAS_CB_L_v2_16072020, 
+,cluster1,cluster2
+NoAnswer,67.5,73.5
+Children’s rights / children’s health,32.5,26.5
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Climate change / global warming:LIFE_US_PAS_CB_L_v2_16072020, 
+,cluster1,cluster2
+NoAnswer,75.4,86.8
+Climate change / global warming,24.6,13.2
+Significance,cluster1,cluster2
+NoAnswer,---,+++
+Climate change / global warming,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Criminal justice reform:LIFE_US_PAS_CB_L_v2_16072020, 
+,cluster1,cluster2
+NoAnswer,88.9,93.9
+Criminal justice reform,11.1,6.1
+Significance,cluster1,cluster2
+NoAnswer,---,+++
+Criminal justice reform,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+The disabled:LIFE_US_PAS_CB_L_v2_16072020, 
+,cluster1,cluster2
+NoAnswer,85.7,83.7
+The disabled,14.3,16.3
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Early education:LIFE_US_PAS_CB_L_v2_16072020, 
+,cluster1,cluster2
+NoAnswer,89.7,93.6
+Early education,10.3,6.4
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Employment (job creation):LIFE_US_PAS_CB_L_v2_16072020, 
+,cluster1,cluster2
+NoAnswer,88.1,95.1
+Employment (job creation),11.9,4.9
+Significance,cluster1,cluster2
+NoAnswer,---,+++
+Employment (job creation),+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Globalization:LIFE_US_PAS_CB_L_v2_16072020, 
+,cluster1,cluster2
+NoAnswer,94.4,99.0
+Globalization,5.6,1.0
+Significance,cluster1,cluster2
+NoAnswer,---,+++
+Globalization,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Human rights / civil rights / discrimination:LIFE_US_PAS_CB_L_v2_16072020, 
+,cluster1,cluster2
+NoAnswer,77.8,84.5
+Human rights / civil rights / discrimination,22.2,15.5
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Literacy:LIFE_US_PAS_CB_L_v2_16072020, 
+,cluster1,cluster2
+NoAnswer,92.9,93.1
+Literacy,7.1,6.9
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Medical  / cancer research:LIFE_US_PAS_CB_L_v2_16072020, 
+,cluster1,cluster2
+NoAnswer,75.4,79.1
+Medical  / cancer research,24.6,20.9
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Mental health:LIFE_US_PAS_CB_L_v2_16072020, 
+,cluster1,cluster2
+NoAnswer,80.2,86.2
+Mental health,19.8,13.8
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Nature / wildlife preservation:LIFE_US_PAS_CB_L_v2_16072020, 
+,cluster1,cluster2
+NoAnswer,82.5,84.1
+Nature / wildlife preservation,17.5,15.9
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Poverty and homelessness:LIFE_US_PAS_CB_L_v2_16072020, 
+,cluster1,cluster2
+NoAnswer,83.3,78.1
+Poverty and homelessness,16.7,21.9
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Protecting oceans / marine mammals:LIFE_US_PAS_CB_L_v2_16072020, 
+,cluster1,cluster2
+NoAnswer,86.5,92.0
+Protecting oceans / marine mammals,13.5,8.0
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Protection / promotion of art / cultural heritage:LIFE_US_PAS_CB_L_v2_16072020, 
+,cluster1,cluster2
+NoAnswer,93.7,96.1
+Protection / promotion of art / cultural heritage,6.3,3.9
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Provision of medical care and medicines:LIFE_US_PAS_CB_L_v2_16072020, 
+,cluster1,cluster2
+NoAnswer,92.1,94.2
+Provision of medical care and medicines,7.9,5.8
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Recycling  / reducing pollution:LIFE_US_PAS_CB_L_v2_16072020, 
+,cluster1,cluster2
+NoAnswer,83.3,87.1
+Recycling  / reducing pollution,16.7,12.9
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Sexual orientation-based rights:LIFE_US_PAS_CB_L_v2_16072020, 
+,cluster1,cluster2
+NoAnswer,92.1,94.8
+Sexual orientation-based rights,7.9,5.2
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+University education:LIFE_US_PAS_CB_L_v2_16072020, 
+,cluster1,cluster2
+NoAnswer,92.9,96.1
+University education,7.1,3.9
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Women’s rights / women’s health and reproductive issues:LIFE_US_PAS_CB_L_v2_16072020, 
+,cluster1,cluster2
+NoAnswer,82.5,89.1
+Women’s rights / women’s health and reproductive issues,17.5,10.9
+Significance,cluster1,cluster2
+NoAnswer,---,+++
+Women’s rights / women’s health and reproductive issues,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Worker’s rights / fair wages:LIFE_US_PAS_CB_L_v2_16072020, 
+,cluster1,cluster2
+NoAnswer,88.9,94.6
+Worker’s rights / fair wages,11.1,5.4
+Significance,cluster1,cluster2
+NoAnswer,---,+++
+Worker’s rights / fair wages,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Family values:LIFE_US_PAS_CB_L_v2_16072020, 
+,cluster1,cluster2
+NoAnswer,88.9,90.5
+Family values,11.1,9.5
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Eradicating hate speech:LIFE_US_PAS_CB_L_v2_16072020, 
+,cluster1,cluster2
+NoAnswer,92.9,97.1
+Eradicating hate speech,7.1,2.9
+Significance,cluster1,cluster2
+NoAnswer,---,+++
+Eradicating hate speech,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Protecting the Second Amendment (gun rights):LIFE_US_PAS_CB_L_v2_16072020, 
+,cluster1,cluster2
+NoAnswer,95.2,95.0
+Protecting the Second Amendment (gun rights),4.8,5.0
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Introducing gun control:LIFE_US_PAS_CB_L_v2_16072020, 
+,cluster1,cluster2
+NoAnswer,92.9,96.6
+Introducing gun control,7.1,3.4
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Protecting the American way of life:LIFE_US_PAS_CB_L_v2_16072020, 
+,cluster1,cluster2
+NoAnswer,94.4,96.5
+Protecting the American way of life,5.6,3.5
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Something else:LIFE_US_PAS_CB_L_v2_16072020, 
+,cluster1,cluster2
+NoAnswer,97.6,87.0
+Something else,2.4,13.0
+Significance,cluster1,cluster2
+NoAnswer,+++,---
+Something else,---,+++
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Something else:LIFE_US_PAS_CB_L_v2_16072020.1, 
+,cluster1,cluster2
+NoAnswer,59.2,89.3
+none,0.5,0.9
+Religious ,0.5,0.4
+None ,0.5,0.4
+veterans,0.5,0.3
+Hunger,0.5,0.3
+None,0.5,0.3
+Church,0.5,0.3
+Nothing,0.5,0.3
+Veterans,0.5,0.2
+Religious,0.5,0.2
+Alzheimer's ,0.5,0.1
+religious tithing,0.5,0.1
+Senior Services,0.5,0.1
+Local charities ,0.5,0.1
+Homeschooling ,0.5,0.1
+St. Judes hospital,0.5,0.1
+Habitat for Humanity,0.5,0.1
+religious organization,0.5,0.1
+Drug treatment,0.5,0.1
+Epilepsy,0.5,0.1
+Boy scouts,0.5,0.1
+u s marines camp pendelton,0.5,0.1
+Jewish people,0.5,0.1
+St.jude,0.5,0.1
+Habitat for humanity,0.5,0.1
+Veterans ,0.5,0.1
+Local nature center,0.5,0.1
+Food Bank,0.5,0.1
+Joe Biden,0.5,0.1
+Children's school,0.5,0.1
+Veterns,0.5,0.1
+Health related ,0.5,0.1
+Wikipedia,0.5,0.1
+Freedom of speech,0.5,0.1
+Gun rights ,0.5,0.1
+nothing,0.5,0.1
+Wildfire Fund,0.5,0.1
+political campaign,0.5,0.1
+Food growth for direct donations ,0.5,0.1
+Domestic violence ,0.5,0.1
+I haven't made any donations due to not having any income,0.5,0.1
+Heart health ,0.5,0.1
+Injured military veterans ,0.5,0.1
+children's adoption,0.5,0.1
+Medical studies,0.5,0.1
+Mission ,0.5,0.1
+Live nonprofit streams,0.5,0.1
+Don't support any causes,0.5,0.1
+religious,0.5,0.1
+Military disabled,0.5,0.1
+Military,0.5,0.1
+Clean water for africa,0.5,0.1
+None of the above,0.5,0.1
+Paralyzed veterans,0.5,0.1
+Animal adoption,0.5,0.1
+"NADA, NONE OF THESE",0.5,0.1
+I don't donate,0.5,0.1
+Religions,0.5,0.1
+Na,0.5,0.1
+Food Shelf,0.5,0.1
+Cancer,0.5,0.1
+Roman Catholic Church,0.5,0.1
+D.A.V.,0.5,0.1
+"food insecurity, religious, cultural",0.5,0.1
+the vets,0.5,0.1
+Airedale rescue,0.5,0.1
+Animal Shelters,0.5,0.1
+Preserving a historical site.,0.5,0.1
+Church ,0.5,0.1
+Seniors' issues Medicare. Sam,0.5,0.1
+Nothing ,0.5,0.1
+Youth organization ,0.5,0.1
+religious ,0.5,0.1
+Children's cancer research ,0.5,0.1
+St Jude Childrens Research Hospital,0.5,0.1
+st judes for children,0.5,0.1
+Other,0.5,0.1
+law enforcement,0.5,0.1
+working in shelter after hurricane ,0.5,0.1
+Handel and Hayden Society,0.5,0.1
+Religion ,0.5,0.1
+Veteran Grorps,0.5,0.1
+Fighting Hunger,0.5,0.1
+material things,0.5,0.1
+wildlife fund,0.5,0.1
+Religious Contributions,0.5,0.1
+Significance,cluster1,cluster2
+NoAnswer,.,.
+none,.,.
+Religious ,.,.
+None ,.,.
+veterans,.,.
+Hunger,.,.
+None,.,.
+Church,+++,---
+Nothing,.,.
+Veterans,.,.
+Religious,.,.
+Alzheimer's ,.,.
+religious tithing,.,.
+Senior Services,.,.
+Local charities ,.,.
+Homeschooling ,.,.
+St. Judes hospital,.,.
+Habitat for Humanity,.,.
+religious organization,.,.
+Drug treatment,.,.
+Epilepsy,.,.
+Boy scouts,.,.
+u s marines camp pendelton,.,.
+Jewish people,.,.
+St.jude,.,.
+Habitat for humanity,.,.
+Veterans ,.,.
+Local nature center,.,.
+Food Bank,.,.
+Joe Biden,.,.
+Children's school,.,.
+Veterns,.,.
+Health related ,.,.
+Wikipedia,.,.
+Freedom of speech,.,.
+Gun rights ,.,.
+nothing,.,.
+Wildfire Fund,.,.
+political campaign,.,.
+Food growth for direct donations ,.,.
+Domestic violence ,.,.
+I haven't made any donations due to not having any income,.,.
+Heart health ,.,.
+Injured military veterans ,+++,---
+children's adoption,.,.
+Medical studies,.,.
+Mission ,.,.
+Live nonprofit streams,.,.
+Don't support any causes,.,.
+religious,.,.
+Military disabled,.,.
+Military,.,.
+Clean water for africa,.,.
+None of the above,.,.
+Paralyzed veterans,.,.
+Animal adoption,.,.
+"NADA, NONE OF THESE",.,.
+I don't donate,.,.
+Religions,.,.
+Na,.,.
+Food Shelf,.,.
+Cancer,.,.
+Roman Catholic Church,.,.
+D.A.V.,.,.
+"food insecurity, religious, cultural",.,.
+the vets,.,.
+Airedale rescue,.,.
+Animal Shelters,.,.
+Preserving a historical site.,.,.
+Church ,.,.
+Seniors' issues Medicare. Sam,.,.
+Nothing ,.,.
+Youth organization ,.,.
+religious ,.,.
+Children's cancer research ,.,.
+St Jude Childrens Research Hospital,.,.
+st judes for children,.,.
+Other,.,.
+law enforcement,.,.
+working in shelter after hurricane ,.,.
+Handel and Hayden Society,.,.
+Religion ,.,.
+Veteran Grorps,.,.
+Fighting Hunger,.,.
+material things,.,.
+wildlife fund,.,.
+Religious Contributions,.,.
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Soccer:SPORT_WW_SA_CB_L_v1_08012021, 
+,cluster1,cluster2
+NoAnswer,91.3,98.0
+Soccer,8.7,2.0
+Significance,cluster1,cluster2
+NoAnswer,---,+++
+Soccer,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Tennis:SPORT_WW_SA_CB_L_v1_08012021, 
+,cluster1,cluster2
+NoAnswer,89.7,96.5
+Tennis,10.3,3.5
+Significance,cluster1,cluster2
+NoAnswer,---,+++
+Tennis,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Cricket:SPORT_WW_SA_CB_L_v1_08012021, 
+,cluster1,cluster2
+NoAnswer,99.2,99.8
+Cricket,0.8,0.2
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Rugby:SPORT_WW_SA_CB_L_v1_08012021, 
+,cluster1,cluster2
+NoAnswer,98.4,99.9
+Rugby,1.6,0.1
+Significance,cluster1,cluster2
+NoAnswer,---,+++
+Rugby,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Athletics:SPORT_WW_SA_CB_L_v1_08012021, 
+,cluster1,cluster2
+NoAnswer,95.2,94.4
+Athletics,4.8,5.6
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Netball:SPORT_WW_SA_CB_L_v1_08012021, 
+,cluster1,cluster2
+NoAnswer,98.4,99.7
+Netball,1.6,0.3
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Ice Hockey:SPORT_WW_SA_CB_L_v1_08012021, 
+,cluster1,cluster2
+NoAnswer,98.4,98.9
+Ice Hockey,1.6,1.1
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Rowing:SPORT_WW_SA_CB_L_v1_08012021, 
+,cluster1,cluster2
+NoAnswer,99.2,99.6
+Rowing,0.8,0.4
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Swimming:SPORT_WW_SA_CB_L_v1_08012021, 
+,cluster1,cluster2
+NoAnswer,80.2,85.3
+Swimming,19.8,14.7
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Badminton:SPORT_WW_SA_CB_L_v1_08012021, 
+,cluster1,cluster2
+NoAnswer,95.2,98.2
+Badminton,4.8,1.8
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Running:SPORT_WW_SA_CB_L_v1_08012021, 
+,cluster1,cluster2
+NoAnswer,83.3,89.1
+Running,16.7,10.9
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Yoga:SPORT_WW_SA_CB_L_v1_08012021, 
+,cluster1,cluster2
+NoAnswer,77.8,86.2
+Yoga,22.2,13.8
+Significance,cluster1,cluster2
+NoAnswer,---,+++
+Yoga,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Weightlifting/Gym:SPORT_WW_SA_CB_L_v1_08012021, 
+,cluster1,cluster2
+NoAnswer,81.0,85.5
+Weightlifting/Gym,19.0,14.5
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Basketball:SPORT_WW_SA_CB_L_v1_08012021, 
+,cluster1,cluster2
+NoAnswer,80.2,91.7
+Basketball,19.8,8.3
+Significance,cluster1,cluster2
+NoAnswer,---,+++
+Basketball,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Some other sport:SPORT_WW_SA_CB_L_v1_08012021, 
+,cluster1,cluster2
+NoAnswer,81.7,71.2
+Some other sport,18.3,28.8
+Significance,cluster1,cluster2
+NoAnswer,+++,---
+Some other sport,---,+++
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Audi:LIFE_US_CAR_CB_L_v1_04062021, 
+,cluster1,cluster2
+NoAnswer,86.5,88.5
+Audi,13.5,11.5
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+BMW:LIFE_US_CAR_CB_L_v1_04062021, 
+,cluster1,cluster2
+NoAnswer,73.8,86.8
+BMW,26.2,13.2
+Significance,cluster1,cluster2
+NoAnswer,---,+++
+BMW,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Fiat:LIFE_US_CAR_CB_L_v1_04062021, 
+,cluster1,cluster2
+NoAnswer,99.2,98.8
+Fiat,0.8,1.2
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Ford:LIFE_US_CAR_CB_L_v1_04062021, 
+,cluster1,cluster2
+NoAnswer,73.0,73.8
+Ford,27.0,26.2
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Hyundai:LIFE_US_CAR_CB_L_v1_04062021, 
+,cluster1,cluster2
+NoAnswer,92.9,91.1
+Hyundai,7.1,8.9
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Jaguar:LIFE_US_CAR_CB_L_v1_04062021, 
+,cluster1,cluster2
+NoAnswer,96.0,95.9
+Jaguar,4.0,4.1
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Lamborghini:LIFE_US_CAR_CB_L_v1_04062021, 
+,cluster1,cluster2
+NoAnswer,96.8,95.6
+Lamborghini,3.2,4.4
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Maserati:LIFE_US_CAR_CB_L_v1_04062021, 
+,cluster1,cluster2
+NoAnswer,99.2,98.6
+Maserati,0.8,1.4
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Mercedes:LIFE_US_CAR_CB_L_v1_04062021, 
+,cluster1,cluster2
+NoAnswer,83.3,90.9
+Mercedes,16.7,9.1
+Significance,cluster1,cluster2
+NoAnswer,---,+++
+Mercedes,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Mini:LIFE_US_CAR_CB_L_v1_04062021, 
+,cluster1,cluster2
+NoAnswer,98.4,98.1
+Mini,1.6,1.9
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Nissan:LIFE_US_CAR_CB_L_v1_04062021, 
+,cluster1,cluster2
+NoAnswer,81.0,86.4
+Nissan,19.0,13.6
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Porsche:LIFE_US_CAR_CB_L_v1_04062021, 
+,cluster1,cluster2
+NoAnswer,93.7,97.0
+Porsche,6.3,3.0
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Renault:LIFE_US_CAR_CB_L_v1_04062021, 
+,cluster1,cluster2
+NoAnswer,100.0,100.0
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Rover:LIFE_US_CAR_CB_L_v1_04062021, 
+,cluster1,cluster2
+NoAnswer,99.2,99.0
+Rover,0.8,1.0
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Toyota:LIFE_US_CAR_CB_L_v1_04062021, 
+,cluster1,cluster2
+NoAnswer,66.7,70.2
+Toyota,33.3,29.8
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Volkswagen:LIFE_US_CAR_CB_L_v1_04062021, 
+,cluster1,cluster2
+NoAnswer,92.9,93.9
+Volkswagen,7.1,6.1
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Volvo:LIFE_US_CAR_CB_L_v1_04062021, 
+,cluster1,cluster2
+NoAnswer,93.7,96.8
+Volvo,6.3,3.2
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Ram Pickup:LIFE_US_CAR_CB_L_v1_04062021, 
+,cluster1,cluster2
+NoAnswer,95.2,96.8
+Ram Pickup,4.8,3.2
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Chevrolet:LIFE_US_CAR_CB_L_v1_04062021, 
+,cluster1,cluster2
+NoAnswer,77.0,74.1
+Chevrolet,23.0,25.9
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Honda:LIFE_US_CAR_CB_L_v1_04062021, 
+,cluster1,cluster2
+NoAnswer,73.8,78.0
+Honda,26.2,22.0
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Jeep:LIFE_US_CAR_CB_L_v1_04062021, 
+,cluster1,cluster2
+NoAnswer,84.1,82.3
+Jeep,15.9,17.7
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+GMC:LIFE_US_CAR_CB_L_v1_04062021, 
+,cluster1,cluster2
+NoAnswer,98.4,92.3
+GMC,1.6,7.7
+Significance,cluster1,cluster2
+NoAnswer,+++,---
+GMC,---,+++
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Buick:LIFE_US_CAR_CB_L_v1_04062021, 
+,cluster1,cluster2
+NoAnswer,98.4,93.7
+Buick,1.6,6.3
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Cadillac:LIFE_US_CAR_CB_L_v1_04062021, 
+,cluster1,cluster2
+NoAnswer,86.5,90.4
+Cadillac,13.5,9.6
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Chrysler:LIFE_US_CAR_CB_L_v1_04062021, 
+,cluster1,cluster2
+NoAnswer,96.0,96.4
+Chrysler,4.0,3.6
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Dodge:LIFE_US_CAR_CB_L_v1_04062021, 
+,cluster1,cluster2
+NoAnswer,92.1,91.8
+Dodge,7.9,8.2
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Mazda:LIFE_US_CAR_CB_L_v1_04062021, 
+,cluster1,cluster2
+NoAnswer,93.7,93.9
+Mazda,6.3,6.1
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Mitsubishi:LIFE_US_CAR_CB_L_v1_04062021, 
+,cluster1,cluster2
+NoAnswer,95.2,97.5
+Mitsubishi,4.8,2.5
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Opel:LIFE_US_CAR_CB_L_v1_04062021, 
+,cluster1,cluster2
+NoAnswer,98.4,99.9
+Opel,1.6,0.1
+Significance,cluster1,cluster2
+NoAnswer,---,+++
+Opel,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Tesla:LIFE_US_CAR_CB_L_v1_04062021, 
+,cluster1,cluster2
+NoAnswer,89.7,91.5
+Tesla,10.3,8.5
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Some other car maker:LIFE_US_CAR_CB_L_v1_04062021, 
+,cluster1,cluster2
+NoAnswer,93.7,91.8
+Some other car maker,6.3,8.2
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+LIFE_US_CL_RB_L_v1_28052021, 
+,cluster1,cluster2
+Budget,42.9,45.8
+Other,10.3,28.4
+Mainstream,34.1,21.0
+Premium,12.7,4.8
+Significance,cluster1,cluster2
+Budget,.,.
+Other,---,+++
+Mainstream,+++,---
+Premium,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Sony:LIFE_WW_IT_CB_L_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,79.4,72.3
+Sony,20.6,27.7
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Samsung:LIFE_WW_IT_CB_L_v1_16072020, 
+,cluster1,cluster2
+Samsung,54.0,51.9
+NoAnswer,46.0,48.1
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Panasonic:LIFE_WW_IT_CB_L_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,89.7,93.0
+Panasonic,10.3,7.0
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+LG:LIFE_WW_IT_CB_L_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,64.3,72.8
+LG,35.7,27.2
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Apple:LIFE_WW_IT_CB_L_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,42.1,52.5
+Apple,57.9,47.5
+Significance,cluster1,cluster2
+NoAnswer,---,+++
+Apple,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Toshiba:LIFE_WW_IT_CB_L_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,95.2,94.3
+Toshiba,4.8,5.7
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Microsoft:LIFE_WW_IT_CB_L_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,59.5,64.0
+Microsoft,40.5,36.0
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+JVC:LIFE_WW_IT_CB_L_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,96.0,96.2
+JVC,4.0,3.8
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+BO:LIFE_WW_IT_CB_L_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,99.2,99.7
+BO,0.8,0.3
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Sennheiser:LIFE_WW_IT_CB_L_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,98.4,98.8
+Sennheiser,1.6,1.2
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Huawei:LIFE_WW_IT_CB_L_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,98.4,99.3
+Huawei,1.6,0.7
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Philips:LIFE_WW_IT_CB_L_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,97.6,96.6
+Philips,2.4,3.4
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+HP:LIFE_WW_IT_CB_L_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,63.5,63.2
+HP,36.5,36.8
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Pioneer:LIFE_WW_IT_CB_L_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,96.8,96.2
+Pioneer,3.2,3.8
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Sharp:LIFE_WW_IT_CB_L_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,96.8,96.6
+Sharp,3.2,3.4
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Sonos:LIFE_WW_IT_CB_L_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,97.6,98.1
+Sonos,2.4,1.9
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Bose:LIFE_WW_IT_CB_L_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,73.8,77.5
+Bose,26.2,22.5
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Other brand(s):LIFE_WW_IT_CB_L_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,97.6,95.9
+Other brand(s),2.4,4.1
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+I do not have a favourite tech brand:LIFE_WW_IT_CB_L_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,99.2,95.8
+I do not have a favourite tech brand,0.8,4.2
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+32” or smaller:ATR_02, 
+,cluster1,cluster2
+32” or smaller,100.0,100.0
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+40”:ATR_02, 
+,cluster1,cluster2
+NoAnswer,100.0,100.0
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+42”:ATR_02, 
+,cluster1,cluster2
+NoAnswer,100.0,100.0
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+44”:ATR_02, 
+,cluster1,cluster2
+NoAnswer,100.0,100.0
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+48” or bigger:ATR_02, 
+,cluster1,cluster2
+48” or bigger,100.0,100.0
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Car:LIFE_WW_GS_IMS_S_v1_17072020, 
+,cluster1,cluster2
+Car,73.8,62.5
+NoAnswer,26.2,37.5
+Significance,cluster1,cluster2
+Car,+++,---
+NoAnswer,---,+++
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Travel:LIFE_WW_GS_IMS_S_v1_17072020, 
+,cluster1,cluster2
+Travel,68.3,60.4
+NoAnswer,31.7,39.6
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Groceries:LIFE_WW_GS_IMS_S_v1_17072020, 
+,cluster1,cluster2
+Groceries,92.1,85.5
+NoAnswer,7.9,14.5
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Financial products:LIFE_WW_GS_IMS_S_v1_17072020, 
+,cluster1,cluster2
+Financial products,73.0,60.3
+NoAnswer,27.0,39.7
+Significance,cluster1,cluster2
+Financial products,+++,---
+NoAnswer,---,+++
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Clothing:LIFE_WW_GS_IMS_S_v1_17072020, 
+,cluster1,cluster2
+Clothing,85.7,78.7
+NoAnswer,14.3,21.3
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Cosmetics:LIFE_WW_GS_IMS_S_v1_17072020, 
+,cluster1,cluster2
+Cosmetics,67.5,59.7
+NoAnswer,32.5,40.3
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Furniture:LIFE_WW_GS_IMS_S_v1_17072020, 
+,cluster1,cluster2
+Furniture,76.2,62.3
+NoAnswer,23.8,37.7
+Significance,cluster1,cluster2
+Furniture,+++,---
+NoAnswer,---,+++
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Insurance:LIFE_WW_GS_IMS_S_v1_17072020, 
+,cluster1,cluster2
+Insurance,67.5,61.0
+NoAnswer,32.5,39.0
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Renovation:LIFE_WW_GS_IMS_S_v1_17072020, 
+,cluster1,cluster2
+NoAnswer,46.0,54.7
+Renovation,54.0,45.3
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Tech:LIFE_WW_GS_IMS_S_v1_17072020, 
+,cluster1,cluster2
+Tech,75.4,65.8
+NoAnswer,24.6,34.2
+Significance,cluster1,cluster2
+Tech,+++,---
+NoAnswer,---,+++
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+LIFE_USA_GS_RB_L_v1_17072020, 
+,cluster1,cluster2
+Budget,59.5,43.7
+Mainstream,19.8,29.1
+Local,9.5,18.8
+Other,4.0,5.1
+Premium,7.1,3.2
+Significance,cluster1,cluster2
+Budget,+++,---
+Mainstream,---,+++
+Local,---,+++
+Other,.,.
+Premium,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Family life and harmony:LIFE_WW_LS_CB_L_v1_04062021, 
+,cluster1,cluster2
+Family life and harmony,46.8,55.9
+NoAnswer,53.2,44.1
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Career and success:LIFE_WW_LS_CB_L_v1_04062021, 
+,cluster1,cluster2
+NoAnswer,85.7,89.5
+Career and success,14.3,10.5
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Education and learning:LIFE_WW_LS_CB_L_v1_04062021, 
+,cluster1,cluster2
+NoAnswer,89.7,88.8
+Education and learning,10.3,11.2
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Sport and fitness:LIFE_WW_LS_CB_L_v1_04062021, 
+,cluster1,cluster2
+NoAnswer,83.3,90.6
+Sport and fitness,16.7,9.4
+Significance,cluster1,cluster2
+NoAnswer,---,+++
+Sport and fitness,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Health and wellbeing:LIFE_WW_LS_CB_L_v1_04062021, 
+,cluster1,cluster2
+NoAnswer,69.8,63.8
+Health and wellbeing,30.2,36.2
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Travel and exploration:LIFE_WW_LS_CB_L_v1_04062021, 
+,cluster1,cluster2
+NoAnswer,69.0,80.9
+Travel and exploration,31.0,19.1
+Significance,cluster1,cluster2
+NoAnswer,---,+++
+Travel and exploration,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Creativity and art:LIFE_WW_LS_CB_L_v1_04062021, 
+,cluster1,cluster2
+NoAnswer,89.7,83.8
+Creativity and art,10.3,16.2
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Glamour and fashion:LIFE_WW_LS_CB_L_v1_04062021, 
+,cluster1,cluster2
+NoAnswer,95.2,97.4
+Glamour and fashion,4.8,2.6
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Serving community and volunteering:LIFE_WW_LS_CB_L_v1_04062021, 
+,cluster1,cluster2
+NoAnswer,93.7,94.4
+Serving community and volunteering,6.3,5.6
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Excitement and risk:LIFE_WW_LS_CB_L_v1_04062021, 
+,cluster1,cluster2
+NoAnswer,89.7,94.2
+Excitement and risk,10.3,5.8
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Family life and harmony:LIFE_WW_LS_CB_L_v1_04062021.1, 
+,cluster1,cluster2
+NoAnswer,57.9,54.5
+Family life and harmony,42.1,45.5
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Career and success:LIFE_WW_LS_CB_L_v1_04062021.1, 
+,cluster1,cluster2
+NoAnswer,81.7,85.9
+Career and success,18.3,14.1
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Education and learning:LIFE_WW_LS_CB_L_v1_04062021.1, 
+,cluster1,cluster2
+NoAnswer,91.3,91.7
+Education and learning,8.7,8.3
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Sport and fitness:LIFE_WW_LS_CB_L_v1_04062021.1, 
+,cluster1,cluster2
+NoAnswer,88.9,92.5
+Sport and fitness,11.1,7.5
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Health and wellbeing:LIFE_WW_LS_CB_L_v1_04062021.1, 
+,cluster1,cluster2
+NoAnswer,72.2,59.7
+Health and wellbeing,27.8,40.3
+Significance,cluster1,cluster2
+NoAnswer,+++,---
+Health and wellbeing,---,+++
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Travel and exploration:LIFE_WW_LS_CB_L_v1_04062021.1, 
+,cluster1,cluster2
+NoAnswer,59.5,66.7
+Travel and exploration,40.5,33.3
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Creativity and art:LIFE_WW_LS_CB_L_v1_04062021.1, 
+,cluster1,cluster2
+NoAnswer,88.9,85.1
+Creativity and art,11.1,14.9
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Glamour and fashion:LIFE_WW_LS_CB_L_v1_04062021.1, 
+,cluster1,cluster2
+NoAnswer,97.6,97.4
+Glamour and fashion,2.4,2.6
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Serving community and volunteering:LIFE_WW_LS_CB_L_v1_04062021.1, 
+,cluster1,cluster2
+NoAnswer,92.1,91.8
+Serving community and volunteering,7.9,8.2
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Excitement and risk:LIFE_WW_LS_CB_L_v1_04062021.1, 
+,cluster1,cluster2
+NoAnswer,89.7,94.2
+Excitement and risk,10.3,5.8
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Online news:MC_WW_MC_RK_S_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,73.8,70.3
+Online news,26.2,29.7
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Social media:MC_WW_MC_RK_S_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,42.1,57.9
+Social media,57.9,42.1
+Significance,cluster1,cluster2
+NoAnswer,---,+++
+Social media,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+TV:MC_WW_MC_RK_S_v1_16072020, 
+,cluster1,cluster2
+TV,54.0,55.4
+NoAnswer,46.0,44.6
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Radio:MC_WW_MC_RK_S_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,98.4,93.5
+Radio,1.6,6.5
+Significance,cluster1,cluster2
+NoAnswer,+++,---
+Radio,---,+++
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Newspapers:MC_WW_MC_RK_S_v1_16072020, 
+,cluster1,cluster2
+NoAnswer,94.4,91.7
+Newspapers,5.6,8.3
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+"Video on demand (i.e. Netflix, Amazon Prime, Disney+, etc.):MC_WW_MC_RK_S_v1_16072020", 
+,cluster1,cluster2
+NoAnswer,64.3,69.3
+"Video on demand (i.e. Netflix, Amazon Prime, Disney+, etc.)",35.7,30.7
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Facebook:MC_WW_SM_CB_L_v1_16072020, 
+,cluster1,cluster2
+not shown,42.1,57.9
+Facebook,50.8,35.3
+NoAnswer,7.1,6.8
+Significance,cluster1,cluster2
+not shown,---,+++
+Facebook,.,.
+NoAnswer,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Twitter:MC_WW_SM_CB_L_v1_16072020, 
+,cluster1,cluster2
+not shown,42.1,57.9
+NoAnswer,40.5,31.5
+Twitter,17.5,10.6
+Significance,cluster1,cluster2
+not shown,---,+++
+NoAnswer,+++,---
+Twitter,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Instagram:MC_WW_SM_CB_L_v1_16072020, 
+,cluster1,cluster2
+not shown,42.1,57.9
+Instagram,38.9,20.3
+NoAnswer,19.0,21.8
+Significance,cluster1,cluster2
+not shown,---,+++
+Instagram,.,.
+NoAnswer,---,+++
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+YouTube:MC_WW_SM_CB_L_v1_16072020, 
+,cluster1,cluster2
+not shown,42.1,57.9
+YouTube,39.7,22.4
+NoAnswer,18.3,19.7
+Significance,cluster1,cluster2
+not shown,.,.
+YouTube,+++,---
+NoAnswer,---,+++
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Pinterest:MC_WW_SM_CB_L_v1_16072020, 
+,cluster1,cluster2
+not shown,42.1,57.9
+NoAnswer,43.7,33.3
+Pinterest,14.3,8.8
+Significance,cluster1,cluster2
+not shown,---,+++
+NoAnswer,+++,---
+Pinterest,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+LinkedIn:MC_WW_SM_CB_L_v1_16072020, 
+,cluster1,cluster2
+not shown,42.1,57.9
+NoAnswer,46.0,39.3
+LinkedIn,11.9,2.8
+Significance,cluster1,cluster2
+not shown,---,+++
+NoAnswer,.,.
+LinkedIn,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Snapchat:MC_WW_SM_CB_L_v1_16072020, 
+,cluster1,cluster2
+not shown,42.1,57.9
+NoAnswer,45.2,32.7
+Snapchat,12.7,9.4
+Significance,cluster1,cluster2
+not shown,---,+++
+NoAnswer,.,.
+Snapchat,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Tumblr:MC_WW_SM_CB_L_v1_16072020, 
+,cluster1,cluster2
+not shown,42.1,57.9
+NoAnswer,57.1,41.1
+Tumblr,0.8,1.0
+Significance,cluster1,cluster2
+not shown,---,+++
+NoAnswer,.,.
+Tumblr,---,+++
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Quora:MC_WW_SM_CB_L_v1_16072020, 
+,cluster1,cluster2
+not shown,42.1,57.9
+NoAnswer,56.3,41.4
+Quora,1.6,0.7
+Significance,cluster1,cluster2
+not shown,---,+++
+NoAnswer,.,.
+Quora,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+TikTok:MC_WW_SM_CB_L_v1_16072020, 
+,cluster1,cluster2
+not shown,42.1,57.9
+NoAnswer,37.3,31.4
+TikTok,20.6,10.7
+Significance,cluster1,cluster2
+not shown,.,.
+NoAnswer,+++,---
+TikTok,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Reddit:MC_WW_SM_CB_L_v1_16072020, 
+,cluster1,cluster2
+not shown,42.1,57.9
+NoAnswer,52.4,37.3
+Reddit,5.6,4.8
+Significance,cluster1,cluster2
+not shown,---,+++
+NoAnswer,.,.
+Reddit,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Clubhouse:MC_WW_SM_CB_L_v1_16072020, 
+,cluster1,cluster2
+not shown,42.1,57.8
+NoAnswer,57.1,42.1
+Clubhouse,0.8,0.1
+Significance,cluster1,cluster2
+not shown,---,+++
+NoAnswer,+++,---
+Clubhouse,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Other social media platform(s):MC_WW_SM_CB_L_v1_16072020, 
+,cluster1,cluster2
+not shown,42.1,57.9
+NoAnswer,57.1,41.6
+Other social media platform(s),0.8,0.5
+Significance,cluster1,cluster2
+not shown,---,+++
+NoAnswer,.,.
+Other social media platform(s),+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+None. I do not use social media:MC_WW_SM_CB_L_v1_16072020, 
+,cluster1,cluster2
+not shown,41.7,57.9
+NoAnswer,57.5,42.0
+None. I do not use social media,0.8,0.1
+Significance,cluster1,cluster2
+not shown,---,+++
+NoAnswer,.,.
+None. I do not use social media,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+AL Jazeera:MC_US_TV_CB_L_v3_17072020, 
+,cluster1,cluster2
+NoAnswer,54.0,55.4
+not shown,46.0,44.6
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+BBC World News:MC_US_TV_CB_L_v3_17072020, 
+,cluster1,cluster2
+NoAnswer,52.4,54.4
+not shown,46.0,44.6
+BBC World News,1.6,1.0
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Bloomberg TV:MC_US_TV_CB_L_v3_17072020, 
+,cluster1,cluster2
+NoAnswer,53.5,54.9
+not shown,45.7,44.6
+Bloomberg TV,0.8,0.6
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+CNBC:MC_US_TV_CB_L_v3_17072020, 
+,cluster1,cluster2
+NoAnswer,48.4,53.7
+not shown,46.0,44.6
+CNBC,5.6,1.7
+Significance,cluster1,cluster2
+NoAnswer,---,+++
+not shown,.,.
+CNBC,.,.
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+CNN:MC_US_TV_CB_L_v3_17072020, 
+,cluster1,cluster2
+NoAnswer,44.4,47.9
+not shown,46.0,44.6
+CNN,9.5,7.6
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Discovery:MC_US_TV_CB_L_v3_17072020, 
+,cluster1,cluster2
+NoAnswer,46.8,48.2
+not shown,46.0,44.6
+Discovery,7.1,7.3
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Fox News:MC_US_TV_CB_L_v3_17072020, 
+,cluster1,cluster2
+NoAnswer,47.6,47.4
+not shown,46.0,44.6
+Fox News,6.3,8.0
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+HLN:MC_US_TV_CB_L_v3_17072020, 
+,cluster1,cluster2
+NoAnswer,53.5,55.3
+not shown,45.7,44.6
+HLN,0.8,0.2
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+MSNBC:MC_US_TV_CB_L_v3_17072020, 
+,cluster1,cluster2
+NoAnswer,50.8,51.8
+not shown,46.0,44.6
+MSNBC,3.2,3.6
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+National Geographic:MC_US_TV_CB_L_v3_17072020, 
+,cluster1,cluster2
+NoAnswer,42.9,48.8
+not shown,46.0,44.6
+National Geographic,11.1,6.6
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Sky News:MC_US_TV_CB_L_v3_17072020, 
+,cluster1,cluster2
+NoAnswer,53.5,55.3
+not shown,45.7,44.6
+Sky News,0.8,0.2
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+CBS:MC_US_TV_CB_L_v3_17072020, 
+,cluster1,cluster2
+not shown,46.0,44.6
+NoAnswer,49.2,42.6
+CBS,4.8,12.9
+Significance,cluster1,cluster2
+not shown,+++,---
+NoAnswer,.,.
+CBS,.,.
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+ABC:MC_US_TV_CB_L_v3_17072020, 
+,cluster1,cluster2
+not shown,46.0,44.6
+NoAnswer,38.9,37.7
+ABC,15.1,17.8
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+NBC:MC_US_TV_CB_L_v3_17072020, 
+,cluster1,cluster2
+not shown,46.0,44.6
+NoAnswer,36.5,42.4
+NBC,17.5,13.1
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+CW:MC_US_TV_CB_L_v3_17072020, 
+,cluster1,cluster2
+NoAnswer,49.2,52.2
+not shown,46.0,44.6
+CW,4.8,3.2
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Other TV channel(s):MC_US_TV_CB_L_v3_17072020, 
+,cluster1,cluster2
+NoAnswer,46.8,47.0
+not shown,46.0,44.6
+Other TV channel(s),7.1,8.4
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Huffington Post:MC_US_NP_CB_L_v1_16072020_, 
+,cluster1,cluster2
+not shown,68.3,62.9
+NoAnswer,31.0,36.0
+Huffington Post,0.8,1.1
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+CNN:MC_US_NP_CB_L_v1_16072020_, 
+,cluster1,cluster2
+not shown,68.3,62.9
+NoAnswer,20.6,25.5
+CNN,11.1,11.5
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+The New York Times:MC_US_NP_CB_L_v1_16072020_, 
+,cluster1,cluster2
+not shown,68.3,62.9
+NoAnswer,26.2,32.2
+The New York Times,5.6,4.9
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Fox News:MC_US_NP_CB_L_v1_16072020_, 
+,cluster1,cluster2
+not shown,68.3,62.9
+NoAnswer,26.2,28.7
+Fox News,5.6,8.4
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+NBC News:MC_US_NP_CB_L_v1_16072020_, 
+,cluster1,cluster2
+not shown,68.3,62.9
+NoAnswer,24.6,28.2
+NBC News,7.1,8.9
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Mail Online:MC_US_NP_CB_L_v1_16072020_, 
+,cluster1,cluster2
+not shown,67.7,62.9
+NoAnswer,31.5,36.6
+Mail Online,0.8,0.5
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+The Washington Post:MC_US_NP_CB_L_v1_16072020_, 
+,cluster1,cluster2
+not shown,68.3,62.9
+NoAnswer,27.0,33.9
+The Washington Post,4.8,3.2
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+BBC America:MC_US_NP_CB_L_v1_16072020_, 
+,cluster1,cluster2
+not shown,68.3,62.9
+NoAnswer,25.4,33.5
+BBC America,6.3,3.6
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+WSJ:MC_US_NP_CB_L_v1_16072020_, 
+,cluster1,cluster2
+not shown,68.3,62.9
+NoAnswer,27.8,36.0
+WSJ,4.0,1.1
+Significance,cluster1,cluster2
+not shown,.,.
+NoAnswer,---,+++
+WSJ,.,.
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+ABCNews:MC_US_NP_CB_L_v1_16072020_, 
+,cluster1,cluster2
+not shown,68.3,62.9
+NoAnswer,27.0,28.1
+ABCNews,4.8,9.0
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Other media outlet(s):MC_US_NP_CB_L_v1_16072020_, 
+,cluster1,cluster2
+not shown,68.3,62.9
+NoAnswer,27.8,30.8
+Other media outlet(s),4.0,6.2
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+"I like vibrant, diverse art; I like chat shows, reality TV, and romantic comedies:AE_WW_AE_CB_S_v1_07012021", 
+,cluster1,cluster2
+NoAnswer,69.8,75.5
+"I like vibrant, diverse art; I like chat shows, reality TV, and romantic comedies",30.2,24.5
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+"I like bold, intense art; I like horror movies, sketch show, late-night comedy, and heavy metal:AE_WW_AE_CB_S_v1_07012021", 
+,cluster1,cluster2
+NoAnswer,78.6,79.9
+"I like bold, intense art; I like horror movies, sketch show, late-night comedy, and heavy metal",21.4,20.1
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+"I like reflective, calming art; I like indie movies and classical music. I like classical, jazz, poetry, foreign movies, indie movies, art books, etc:AE_WW_AE_CB_S_v1_07012021", 
+,cluster1,cluster2
+NoAnswer,80.2,86.4
+"I like reflective, calming art; I like indie movies and classical music. I like classical, jazz, poetry, foreign movies, indie movies, art books, etc",19.8,13.6
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+"I like documentaries, current affairs, educational, factual, and serious content:AE_WW_AE_CB_S_v1_07012021", 
+,cluster1,cluster2
+NoAnswer,50.0,53.3
+"I like documentaries, current affairs, educational, factual, and serious content",50.0,46.7
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+"I like sci-fi, fantasy, action, crime drama, and  mystery:AE_WW_AE_CB_S_v1_07012021", 
+,cluster1,cluster2
+"I like sci-fi, fantasy, action, crime drama, and  mystery",51.6,55.1
+NoAnswer,48.4,44.9
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Exciting and cool:AE_WW_CV_CB_S_v1_22072020, 
+,cluster1,cluster2
+NoAnswer,69.8,77.7
+Exciting and cool,30.2,22.3
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Glamorous and sophisticated:AE_WW_CV_CB_S_v1_22072020, 
+,cluster1,cluster2
+NoAnswer,86.5,93.1
+Glamorous and sophisticated,13.5,6.9
+Significance,cluster1,cluster2
+NoAnswer,---,+++
+Glamorous and sophisticated,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Natural and outdoors:AE_WW_CV_CB_S_v1_22072020, 
+,cluster1,cluster2
+NoAnswer,60.3,58.2
+Natural and outdoors,39.7,41.8
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Friendly and welcoming:AE_WW_CV_CB_S_v1_22072020, 
+,cluster1,cluster2
+Friendly and welcoming,50.8,57.8
+NoAnswer,49.2,42.2
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Reliable and orderly:AE_WW_CV_CB_S_v1_22072020, 
+,cluster1,cluster2
+NoAnswer,87.3,86.6
+Reliable and orderly,12.7,13.4
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Rugged and adventurous:AE_WW_CV_CB_S_v1_22072020, 
+,cluster1,cluster2
+NoAnswer,89.7,91.6
+Rugged and adventurous,10.3,8.4
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Calming and mellow:AE_WW_CV_CB_S_v1_22072020, 
+,cluster1,cluster2
+NoAnswer,67.5,61.7
+Calming and mellow,32.5,38.3
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+AE_WW_AP_IM_P1_22072020, 
+,cluster1,cluster2
+Calming,69.0,73.3
+Dramatic,31.0,26.7
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+AE_WW_AP_IM_P2_22072020, 
+,cluster1,cluster2
+Minimalist,54.8,63.9
+Complex,45.2,36.1
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+AE_WW_AP_IM_P3_22072020, 
+,cluster1,cluster2
+Easy to view,84.1,83.7
+Shocking,15.9,16.3
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+AE_WW_AP_IM_P4_22072020, 
+,cluster1,cluster2
+Realistic,89.7,87.5
+Abstract,10.3,12.5
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+AE_WW_AP_IM_P5_22072020, 
+,cluster1,cluster2
+Human drawn,88.1,93.8
+Computer drawn,11.9,6.2
+Significance,cluster1,cluster2
+Human drawn,---,+++
+Computer drawn,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+AE_WW_AP_IM_P6_22072020, 
+,cluster1,cluster2
+Thought invoking,52.4,52.3
+Simple,47.6,47.7
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+AE_WW_AP_IM_P1_08012021, 
+,cluster1,cluster2
+Casual,61.1,70.4
+Formal,38.9,29.6
+Significance,cluster1,cluster2
+Casual,---,+++
+Formal,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+AE_WW_AP_IM_P2_08012021, 
+,cluster1,cluster2
+Comfortable,50.8,65.8
+High fashion,49.2,34.2
+Significance,cluster1,cluster2
+Comfortable,---,+++
+High fashion,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+AE_WW_AP_IM_P3_08012021, 
+,cluster1,cluster2
+Simple,94.4,97.0
+Complicated,5.6,3.0
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+"Peace: Having equality, harmony, eco-friendliness, and social justice, and being wise:PSY_WW_VALUES_CB_S_SEG_16072020", 
+,cluster1,cluster2
+NoAnswer,51.6,61.7
+"<strong>Peace</strong>: Having equality, harmony, eco-friendliness, and social justice, and being wise",48.4,38.3
+Significance,cluster1,cluster2
+NoAnswer,---,+++
+"<strong>Peace</strong>: Having equality, harmony, eco-friendliness, and social justice, and being wise",+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+"Kindness: Being honest, loyal, helpful and forgiving:PSY_WW_VALUES_CB_S_SEG_16072020", 
+,cluster1,cluster2
+"<strong>Kindness</strong>: Being honest, loyal, helpful and forgiving",51.6,61.1
+NoAnswer,48.4,38.9
+Significance,cluster1,cluster2
+"<strong>Kindness</strong>: Being honest, loyal, helpful and forgiving",---,+++
+NoAnswer,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Duty: Honouring elders and being polite and self-disciplined:PSY_WW_VALUES_CB_S_SEG_16072020, 
+,cluster1,cluster2
+NoAnswer,89.7,81.6
+<strong>Duty</strong>: Honouring elders and being polite and self-disciplined,10.3,18.4
+Significance,cluster1,cluster2
+NoAnswer,+++,---
+<strong>Duty</strong>: Honouring elders and being polite and self-disciplined,---,+++
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+"Tradition: Respecting tradition, being humble, and being devout and moderate:PSY_WW_VALUES_CB_S_SEG_16072020", 
+,cluster1,cluster2
+NoAnswer,73.8,69.6
+"<strong>Tradition</strong>: Respecting tradition, being humble, and being devout and moderate",26.2,30.4
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+"Order: Having a society with order, cleanliness, solidarity, and security:PSY_WW_VALUES_CB_S_SEG_16072020", 
+,cluster1,cluster2
+NoAnswer,78.6,76.8
+"<strong>Order</strong>: Having a society with order, cleanliness, solidarity, and security",21.4,23.2
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+"Power: Being wealthy, authoritative, powerful, and respected:PSY_WW_VALUES_CB_S_SEG_16072020", 
+,cluster1,cluster2
+NoAnswer,95.2,95.8
+"<strong>Power</strong>: Being wealthy, authoritative, powerful, and respected",4.8,4.2
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+"Success: Being smart, capable, ambitious, and influential:PSY_WW_VALUES_CB_S_SEG_16072020", 
+,cluster1,cluster2
+NoAnswer,80.2,83.8
+"<strong>Success</strong>: Being smart, capable, ambitious, and influential",19.8,16.2
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+"Fun: Having pleasure, enjoying life, and being self-indulgent:PSY_WW_VALUES_CB_S_SEG_16072020", 
+,cluster1,cluster2
+NoAnswer,65.9,62.5
+"<strong>Fun</strong>: Having pleasure, enjoying life, and being self-indulgent",34.1,37.5
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+"Stimulation: Having a life that is varied, daring, and exciting:PSY_WW_VALUES_CB_S_SEG_16072020", 
+,cluster1,cluster2
+NoAnswer,86.5,90.9
+"<strong>Stimulation</strong>: Having a life that is varied, daring, and exciting",13.5,9.1
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+"Independence: Being free to choose my own goals, and pursue my own interests:PSY_WW_VALUES_CB_S_SEG_16072020", 
+,cluster1,cluster2
+NoAnswer,54.8,57.8
+"<strong>Independence</strong>: Being free to choose my own goals, and pursue my own interests",45.2,42.2
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Protecting and cherishing other people; being caring and not doing harm to others:PSY_WW_MORALS_CB_S_SEG_11082021, 
+,cluster1,cluster2
+Harm,57.1,65.1
+NoAnswer,42.9,34.9
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Seeing that things are done justly and fairly; being equitable and not cheating:PSY_WW_MORALS_CB_S_SEG_11082021, 
+,cluster1,cluster2
+NoAnswer,42.9,52.4
+Fariness,57.1,47.6
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+"Standing with your group, family, or country; being loyal and not betraying people:PSY_WW_MORALS_CB_S_SEG_11082021", 
+,cluster1,cluster2
+NoAnswer,69.0,65.7
+In group,31.0,34.3
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Honoring tradition and respecting authority; being strong and not being subversive:PSY_WW_MORALS_CB_S_SEG_11082021, 
+,cluster1,cluster2
+NoAnswer,70.6,75.5
+Authority,29.4,24.5
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Not breaking taboos or doing disgusting things; following natural law and upholding standards of decency:PSY_WW_MORALS_CB_S_SEG_11082021, 
+,cluster1,cluster2
+NoAnswer,89.7,87.1
+Purity,10.3,12.9
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+"Someone who is a practical person who is not interested in abstract ideas prefers to work this routine and has few artistic interests|Someone who spends time reflecting on things, has an active imagination, and likes to think up new ways of doing things, but may lack imagination:PSY_WW_OCEANFIVEITEM_RG_S_SEG_24072020", 
+,cluster1,cluster2
+four,33.3,32.7
+two,17.5,23.3
+five,26.2,16.3
+three,15.1,15.9
+one,7.9,11.8
+Significance,cluster1,cluster2
+four,+++,---
+two,.,.
+five,.,.
+three,.,.
+one,.,.
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+"Someone who doesn’t necessarily work to a schedule tends to be flexible, but disorganized and often forgets to put things back in their proper place|Someone who likes to plan things likes to tidy up pays attention to details but can be rigid or inflexible:PSY_WW_OCEANFIVEITEM_RG_S_SEG_24072020", 
+,cluster1,cluster2
+four,36.5,36.6
+five,31.7,23.1
+three,13.5,16.5
+two,12.7,16.0
+one,5.6,7.9
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+"Someone who is a reserved, private person, who doesn’t like to draw attention to themselves and can be shy around strangers|Someone who is talkative, outgoing, is comfortable around people but could be noisy and attention-seeking:PSY_WW_OCEANFIVEITEM_RG_S_SEG_24072020", 
+,cluster1,cluster2
+two,30.2,33.4
+one,22.2,25.5
+four,19.8,17.7
+three,12.7,15.6
+five,15.1,7.8
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+"Someone who is forthright tends to be critical and find fault with others and doesn’t suffer fools gladly|Someone who is generally trusting and forgiving is interested in people, but can be taken for granted and finds it difficult to say no:PSY_WW_OCEANFIVEITEM_RG_S_SEG_24072020", 
+,cluster1,cluster2
+four,31.7,40.5
+five,29.4,25.3
+three,16.7,15.2
+two,13.5,13.5
+one,8.7,5.5
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+"Someone who is relaxed, unemotional, rarely gets irritated, and seldom feels blue|Someone who is sensitive and excitable, and can be tense:PSY_WW_OCEANFIVEITEM_RG_S_SEG_24072020", 
+,cluster1,cluster2
+four,25.4,29.3
+two,24.6,24.6
+five,21.4,17.1
+three,15.1,16.5
+one,13.5,12.5
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+A stable and predictable life with basic needs met:PSY_WW_HOPES_CB_S_SEG_16072020, 
+,cluster1,cluster2
+NoAnswer,60.3,59.0
+A stable and predictable life with basic needs met,39.7,41.0
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Feeling safe and secure:PSY_WW_HOPES_CB_S_SEG_16072020, 
+,cluster1,cluster2
+Feeling safe and secure,61.1,60.8
+NoAnswer,38.9,39.2
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Being free to be me:PSY_WW_HOPES_CB_S_SEG_16072020, 
+,cluster1,cluster2
+NoAnswer,56.3,67.2
+Being free to be me,43.7,32.8
+Significance,cluster1,cluster2
+NoAnswer,---,+++
+Being free to be me,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Belonging and feeling loved:PSY_WW_HOPES_CB_S_SEG_16072020, 
+,cluster1,cluster2
+NoAnswer,67.5,55.7
+Belonging and feeling loved,32.5,44.3
+Significance,cluster1,cluster2
+NoAnswer,+++,---
+Belonging and feeling loved,---,+++
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Achieving status and power:PSY_WW_HOPES_CB_S_SEG_16072020, 
+,cluster1,cluster2
+NoAnswer,86.5,95.4
+Achieving status and power,13.5,4.6
+Significance,cluster1,cluster2
+NoAnswer,---,+++
+Achieving status and power,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Nothing; life is hopeless:PSY_WW_HOPES_CB_S_SEG_16072020, 
+,cluster1,cluster2
+NoAnswer,98.4,97.8
+Nothing; life is hopeless,1.6,2.2
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+The end of life as I know it today:PSY_WW_FEARS_CB_S_SEG_16072020, 
+,cluster1,cluster2
+NoAnswer,79.4,77.5
+The end of life as I know it today,20.6,22.5
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Being injured or attacked:PSY_WW_FEARS_CB_S_SEG_16072020, 
+,cluster1,cluster2
+NoAnswer,76.2,77.3
+Being injured or attacked,23.8,22.7
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Feeling trapped and helpless:PSY_WW_FEARS_CB_S_SEG_16072020, 
+,cluster1,cluster2
+NoAnswer,68.3,72.8
+Feeling trapped and helpless,31.7,27.2
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Being alone or losing one’s community:PSY_WW_FEARS_CB_S_SEG_16072020, 
+,cluster1,cluster2
+NoAnswer,74.6,76.6
+Being alone or losing one’s community,25.4,23.4
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Feeling ashamed or worthless:PSY_WW_FEARS_CB_S_SEG_16072020, 
+,cluster1,cluster2
+NoAnswer,81.7,85.4
+Feeling ashamed or worthless,18.3,14.6
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Not having enough to survive or live with dignity:PSY_WW_FEARS_CB_S_SEG_16072020, 
+,cluster1,cluster2
+NoAnswer,64.3,59.5
+Not having enough to survive or live with dignity,35.7,40.5
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+I am not afraid of anything:PSY_WW_FEARS_CB_S_SEG_16072020, 
+,cluster1,cluster2
+NoAnswer,91.3,86.8
+I am not afraid of anything,8.7,13.2
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+The one that everyone else is buying:PSY_WW_CIALDINIBRANDS_CB_S_SEG_24072020, 
+,cluster1,cluster2
+NoAnswer,92.9,97.6
+The one that everyone else is buying,7.1,2.4
+Significance,cluster1,cluster2
+NoAnswer,---,+++
+The one that everyone else is buying,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+The one that looks the best:PSY_WW_CIALDINIBRANDS_CB_S_SEG_24072020, 
+,cluster1,cluster2
+NoAnswer,82.5,85.8
+The one that looks the best,17.5,14.2
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+"The one that matches my identity, or that people like me buy:PSY_WW_CIALDINIBRANDS_CB_S_SEG_24072020", 
+,cluster1,cluster2
+NoAnswer,81.0,74.6
+"The one that matches my identity, or that people like me buy",19.0,25.4
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+The one from a brand I am familiar with:PSY_WW_CIALDINIBRANDS_CB_S_SEG_24072020, 
+,cluster1,cluster2
+The one from a brand I am familiar with,68.3,76.9
+NoAnswer,31.7,23.1
+Significance,cluster1,cluster2
+The one from a brand I am familiar with,---,+++
+NoAnswer,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+The one from a brand that has sent me a free gift in the past:PSY_WW_CIALDINIBRANDS_CB_S_SEG_24072020, 
+,cluster1,cluster2
+NoAnswer,92.1,94.3
+The one from a brand that has sent me a free gift in the past,7.9,5.7
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+The one that is most exclusive and unique:PSY_WW_CIALDINIBRANDS_CB_S_SEG_24072020, 
+,cluster1,cluster2
+NoAnswer,84.9,89.5
+The one that is most exclusive and unique,15.1,10.5
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+The one that is recommended by experts:PSY_WW_CIALDINIBRANDS_CB_S_SEG_24072020, 
+,cluster1,cluster2
+NoAnswer,67.5,70.2
+The one that is recommended by experts,32.5,29.8
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Sage:PSY_WW_ARCHETYPES_CB_S_SEG_07012021, 
+,cluster1,cluster2
+NoAnswer,92.9,86.3
+Sage,7.1,13.7
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Dreamer:PSY_WW_ARCHETYPES_CB_S_SEG_07012021, 
+,cluster1,cluster2
+NoAnswer,61.9,71.4
+Dreamer,38.1,28.6
+Significance,cluster1,cluster2
+NoAnswer,---,+++
+Dreamer,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Explorer:PSY_WW_ARCHETYPES_CB_S_SEG_07012021, 
+,cluster1,cluster2
+NoAnswer,69.8,69.1
+Explorer,30.2,30.9
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Ruler:PSY_WW_ARCHETYPES_CB_S_SEG_07012021, 
+,cluster1,cluster2
+NoAnswer,90.5,93.9
+Ruler,9.5,6.1
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Artist:PSY_WW_ARCHETYPES_CB_S_SEG_07012021, 
+,cluster1,cluster2
+NoAnswer,82.5,82.0
+Artist,17.5,18.0
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Caregiver:PSY_WW_ARCHETYPES_CB_S_SEG_07012021, 
+,cluster1,cluster2
+NoAnswer,73.0,70.2
+Caregiver,27.0,29.8
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Magician:PSY_WW_ARCHETYPES_CB_S_SEG_07012021, 
+,cluster1,cluster2
+NoAnswer,88.9,88.7
+Magician,11.1,11.3
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Hero:PSY_WW_ARCHETYPES_CB_S_SEG_07012021, 
+,cluster1,cluster2
+NoAnswer,73.0,76.9
+Hero,27.0,23.1
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Outlaw:PSY_WW_ARCHETYPES_CB_S_SEG_07012021, 
+,cluster1,cluster2
+NoAnswer,87.3,87.0
+Outlaw,12.7,13.0
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Lover:PSY_WW_ARCHETYPES_CB_S_SEG_07012021, 
+,cluster1,cluster2
+NoAnswer,65.9,72.4
+Lover,34.1,27.6
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Jester:PSY_WW_ARCHETYPES_CB_S_SEG_07012021, 
+,cluster1,cluster2
+NoAnswer,92.9,94.5
+Jester,7.1,5.5
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+Everyman:PSY_WW_ARCHETYPES_CB_S_SEG_07012021, 
+,cluster1,cluster2
+NoAnswer,90.5,87.2
+Everyman,9.5,12.8
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+PSY_WW_MOTIVATIONS_RB_S_SEG_07012021, 
+,cluster1,cluster2
+Security,34.1,39.5
+Actualisation,21.4,19.3
+Saftety,12.7,20.2
+Belonging,21.4,14.1
+Esteem,10.3,6.9
+Significance,cluster1,cluster2
+Security,.,.
+Actualisation,+++,---
+Saftety,.,.
+Belonging,+++,---
+Esteem,.,.
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+"Fearful, including scared, anxious, insecure, weak, rejected, or threatened:PSY_WW_FEELINGS_IMS_S_SEG_13042021", 
+,cluster1,cluster2
+NoAnswer,79.4,76.9
+"Fearful, including scared, anxious, insecure, weak, rejected, or threatened",20.6,23.1
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+"Angry, including let down, humiliated, bitter, aggressive, frustrated, critical:PSY_WW_FEELINGS_IMS_S_SEG_13042021", 
+,cluster1,cluster2
+NoAnswer,84.9,88.3
+"Angry, including let down, humiliated, bitter, aggressive, frustrated, critical",15.1,11.7
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+"Disgusted, including repelled, nauseated, revolted, awful, disapproving, disappointed:PSY_WW_FEELINGS_IMS_S_SEG_13042021", 
+,cluster1,cluster2
+NoAnswer,92.9,89.1
+"Disgusted, including repelled, nauseated, revolted, awful, disapproving, disappointed",7.1,10.9
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+"Sad, including hurt, depressed, guilty, despairing, vulnerable, or lonely:PSY_WW_FEELINGS_IMS_S_SEG_13042021", 
+,cluster1,cluster2
+NoAnswer,79.4,75.2
+"Sad, including hurt, depressed, guilty, despairing, vulnerable, or lonely",20.6,24.8
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+"Happy, including playful, content, interested, accepting,  peaceful, trusting or optimistic:PSY_WW_FEELINGS_IMS_S_SEG_13042021", 
+,cluster1,cluster2
+"Happy, including playful, content, interested, accepting,  peaceful, trusting or optimistic",52.4,50.7
+NoAnswer,47.6,49.3
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+"Surprised, including startled, confused, amazed:PSY_WW_FEELINGS_IMS_S_SEG_13042021", 
+,cluster1,cluster2
+NoAnswer,84.1,89.4
+"Surprised, including startled, confused, amazed",15.9,10.6
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+"Deflated, including bored, busy, stressed or tired:PSY_WW_FEELINGS_IMS_S_SEG_13042021", 
+,cluster1,cluster2
+NoAnswer,64.3,65.8
+"Deflated, including bored, busy, stressed or tired",35.7,34.2
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+DEM_WW_GENERATION_RB_S_v1_14012021, 
+,cluster1,cluster2
+Baby boomers,27.0,37.5
+Generation X,32.5,27.9
+Millennials,33.3,24.6
+Generation Z,6.3,5.5
+The Silent Generation,0.8,4.5
+Significance,cluster1,cluster2
+Baby boomers,---,+++
+Generation X,.,.
+Millennials,.,.
+Generation Z,+++,---
+The Silent Generation,---,+++
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+DEM_WW_SETTLEMENT_RB_S_v1_CINT_24072020, 
+,cluster1,cluster2
+Suburban,57.1,55.9
+Rural,17.5,25.4
+Urban,25.4,18.7
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+DEM_WW_MS_RB_L_v1_16072020, 
+,cluster1,cluster2
+Married,41.7,41.2
+Single / Never married,30.7,27.3
+Divorced,7.9,14.0
+Domestic or civil partnership / Living with partner,11.0,6.9
+Widowed,2.4,7.1
+Separated,3.1,2.0
+Engaged,2.4,1.4
+Prefer not to say,0.8,0.1
+Significance,cluster1,cluster2
+Married,.,.
+Single / Never married,.,.
+Divorced,.,.
+Domestic or civil partnership / Living with partner,.,.
+Widowed,.,.
+Separated,.,.
+Engaged,.,.
+Prefer not to say,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+DEM_WW_RB_S_v1_14012021, 
+,cluster1,cluster2
+Bachelors,31.7,25.2
+Empty nest 2,11.1,18.3
+Full nest 2,21.4,14.9
+Else,6.3,15.4
+Empty nest 1,10.3,9.6
+Full nest 3,7.1,6.3
+Newly Married couples,6.3,5.5
+Full nest 1,5.6,4.8
+Significance,cluster1,cluster2
+Bachelors,.,.
+Empty nest 2,---,+++
+Full nest 2,.,.
+Else,---,+++
+Empty nest 1,.,.
+Full nest 3,.,.
+Newly Married couples,.,.
+Full nest 1,.,.
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+DEM_WW_CH_RB_L_v1_16072020, 
+,cluster1,cluster2
+None,31.2,50.5
+NoAnswer,37.5,30.7
+"Yes, one child",11.7,9.0
+"Yes, two children",14.1,6.6
+"Yes, three children",3.9,2.4
+"Yes, four or more children",0.8,0.8
+"None, but I am (or my partner is) pregnant",0.8,0.1
+Significance,cluster1,cluster2
+None,.,.
+NoAnswer,+++,---
+"Yes, one child",.,.
+"Yes, two children",.,.
+"Yes, three children",.,.
+"Yes, four or more children",.,.
+"None, but I am (or my partner is) pregnant",+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+DEM_US_ETH_DM_S_v2_14072020, 
+,cluster1,cluster2
+White,60.9,80.5
+Black or African American,10.2,7.6
+Asian,14.8,4.7
+Hispanic or Latino,7.0,3.1
+Other,3.1,2.6
+American Indian or Alaska Native,2.3,1.0
+Prefer not to say,0.8,0.4
+Native Hawaiian or Pacific Islander,0.8,0.1
+Significance,cluster1,cluster2
+White,.,.
+Black or African American,+++,---
+Asian,.,.
+Hispanic or Latino,+++,---
+Other,.,.
+American Indian or Alaska Native,.,.
+Prefer not to say,.,.
+Native Hawaiian or Pacific Islander,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+SOC_WW_EDU_DM_S_v1_14072020, 
+,cluster1,cluster2
+High School/Tertiary/Tech. College/College,34.4,46.4
+University/Higher Education - Undergraduate Education,32.0,32.9
+University - Postgraduate Education,25.0,12.6
+Secondary School,7.0,6.5
+Primary School,0.8,1.0
+None completed,0.8,0.6
+Significance,cluster1,cluster2
+High School/Tertiary/Tech. College/College,---,+++
+University/Higher Education - Undergraduate Education,.,.
+University - Postgraduate Education,.,.
+Secondary School,.,.
+Primary School,---,+++
+None completed,.,.
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+SOC_WW_PR_DM_S_v2_16072020, 
+,cluster1,cluster2
+Does not apply / I am not studying / have not studied at university/college,12.7,19.7
+Business / Economics,20.6,17.2
+Other,8.7,14.7
+Sciences / Engineering / Mathematics,9.5,9.8
+Social Sciences,11.9,7.9
+not shown,7.1,8.1
+IT,13.5,5.0
+Medical,3.2,5.6
+Humanities / Languages,3.2,5.1
+Music / Arts,3.2,3.4
+Law,2.4,1.8
+Media,2.4,1.0
+International Relations / Political science,1.6,0.7
+Significance,cluster1,cluster2
+Does not apply / I am not studying / have not studied at university/college,.,.
+Business / Economics,.,.
+Other,.,.
+Sciences / Engineering / Mathematics,---,+++
+Social Sciences,.,.
+not shown,.,.
+IT,.,.
+Medical,.,.
+Humanities / Languages,.,.
+Music / Arts,.,.
+Law,.,.
+Media,.,.
+International Relations / Political science,.,.
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+"What would best describe the occupation of the person with the highest income in your household, including you?", 
+,cluster1,cluster2
+B,28.6,19.9
+C2,12.7,21.8
+C1,15.1,19.3
+A,28.6,16.3
+E,9.5,14.6
+D,5.6,8.2
+Significance,cluster1,cluster2
+B,+++,---
+C2,---,+++
+C1,.,.
+A,+++,---
+E,.,.
+D,.,.
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+SOC_WW_ES_DM_S_v2_07012021, 
+,cluster1,cluster2
+Retired,15.6,27.8
+Full-time work in the private sector,38.3,23.1
+Unemployed,4.7,11.5
+Full-time work in the public sector,12.5,6.8
+Homemaker,6.2,7.3
+Unable to work,3.1,6.6
+Own business / Self-employed / Freelance,7.0,5.9
+Part-time work in the private sector,3.1,4.6
+Part-time work in the public sector,2.3,2.9
+Studies,3.9,2.3
+Another type of paid work,0.8,0.7
+Parental leave,0.8,0.3
+Leave of absence,0.8,0.1
+Active military service,0.8,0.1
+Significance,cluster1,cluster2
+Retired,.,.
+Full-time work in the private sector,.,.
+Unemployed,---,+++
+Full-time work in the public sector,+++,---
+Homemaker,.,.
+Unable to work,.,.
+Own business / Self-employed / Freelance,.,.
+Part-time work in the private sector,.,.
+Part-time work in the public sector,.,.
+Studies,.,.
+Another type of paid work,+++,---
+Parental leave,.,.
+Leave of absence,.,.
+Active military service,+++,---
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+SOC_WW_PR_DM_L_v1_16072020, 
+,cluster1,cluster2
+Other,24.8,44.6
+Healthcare,7.0,8.3
+Teacher training and education,5.4,6.4
+Sales,8.5,5.3
+Information technology,14.0,4.5
+"Accountancy, banking, and finance",8.5,4.7
+"Business, consulting, and management",7.0,4.4
+Engineering and manufacturing,1.6,2.9
+Transport and logistics,3.1,2.2
+Public services and administration,3.1,1.8
+Hospitality and events management,0.8,1.8
+Creative arts and design,2.3,1.6
+Property and construction,0.8,1.5
+Social care,2.3,1.3
+Law,0.8,1.4
+Recruitment and HR,3.1,0.9
+"Marketing, advertising, and PR",0.8,1.2
+Charity and voluntary work,0.8,1.0
+Science and pharmaceuticals,1.6,0.9
+Media and internet,0.8,0.9
+"Agriculture, farming, and environment",0.8,0.9
+Law enforcement and security,0.8,0.6
+Energy and utilities,0.8,0.5
+"Leisure, sport, and tourism",0.8,0.2
+Significance,cluster1,cluster2
+Other,.,.
+Healthcare,.,.
+Teacher training and education,.,.
+Sales,.,.
+Information technology,.,.
+"Accountancy, banking, and finance",.,.
+"Business, consulting, and management",.,.
+Engineering and manufacturing,.,.
+Transport and logistics,.,.
+Public services and administration,+++,---
+Hospitality and events management,.,.
+Creative arts and design,.,.
+Property and construction,.,.
+Social care,.,.
+Law,.,.
+Recruitment and HR,+++,---
+"Marketing, advertising, and PR",.,.
+Charity and voluntary work,.,.
+Science and pharmaceuticals,+++,---
+Media and internet,.,.
+"Agriculture, farming, and environment",.,.
+Law enforcement and security,.,.
+Energy and utilities,.,.
+"Leisure, sport, and tourism",.,.
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+SOC_WW_HH_RB_L_v1_15072020, 
+,cluster1,cluster2
+Owned house,52.8,56.6
+Rented apartment,24.4,18.7
+Rented house,13.4,12.2
+Living with my parents,3.9,5.0
+Owned apartment,3.1,3.8
+Other,1.6,3.0
+Prefer not to say,0.8,0.7
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+SOC_WW_IS_DM_S_v1_07012021, 
+,cluster1,cluster2
+"Having just enough income not to struggle, but cannot save much",30.2,33.9
+Living comfortably on present income,39.7,30.7
+Finding it difficult on present income,8.7,13.0
+Living very comfortably on present income,15.9,11.5
+Finding it very difficult on present income,4.8,8.0
+Don’t know / Prefer not to say,0.8,2.9
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+SOC_US_IP_DM_S_v4_16072020, 
+,cluster1,cluster2
+"$25,000 - $49,999",29.1,25.7
+"$10,000 - $24,999",11.8,19.8
+"$50,000 - $74,999",21.3,18.5
+"$75,000 - $99,999",11.8,9.0
+"$1 - $9,999",4.7,8.0
+No income,2.4,6.7
+"$100,000 - $149,999",11.0,5.6
+Prefer not to say,1.6,4.7
+"$150,000 - $249,999",5.5,1.7
+"$250,000 or more",0.8,0.2
+Significance,cluster1,cluster2
+"$25,000 - $49,999",.,.
+"$10,000 - $24,999",---,+++
+"$50,000 - $74,999",+++,---
+"$75,000 - $99,999",+++,---
+"$1 - $9,999",.,.
+No income,.,.
+"$100,000 - $149,999",.,.
+Prefer not to say,.,.
+"$150,000 - $249,999",.,.
+"$250,000 or more",.,.
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+SOC_US_IH_DM_L_v5_16072020, 
+,cluster1,cluster2
+"$25,000 - $49,999",29.4,27.2
+"$50,000 - $74,999",23.8,20.4
+"$1 - $24,999",7.1,19.4
+"$75,000 - $99,999",12.7,12.3
+"$100,000 - $149,999",12.7,9.3
+Prefer not to say,1.6,4.5
+"$150,000 - $249,999",7.1,3.8
+No income,0.8,2.0
+"$250,000 - $499,999",4.8,1.1
+Significance,cluster1,cluster2
+"$25,000 - $49,999",+++,---
+"$50,000 - $74,999",.,.
+"$1 - $24,999",.,.
+"$75,000 - $99,999",.,.
+"$100,000 - $149,999",+++,---
+Prefer not to say,.,.
+"$150,000 - $249,999",.,.
+No income,.,.
+"$250,000 - $499,999",.,.
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+PII_US_ZC_TB_S_v1_28052021, 
+,cluster1,cluster2
+NoAnswer,0.1,1.6
+not shown,0.1,0.6
+29464.0,0.1,0.3
+80130.0,0.4,0.1
+2139.0,0.1,0.3
+67216.0,0.1,0.2
+44515.0,0.1,0.3
+71901.0,0.1,0.3
+60630.0,0.1,0.3
+15801.0,0.1,0.3
+68842.0,0.1,0.3
+32940.0,0.1,0.2
+29445.0,0.1,0.2
+75068.0,0.1,0.2
+6460.0,0.1,0.2
+95827.0,0.1,0.2
+89139.0,0.2,0.1
+46254.0,0.1,0.2
+30184.0,0.1,0.2
+29588.0,0.1,0.2
+98948.0,0.1,0.2
+33322.0,0.1,0.2
+85119.0,0.1,0.2
+73750.0,0.1,0.2
+43725.0,0.1,0.2
+97006.0,0.1,0.2
+53220.0,0.1,0.2
+27302.0,0.1,0.2
+10603.0,0.1,0.2
+35063.0,0.1,0.1
+8759.0,0.1,0.1
+76110.0,0.1,0.1
+72701.0,0.1,0.2
+27288.0,0.1,0.2
+72762.0,0.1,0.1
+98366.0,0.1,0.1
+77355.0,0.1,0.2
+63033.0,0.1,0.1
+34482.0,0.1,0.2
+48346.0,0.1,0.2
+91803.0,0.1,0.2
+76306.0,0.1,0.2
+20871.0,0.1,0.2
+28405.0,0.1,0.1
+15108.0,0.1,0.2
+32792.0,0.1,0.1
+2816.0,0.1,0.2
+11572.0,0.1,0.2
+49464.0,0.2,0.1
+32708.0,0.1,0.2
+25541.0,0.1,0.2
+92507.0,0.1,0.2
+94582.0,0.1,0.1
+44691.0,0.1,0.2
+55439.0,0.1,0.2
+30101.0,0.1,0.2
+40208.0,0.1,0.2
+48439.0,0.1,0.2
+29681.0,0.1,0.2
+34104.0,0.1,0.2
+70117.0,0.1,0.2
+37062.0,0.1,0.2
+89521.0,0.1,0.2
+33897.0,0.1,0.2
+12533.0,0.1,0.2
+62206.0,0.1,0.1
+28601.0,0.1,0.2
+62002.0,0.1,0.2
+80631.0,0.1,0.2
+26508.0,0.1,0.2
+72117.0,0.1,0.2
+94533.0,0.1,0.2
+32713.0,0.1,0.2
+49525.0,0.1,0.2
+64468.0,0.1,0.2
+80210.0,0.2,0.1
+29689.0,0.1,0.2
+33705.0,0.1,0.2
+91307.0,0.1,0.2
+73013.0,0.1,0.2
+76554.0,0.1,0.2
+37660.0,0.1,0.2
+34293.0,0.1,0.2
+14624.0,0.1,0.2
+39110.0,0.1,0.2
+30253.0,0.1,0.1
+8873.0,0.1,0.1
+14063.0,0.1,0.1
+27407.0,0.1,0.1
+7403.0,0.1,0.1
+22980.0,0.1,0.1
+47150.0,0.1,0.1
+48911.0,0.1,0.1
+56537.0,0.1,0.1
+6824.0,0.1,0.1
+16415.0,0.1,0.1
+76180.0,0.1,0.1
+28540.0,0.1,0.1
+37923.0,0.1,0.1
+40503.0,0.1,0.1
+90047.0,0.1,0.1
+45377.0,0.1,0.1
+43017.0,0.1,0.1
+19148.0,0.1,0.1
+27858.0,0.1,0.1
+30838.0,0.1,0.1
+49534.0,0.1,0.1
+64136.0,0.1,0.1
+49601.0,0.1,0.1
+30075.0,0.1,0.1
+77429.0,0.1,0.1
+21009.0,0.1,0.1
+78212.0,0.1,0.1
+60953.0,0.1,0.1
+77447.0,0.1,0.1
+63357.0,0.1,0.1
+20002.0,0.1,0.1
+6029.0,0.1,0.1
+14075.0,0.1,0.1
+30016.0,0.1,0.1
+56579.0,0.1,0.1
+10303.0,0.1,0.1
+41501.0,0.1,0.1
+60177.0,0.1,0.1
+85015.0,0.1,0.1
+85705.0,0.1,0.1
+48310.0,0.1,0.1
+1749.0,0.1,0.1
+35007.0,0.1,0.1
+56215.0,0.1,0.1
+53217.0,0.1,0.1
+7701.0,0.1,0.1
+71301.0,0.1,0.1
+42164.0,0.1,0.1
+78216.0,0.1,0.1
+21701.0,0.1,0.1
+28791.0,0.1,0.1
+14619.0,0.1,0.1
+92110.0,0.1,0.1
+23894.0,0.1,0.1
+36866.0,0.1,0.1
+14613.0,0.1,0.1
+13039.0,0.1,0.1
+43947.0,0.1,0.1
+2180.0,0.1,0.1
+8824.0,0.1,0.1
+16602.0,0.1,0.1
+14620.0,0.1,0.1
+25427.0,0.1,0.1
+45414.0,0.1,0.1
+32818.0,0.1,0.1
+29687.0,0.1,0.1
+14226.0,0.1,0.1
+68847.0,0.1,0.1
+38305.0,0.1,0.1
+97209.0,0.1,0.1
+56093.0,0.1,0.1
+76112.0,0.1,0.1
+77060.0,0.1,0.1
+34201.0,0.1,0.1
+27514.0,0.1,0.1
+44875.0,0.1,0.1
+91436.0,0.1,0.1
+87114.0,0.1,0.1
+89074.0,0.1,0.1
+17231.0,0.1,0.1
+87048.0,0.1,0.1
+86022.0,0.1,0.1
+33023.0,0.1,0.1
+98003.0,0.1,0.1
+87102.0,0.1,0.1
+39440.0,0.1,0.1
+27410.0,0.1,0.1
+17314.0,0.1,0.1
+44228.0,0.1,0.1
+41042.0,0.1,0.1
+44839.0,0.1,0.1
+85249.0,0.1,0.1
+84047.0,0.1,0.1
+44124.0,0.1,0.1
+20175.0,0.1,0.1
+80601.0,0.1,0.1
+43615.0,0.1,0.1
+29662.0,0.1,0.1
+59722.0,0.1,0.1
+18077.0,0.1,0.1
+14223.0,0.1,0.1
+23323.0,0.1,0.1
+49855.0,0.1,0.1
+32607.0,0.1,0.1
+49441.0,0.1,0.1
+23221.0,0.1,0.1
+98282.0,0.1,0.1
+55318.0,0.1,0.1
+2360.0,0.1,0.1
+7104.0,0.1,0.1
+60613.0,0.1,0.1
+37214.0,0.1,0.1
+59901.0,0.1,0.1
+47129.0,0.1,0.1
+77494.0,0.1,0.1
+80921.0,0.1,0.1
+60098.0,0.1,0.1
+13126.0,0.1,0.1
+28467.0,0.1,0.1
+29909.0,0.1,0.1
+21220.0,0.1,0.1
+20151.0,0.1,0.1
+10543.0,0.1,0.1
+22079.0,0.1,0.1
+18508.0,0.1,0.1
+33872.0,0.1,0.1
+37716.0,0.1,0.1
+14861.0,0.1,0.1
+45150.0,0.1,0.1
+53716.0,0.1,0.1
+75249.0,0.1,0.1
+29566.0,0.1,0.1
+70506.0,0.1,0.1
+77072.0,0.1,0.1
+37043.0,0.1,0.1
+87107.0,0.1,0.1
+45420.0,0.1,0.1
+36305.0,0.1,0.1
+30288.0,0.1,0.1
+33544.0,0.1,0.1
+78227.0,0.1,0.1
+97330.0,0.1,0.1
+60103.0,0.1,0.1
+36027.0,0.1,0.1
+98105.0,0.1,0.1
+48225.0,0.1,0.1
+66213.0,0.1,0.1
+20748.0,0.1,0.1
+37760.0,0.1,0.1
+42539.0,0.1,0.1
+66617.0,0.1,0.1
+60411.0,0.1,0.1
+44241.0,0.1,0.1
+12538.0,0.1,0.1
+91780.0,0.1,0.1
+97080.0,0.1,0.1
+94402.0,0.1,0.1
+97526.0,0.1,0.1
+54901.0,0.1,0.1
+68004.0,0.1,0.1
+11238.0,0.1,0.1
+58330.0,0.1,0.1
+12601.0,0.1,0.1
+26105.0,0.1,0.1
+43123.0,0.1,0.1
+19002.0,0.1,0.1
+68801.0,0.1,0.1
+77531.0,0.1,0.1
+77859.0,0.1,0.1
+79705.0,0.1,0.1
+74012.0,0.1,0.1
+84095.0,0.1,0.1
+60641.0,0.1,0.1
+34736.0,0.1,0.1
+32114.0,0.1,0.1
+53965.0,0.1,0.1
+89506.0,0.1,0.1
+77510.0,0.1,0.1
+38104.0,0.1,0.1
+28098.0,0.1,0.1
+89131.0,0.1,0.1
+63116.0,0.1,0.1
+23701.0,0.1,0.1
+19808.0,0.1,0.1
+75235.0,0.1,0.1
+36117.0,0.1,0.1
+85029.0,0.1,0.1
+1701.0,0.1,0.1
+89012.0,0.1,0.1
+39648.0,0.1,0.1
+30144.0,0.1,0.1
+97754.0,0.1,0.1
+10471.0,0.1,0.1
+2445.0,0.1,0.1
+10011.0,0.1,0.1
+30009.0,0.1,0.1
+30741.0,0.1,0.1
+92103.0,0.1,0.1
+19124.0,0.1,0.1
+37821.0,0.1,0.1
+90810.0,0.1,0.1
+91791.0,0.1,0.1
+20191.0,0.1,0.1
+28210.0,0.1,0.1
+75023.0,0.1,0.1
+95959.0,0.1,0.1
+55404.0,0.1,0.1
+92563.0,0.1,0.1
+23602.0,0.1,0.1
+32955.0,0.1,0.1
+45750.0,0.1,0.1
+94134.0,0.1,0.1
+91501.0,0.1,0.1
+27536.0,0.1,0.1
+48348.0,0.1,0.1
+44512.0,0.1,0.1
+32128.0,0.1,0.1
+1020.0,0.1,0.1
+46406.0,0.1,0.1
+37857.0,0.1,0.1
+54952.0,0.1,0.1
+45805.0,0.1,0.1
+32952.0,0.1,0.1
+43212.0,0.1,0.1
+48127.0,0.1,0.1
+44134.0,0.1,0.1
+2130.0,0.1,0.1
+18343.0,0.1,0.1
+44647.0,0.1,0.1
+11223.0,0.1,0.1
+8007.0,0.1,0.1
+30458.0,0.1,0.1
+70601.0,0.1,0.1
+94002.0,0.1,0.1
+22842.0,0.1,0.1
+67214.0,0.1,0.1
+89115.0,0.1,0.1
+11096.0,0.1,0.1
+27104.0,0.1,0.1
+85143.0,0.1,0.1
+98642.0,0.1,0.1
+28117.0,0.1,0.1
+91741.0,0.1,0.1
+44116.0,0.1,0.1
+91737.0,0.1,0.1
+6071.0,0.1,0.1
+29455.0,0.1,0.1
+35954.0,0.1,0.1
+7803.0,0.1,0.1
+7016.0,0.1,0.1
+80222.0,0.1,0.1
+19008.0,0.1,0.1
+27817.0,0.1,0.1
+77075.0,0.1,0.1
+38485.0,0.1,0.1
+62704.0,0.1,0.1
+37042.0,0.1,0.1
+6032.0,0.1,0.1
+89048.0,0.1,0.1
+7604.0,0.1,0.1
+30214.0,0.1,0.1
+31088.0,0.1,0.1
+95815.0,0.1,0.1
+55414.0,0.1,0.1
+4416.0,0.1,0.1
+20121.0,0.1,0.1
+98377.0,0.1,0.1
+11435.0,0.1,0.1
+37406.0,0.1,0.1
+19702.0,0.1,0.1
+23452.0,0.1,0.1
+7442.0,0.1,0.1
+24450.0,0.1,0.1
+96701.0,0.1,0.1
+38313.0,0.1,0.1
+58503.0,0.1,0.1
+46239.0,0.1,0.1
+8610.0,0.1,0.1
+32601.0,0.1,0.1
+66048.0,0.1,0.1
+46112.0,0.1,0.1
+74344.0,0.1,0.1
+23188.0,0.1,0.1
+29063.0,0.1,0.1
+24963.0,0.1,0.1
+76522.0,0.1,0.1
+29010.0,0.1,0.1
+39455.0,0.1,0.1
+33604.0,0.1,0.1
+85210.0,0.1,0.1
+25921.0,0.1,0.1
+39842.0,0.1,0.1
+30238.0,0.1,0.1
+67219.0,0.1,0.1
+92114.0,0.1,0.1
+77055.0,0.1,0.1
+63126.0,0.1,0.1
+28217.0,0.1,0.1
+33810.0,0.1,0.1
+58078.0,0.1,0.1
+28904.0,0.1,0.1
+55379.0,0.1,0.1
+78201.0,0.1,0.1
+93906.0,0.1,0.1
+31503.0,0.1,0.1
+27317.0,0.1,0.1
+60091.0,0.1,0.1
+11429.0,0.1,0.1
+92677.0,0.1,0.1
+76310.0,0.1,0.1
+74434.0,0.1,0.1
+48504.0,0.1,0.1
+94526.0,0.1,0.1
+43331.0,0.1,0.1
+73521.0,0.1,0.1
+44446.0,0.1,0.1
+4955.0,0.1,0.1
+8820.0,0.1,0.1
+77627.0,0.1,0.1
+33015.0,0.1,0.1
+7310.0,0.1,0.1
+44126.0,0.1,0.1
+4976.0,0.1,0.1
+27350.0,0.1,0.1
+61614.0,0.1,0.1
+99223.0,0.1,0.1
+29054.0,0.1,0.1
+30506.0,0.1,0.1
+49271.0,0.1,0.1
+43228.0,0.1,0.1
+48823.0,0.1,0.1
+69101.0,0.1,0.1
+33917.0,0.1,0.1
+40741.0,0.1,0.1
+60453.0,0.1,0.1
+14094.0,0.1,0.1
+86403.0,0.1,0.1
+45013.0,0.1,0.1
+30067.0,0.1,0.1
+1850.0,0.1,0.1
+37148.0,0.1,0.1
+34787.0,0.1,0.1
+99202.0,0.1,0.1
+49426.0,0.1,0.1
+76227.0,0.1,0.1
+16650.0,0.1,0.1
+11694.0,0.1,0.1
+38868.0,0.1,0.1
+93274.0,0.1,0.1
+48048.0,0.1,0.1
+32003.0,0.1,0.1
+94122.0,0.1,0.1
+28658.0,0.1,0.1
+32301.0,0.1,0.1
+18301.0,0.1,0.1
+98311.0,0.1,0.1
+15211.0,0.1,0.1
+33407.0,0.1,0.1
+38703.0,0.1,0.1
+58274.0,0.1,0.1
+47112.0,0.1,0.1
+92078.0,0.1,0.1
+95337.0,0.1,0.1
+96768.0,0.1,0.1
+44105.0,0.1,0.1
+91709.0,0.1,0.1
+25443.0,0.1,0.1
+20613.0,0.1,0.1
+28356.0,0.1,0.1
+63701.0,0.1,0.1
+97202.0,0.1,0.1
+39401.0,0.1,0.1
+85032.0,0.1,0.1
+34683.0,0.1,0.1
+74133.0,0.1,0.1
+70123.0,0.1,0.1
+32804.0,0.1,0.1
+19335.0,0.1,0.1
+38478.0,0.1,0.1
+55105.0,0.1,0.1
+16662.0,0.1,0.1
+40505.0,0.1,0.1
+22408.0,0.1,0.1
+93560.0,0.1,0.1
+8844.0,0.1,0.1
+15129.0,0.1,0.1
+60564.0,0.1,0.1
+46552.0,0.1,0.1
+2864.0,0.1,0.1
+22015.0,0.1,0.1
+80015.0,0.1,0.1
+48192.0,0.1,0.1
+92284.0,0.1,0.1
+28777.0,0.1,0.1
+7631.0,0.1,0.1
+90064.0,0.1,0.1
+53520.0,0.1,0.1
+40336.0,0.1,0.1
+77459.0,0.1,0.1
+54541.0,0.1,0.1
+96819.0,0.1,0.1
+75150.0,0.1,0.1
+18202.0,0.1,0.1
+64133.0,0.1,0.1
+47610.0,0.1,0.1
+72450.0,0.1,0.1
+80220.0,0.1,0.1
+72081.0,0.1,0.1
+78230.0,0.1,0.1
+2090.0,0.1,0.1
+19428.0,0.1,0.1
+6067.0,0.1,0.1
+50125.0,0.1,0.1
+60076.0,0.1,0.1
+63143.0,0.1,0.1
+32043.0,0.1,0.1
+32701.0,0.1,0.1
+2885.0,0.1,0.1
+7836.0,0.1,0.1
+32751.0,0.1,0.1
+6418.0,0.1,0.1
+39503.0,0.1,0.1
+60649.0,0.1,0.1
+72801.0,0.1,0.1
+7060.0,0.1,0.1
+78664.0,0.1,0.1
+65781.0,0.1,0.1
+97487.0,0.1,0.1
+98569.0,0.1,0.1
+73069.0,0.1,0.1
+90712.0,0.1,0.1
+95354.0,0.1,0.1
+10016.0,0.1,0.1
+15235.0,0.1,0.1
+78163.0,0.1,0.1
+40906.0,0.1,0.1
+80215.0,0.1,0.1
+8332.0,0.1,0.1
+17702.0,0.1,0.1
+63136.0,0.1,0.1
+29376.0,0.1,0.1
+6478.0,0.1,0.1
+37841.0,0.1,0.1
+66762.0,0.1,0.1
+11777.0,0.1,0.1
+19601.0,0.1,0.1
+6705.0,0.1,0.1
+11374.0,0.1,0.1
+20707.0,0.1,0.1
+73006.0,0.1,0.1
+44041.0,0.1,0.1
+75474.0,0.1,0.1
+75156.0,0.1,0.1
+78253.0,0.1,0.1
+71857.0,0.1,0.1
+60706.0,0.1,0.1
+60622.0,0.1,0.1
+28262.0,0.1,0.1
+72143.0,0.1,0.1
+63551.0,0.1,0.1
+61350.0,0.1,0.1
+61354.0,0.1,0.1
+55734.0,0.1,0.1
+7039.0,0.1,0.1
+78541.0,0.1,0.1
+71852.0,0.1,0.1
+10965.0,0.1,0.1
+28088.0,0.1,0.1
+48134.0,0.1,0.1
+72120.0,0.1,0.1
+4862.0,0.1,0.1
+33134.0,0.1,0.1
+6790.0,0.1,0.1
+7876.0,0.1,0.1
+1810.0,0.1,0.1
+30349.0,0.1,0.1
+40744.0,0.1,0.1
+16412.0,0.1,0.1
+98012.0,0.1,0.1
+30122.0,0.1,0.1
+32233.0,0.1,0.1
+30188.0,0.1,0.1
+28562.0,0.1,0.1
+55406.0,0.1,0.1
+77407.0,0.1,0.1
+46217.0,0.1,0.1
+37408.0,0.1,0.1
+33971.0,0.1,0.1
+34609.0,0.1,0.1
+75025.0,0.1,0.1
+50470.0,0.1,0.1
+1040.0,0.1,0.1
+63023.0,0.1,0.1
+28031.0,0.1,0.1
+32163.0,0.1,0.1
+78411.0,0.1,0.1
+49633.0,0.1,0.1
+43560.0,0.1,0.1
+47715.0,0.1,0.1
+55337.0,0.1,0.1
+32907.0,0.1,0.1
+28209.0,0.1,0.1
+53590.0,0.1,0.1
+22546.0,0.1,0.1
+22044.0,0.1,0.1
+94523.0,0.1,0.1
+73742.0,0.1,0.1
+10458.0,0.1,0.1
+15857.0,0.1,0.1
+30058.0,0.1,0.1
+46368.0,0.1,0.1
+73072.0,0.1,0.1
+54601.0,0.1,0.1
+6716.0,0.1,0.1
+49240.0,0.1,0.1
+23831.0,0.1,0.1
+40215.0,0.1,0.1
+83814.0,0.1,0.1
+36109.0,0.1,0.1
+67505.0,0.1,0.1
+10992.0,0.1,0.1
+3110.0,0.1,0.1
+34655.0,0.1,0.1
+44004.0,0.1,0.1
+60068.0,0.1,0.1
+97224.0,0.1,0.1
+33563.0,0.1,0.1
+24701.0,0.1,0.1
+2472.0,0.1,0.1
+21225.0,0.1,0.1
+38501.0,0.1,0.1
+90623.0,0.1,0.1
+10468.0,0.1,0.1
+29690.0,0.1,0.1
+48327.0,0.1,0.1
+63112.0,0.1,0.1
+46168.0,0.1,0.1
+32958.0,0.1,0.1
+36613.0,0.1,0.1
+44624.0,0.1,0.1
+49404.0,0.1,0.1
+91941.0,0.1,0.1
+85086.0,0.1,0.1
+28112.0,0.1,0.1
+37128.0,0.1,0.1
+78415.0,0.1,0.1
+29585.0,0.1,0.1
+48390.0,0.1,0.1
+34685.0,0.1,0.1
+94568.0,0.1,0.1
+17970.0,0.1,0.1
+47933.0,0.1,0.1
+85051.0,0.1,0.1
+78753.0,0.1,0.1
+78109.0,0.1,0.1
+2747.0,0.1,0.1
+71913.0,0.1,0.1
+6410.0,0.1,0.1
+54530.0,0.1,0.1
+4106.0,0.1,0.1
+27526.0,0.1,0.1
+33954.0,0.1,0.1
+48363.0,0.1,0.1
+2467.0,0.1,0.1
+99205.0,0.1,0.1
+15122.0,0.1,0.1
+37701.0,0.1,0.1
+10463.0,0.1,0.1
+82935.0,0.1,0.1
+28052.0,0.1,0.1
+85635.0,0.1,0.1
+23185.0,0.1,0.1
+77703.0,0.1,0.1
+94544.0,0.1,0.1
+78254.0,0.1,0.1
+6119.0,0.1,0.1
+67550.0,0.1,0.1
+33611.0,0.1,0.1
+34231.0,0.1,0.1
+95129.0,0.1,0.1
+61755.0,0.1,0.1
+8723.0,0.1,0.1
+12065.0,0.1,0.1
+31795.0,0.1,0.1
+75126.0,0.1,0.1
+90028.0,0.1,0.1
+28152.0,0.1,0.1
+15461.0,0.1,0.1
+29369.0,0.1,0.1
+46710.0,0.1,0.1
+61088.0,0.1,0.1
+50021.0,0.1,0.1
+32821.0,0.1,0.1
+30040.0,0.1,0.1
+61520.0,0.1,0.1
+85282.0,0.1,0.1
+35570.0,0.1,0.1
+19711.0,0.1,0.1
+77414.0,0.1,0.1
+95361.0,0.1,0.1
+98168.0,0.1,0.1
+93619.0,0.1,0.1
+60008.0,0.1,0.1
+17347.0,0.1,0.1
+7054.0,0.1,0.1
+32131.0,0.1,0.1
+63129.0,0.1,0.1
+70119.0,0.1,0.1
+12189.0,0.1,0.1
+7663.0,0.1,0.1
+11221.0,0.1,0.1
+42420.0,0.1,0.1
+33706.0,0.1,0.1
+44137.0,0.1,0.1
+13108.0,0.1,0.1
+48197.0,0.1,0.1
+27360.0,0.1,0.1
+55374.0,0.1,0.1
+18103.0,0.1,0.1
+49529.0,0.1,0.1
+32246.0,0.1,0.1
+60191.0,0.1,0.1
+98908.0,0.1,0.1
+85022.0,0.1,0.1
+16125.0,0.1,0.1
+94530.0,0.1,0.1
+6010.0,0.1,0.1
+98023.0,0.1,0.1
+11933.0,0.1,0.1
+54956.0,0.1,0.1
+91710.0,0.1,0.1
+94014.0,0.1,0.1
+48631.0,0.1,0.1
+68901.0,0.1,0.1
+37807.0,0.1,0.1
+54935.0,0.1,0.1
+19067.0,0.1,0.1
+22401.0,0.1,0.1
+27406.0,0.1,0.1
+15401.0,0.1,0.1
+53546.0,0.1,0.1
+40218.0,0.1,0.1
+90034.0,0.1,0.1
+2124.0,0.1,0.1
+95835.0,0.1,0.1
+7644.0,0.1,0.1
+74804.0,0.1,0.1
+61832.0,0.1,0.1
+28768.0,0.1,0.1
+85719.0,0.1,0.1
+43055.0,0.1,0.1
+98407.0,0.1,0.1
+20711.0,0.1,0.1
+33160.0,0.1,0.1
+47441.0,0.1,0.1
+23234.0,0.1,0.1
+15644.0,0.1,0.1
+60016.0,0.1,0.1
+1570.0,0.1,0.1
+90037.0,0.1,0.1
+4073.0,0.1,0.1
+37037.0,0.1,0.1
+14086.0,0.1,0.1
+99507.0,0.1,0.1
+48186.0,0.1,0.1
+10533.0,0.1,0.1
+76086.0,0.1,0.1
+46001.0,0.1,0.1
+85323.0,0.1,0.1
+32927.0,0.1,0.1
+23704.0,0.1,0.1
+8094.0,0.1,0.1
+85044.0,0.1,0.1
+47905.0,0.1,0.1
+40977.0,0.1,0.1
+46806.0,0.1,0.1
+40291.0,0.1,0.1
+35209.0,0.1,0.1
+28677.0,0.1,0.1
+11558.0,0.1,0.1
+46825.0,0.1,0.1
+20601.0,0.1,0.1
+31313.0,0.1,0.1
+24354.0,0.1,0.1
+33635.0,0.1,0.1
+61008.0,0.1,0.1
+25882.0,0.1,0.1
+32720.0,0.1,0.1
+60188.0,0.1,0.1
+88511.0,0.1,0.1
+14228.0,0.1,0.1
+48240.0,0.1,0.1
+6340.0,0.1,0.1
+7020.0,0.1,0.1
+11203.0,0.1,0.1
+2720.0,0.1,0.1
+92270.0,0.1,0.1
+30046.0,0.1,0.1
+55741.0,0.1,0.1
+12946.0,0.1,0.1
+17402.0,0.1,0.1
+31768.0,0.1,0.1
+72034.0,0.1,0.1
+92806.0,0.1,0.1
+15690.0,0.1,0.1
+33707.0,0.1,0.1
+21230.0,0.1,0.1
+74801.0,0.1,0.1
+11364.0,0.1,0.1
+59808.0,0.1,0.1
+91731.0,0.1,0.1
+46783.0,0.1,0.1
+80233.0,0.1,0.1
+48195.0,0.1,0.1
+72901.0,0.1,0.1
+32207.0,0.1,0.1
+8012.0,0.1,0.1
+66502.0,0.1,0.1
+80126.0,0.1,0.1
+56097.0,0.1,0.1
+8078.0,0.1,0.1
+17236.0,0.1,0.1
+33540.0,0.1,0.1
+6279.0,0.1,0.1
+62711.0,0.1,0.1
+73028.0,0.1,0.1
+21075.0,0.1,0.1
+60612.0,0.1,0.1
+28311.0,0.1,0.1
+6851.0,0.1,0.1
+24293.0,0.1,0.1
+18102.0,0.1,0.1
+30711.0,0.1,0.1
+2919.0,0.1,0.1
+11704.0,0.1,0.1
+34613.0,0.1,0.1
+33776.0,0.1,0.1
+6484.0,0.1,0.1
+27837.0,0.1,0.1
+75835.0,0.1,0.1
+6247.0,0.1,0.1
+27519.0,0.1,0.1
+97458.0,0.1,0.1
+71295.0,0.1,0.1
+76210.0,0.1,0.1
+44827.0,0.1,0.1
+60559.0,0.1,0.1
+53151.0,0.1,0.1
+44011.0,0.1,0.1
+28037.0,0.1,0.1
+43701.0,0.1,0.1
+74824.0,0.1,0.1
+55113.0,0.1,0.1
+28273.0,0.1,0.1
+97404.0,0.1,0.1
+12423.0,0.1,0.1
+76078.0,0.1,0.1
+75148.0,0.1,0.1
+60646.0,0.1,0.1
+37127.0,0.1,0.1
+7652.0,0.1,0.1
+73099.0,0.1,0.1
+10075.0,0.1,0.1
+36867.0,0.1,0.1
+1721.0,0.1,0.1
+82001.0,0.1,0.1
+25263.0,0.1,0.1
+48183.0,0.1,0.1
+70006.0,0.1,0.1
+76367.0,0.1,0.1
+32780.0,0.1,0.1
+11226.0,0.1,0.1
+29032.0,0.1,0.1
+94559.0,0.1,0.1
+15238.0,0.1,0.1
+61606.0,0.1,0.1
+46410.0,0.1,0.1
+46561.0,0.1,0.1
+17772.0,0.1,0.1
+54937.0,0.1,0.1
+30606.0,0.1,0.1
+89509.0,0.1,0.1
+82501.0,0.1,0.1
+40014.0,0.1,0.1
+12965.0,0.1,0.1
+97501.0,0.1,0.1
+30034.0,0.1,0.1
+94102.0,0.1,0.1
+12306.0,0.1,0.1
+24818.0,0.1,0.1
+46307.0,0.1,0.1
+93611.0,0.1,0.1
+75228.0,0.1,0.1
+75077.0,0.1,0.1
+19343.0,0.1,0.1
+46143.0,0.1,0.1
+34108.0,0.1,0.1
+48617.0,0.1,0.1
+16105.0,0.1,0.1
+84025.0,0.1,0.1
+27103.0,0.1,0.1
+34243.0,0.1,0.1
+96815.0,0.1,0.1
+15865.0,0.1,0.1
+11931.0,0.1,0.1
+55901.0,0.1,0.1
+39402.0,0.1,0.1
+20832.0,0.1,0.1
+97030.0,0.1,0.1
+40514.0,0.1,0.1
+95864.0,0.1,0.1
+3440.0,0.1,0.1
+28027.0,0.1,0.1
+84118.0,0.1,0.1
+32935.0,0.1,0.1
+34786.0,0.1,0.1
+60173.0,0.1,0.1
+60126.0,0.1,0.1
+76240.0,0.1,0.1
+87031.0,0.1,0.1
+49055.0,0.1,0.1
+44070.0,0.1,0.1
+91344.0,0.1,0.1
+45236.0,0.1,0.1
+98570.0,0.1,0.1
+6001.0,0.1,0.1
+30817.0,0.1,0.1
+76354.0,0.1,0.1
+98632.0,0.1,0.1
+95765.0,0.1,0.1
+28731.0,0.1,0.1
+77656.0,0.1,0.1
+92805.0,0.1,0.1
+85296.0,0.1,0.1
+21117.0,0.1,0.1
+92672.0,0.1,0.1
+43110.0,0.1,0.1
+96749.0,0.1,0.1
+34994.0,0.1,0.1
+17901.0,0.1,0.1
+18020.0,0.1,0.1
+70072.0,0.1,0.1
+85085.0,0.1,0.1
+70527.0,0.1,0.1
+23059.0,0.1,0.1
+45231.0,0.1,0.1
+26505.0,0.1,0.1
+99006.0,0.1,0.1
+75224.0,0.1,0.1
+54968.0,0.1,0.1
+15220.0,0.1,0.1
+70767.0,0.1,0.1
+33415.0,0.1,0.1
+35572.0,0.1,0.1
+99336.0,0.1,0.1
+85748.0,0.1,0.1
+63123.0,0.1,0.1
+17202.0,0.1,0.1
+27949.0,0.1,0.1
+68111.0,0.1,0.1
+23325.0,0.1,0.1
+43026.0,0.1,0.1
+33510.0,0.1,0.1
+20716.0,0.1,0.1
+65779.0,0.1,0.1
+85375.0,0.1,0.1
+17872.0,0.1,0.1
+17948.0,0.1,0.1
+78251.0,0.1,0.1
+37924.0,0.1,0.1
+95202.0,0.1,0.1
+43224.0,0.1,0.1
+48160.0,0.1,0.1
+76044.0,0.1,0.1
+45885.0,0.1,0.1
+20009.0,0.1,0.1
+86314.0,0.1,0.1
+20622.0,0.1,0.1
+11236.0,0.1,0.1
+74637.0,0.1,0.1
+30019.0,0.1,0.1
+42301.0,0.1,0.1
+34744.0,0.1,0.1
+46202.0,0.1,0.1
+85713.0,0.1,0.1
+27976.0,0.1,0.1
+22473.0,0.1,0.1
+80433.0,0.1,0.1
+80138.0,0.1,0.1
+48081.0,0.1,0.1
+15057.0,0.1,0.1
+27705.0,0.1,0.1
+15656.0,0.1,0.1
+34241.0,0.1,0.1
+38571.0,0.1,0.1
+43078.0,0.1,0.1
+39157.0,0.1,0.1
+12783.0,0.1,0.1
+94704.0,0.1,0.1
+60084.0,0.1,0.1
+27613.0,0.1,0.1
+14456.0,0.1,0.1
+2151.0,0.1,0.1
+76667.0,0.1,0.1
+1776.0,0.1,0.1
+22193.0,0.1,0.1
+53132.0,0.1,0.1
+20011.0,0.1,0.1
+53221.0,0.1,0.1
+75401.0,0.1,0.1
+1835.0,0.1,0.1
+29406.0,0.1,0.1
+27864.0,0.1,0.1
+78725.0,0.1,0.1
+28626.0,0.1,0.1
+75165.0,0.1,0.1
+63125.0,0.1,0.1
+20886.0,0.1,0.1
+95310.0,0.1,0.1
+7006.0,0.1,0.1
+75561.0,0.1,0.1
+54729.0,0.1,0.1
+33594.0,0.1,0.1
+0.0,0.1,0.1
+30060.0,0.1,0.1
+29205.0,0.1,0.1
+62670.0,0.1,0.1
+46958.0,0.1,0.1
+22191.0,0.1,0.1
+60048.0,0.1,0.1
+40228.0,0.1,0.1
+34269.0,0.1,0.1
+78758.0,0.1,0.1
+67218.0,0.1,0.1
+43138.0,0.1,0.1
+19063.0,0.1,0.1
+49345.0,0.1,0.1
+83619.0,0.1,0.1
+33472.0,0.1,0.1
+95050.0,0.1,0.1
+75751.0,0.1,0.1
+74074.0,0.1,0.1
+91730.0,0.1,0.1
+88345.0,0.1,0.1
+32578.0,0.1,0.1
+33483.0,0.1,0.1
+90036.0,0.1,0.1
+37874.0,0.1,0.1
+45247.0,0.1,0.1
+45342.0,0.1,0.1
+15427.0,0.1,0.1
+2893.0,0.1,0.1
+78754.0,0.1,0.1
+95821.0,0.1,0.1
+27265.0,0.1,0.1
+64114.0,0.1,0.1
+45656.0,0.1,0.1
+7080.0,0.1,0.1
+95350.0,0.1,0.1
+37138.0,0.1,0.1
+97530.0,0.1,0.1
+78717.0,0.1,0.1
+21208.0,0.1,0.1
+43452.0,0.1,0.1
+27573.0,0.1,0.1
+49788.0,0.1,0.1
+2459.0,0.1,0.1
+49783.0,0.1,0.1
+90680.0,0.1,0.1
+71603.0,0.1,0.1
+30350.0,0.1,0.1
+8701.0,0.1,0.1
+98134.0,0.1,0.1
+37015.0,0.1,0.1
+76559.0,0.1,0.1
+29617.0,0.1,0.1
+98270.0,0.1,0.1
+34237.0,0.1,0.1
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+What is your email address?, 
+,cluster1,cluster2
+NoAnswer,2.2,15.6
+not shown,0.1,0.6
+bronco3016@gmail.com,0.1,0.3
+mike_grossi@netzero.com,0.1,0.3
+maneeshgupta38@yahoo.com,0.3,0.1
+no@gmail.com,0.1,0.3
+darlene03011965@gmail.com,0.1,0.2
+wward760@gmail.com,0.1,0.2
+jbeans0318@gmail.com,0.1,0.2
+castardic@gmail.com,0.1,0.2
+nsteele90@icloud.com,0.1,0.2
+sassyshorty50@yahoo.com,0.1,0.2
+thecoastalwriter@yahoo.com,0.1,0.1
+joesmokesforless@aol.com,0.1,0.1
+gabsurvey@mail.com,0.1,0.2
+noodlesjnoodleson@yahoo.com,0.1,0.2
+nezmerized43@gmail.com,0.1,0.2
+mink.lori@yahoo.com,0.1,0.2
+dinouye33@aol.com,0.1,0.2
+angiemayes5@gmail.com,0.1,0.2
+ashedleski64@gmail.com,0.2,0.1
+judy@ddjpcpa.com,0.1,0.2
+johnschaffhauser@gmail.com,0.1,0.2
+ncarman420@gmail.com,0.1,0.2
+none@none.com,0.1,0.2
+mjzluki89@gmail.com,0.1,0.2
+mannmowing@yahoo.com,0.1,0.1
+julianne.caffey@yahoo.com,0.1,0.1
+dhp0859@hotmail.com,0.1,0.1
+Trlatona@gmail.com,0.1,0.1
+nancyamans@yahoo.com,0.1,0.1
+ebajor@gmail.com,0.1,0.1
+aprilhamons@gmail.com,0.1,0.1
+barbarahop60@gmail.com,0.1,0.1
+sb4surveys@yahoo.com,0.1,0.1
+newvirginian33@gmail.com,0.1,0.1
+dlangfeld59@gmail.com,0.1,0.1
+al-pate@att.net,0.1,0.1
+coachkal86@gmail.com,0.1,0.1
+gloria54richards@gmail.com,0.1,0.1
+hannahhsimpsonn2@gmail.com,0.1,0.1
+test@none.com,0.1,0.1
+eat@joes.com,0.1,0.1
+Tigressgem@hotmail.com,0.1,0.1
+victoriaunderwood@hotmail.com,0.1,0.1
+amanda3595@yahoo.com,0.1,0.1
+lorideaton90@yahoo.com,0.1,0.1
+kreationkidskorner@yahoo.com,0.1,0.1
+fayne67@gmail.com,0.1,0.1
+pcon445@aol.com,0.1,0.1
+pamnelson2010@gmail.com,0.1,0.1
+ewanmcgregorlover007@yahoo.com,0.1,0.1
+ambergunter26@gmail.com,0.1,0.1
+meng_jin_sheng@yahoo.com,0.1,0.1
+craigmcclarsn@gmail.com,0.1,0.1
+fastershipping@yahoo.com,0.1,0.1
+hasim.grobar@yahoo.com,0.1,0.1
+sc102696@yahoo.com,0.1,0.1
+rix.jennifer@yahoo.com,0.1,0.1
+asmhall416@gmail.com,0.1,0.1
+Sanguinario@msn.com,0.1,0.1
+cgupta2016@hotmail.com,0.1,0.1
+imholtematthew@gmail.com,0.1,0.1
+hattiesburggirl8706@gmail.com,0.1,0.1
+cpodmr@yahoo.com,0.1,0.1
+bookgirl1444@gmail.com,0.1,0.1
+taylorwhitlow270@gmail.com,0.1,0.1
+michellemaxey@suddenlink.net,0.1,0.1
+mlhopper3@gmail.com,0.1,0.1
+duddrearr@gmail.com,0.1,0.1
+jeffersjohnson17@yahoo.com,0.1,0.1
+bosnianbeauty2012@gmail.com,0.1,0.1
+chris999666@rocketmail.com,0.1,0.1
+encbreeze@yahoo.com,0.1,0.1
+rachelee291@gmail.com,0.1,0.1
+susanjou27@yahoo.com,0.1,0.1
+csorrell10@hotmail.com,0.1,0.1
+aquariusrodriguez222@gmail.com,0.1,0.1
+marisa.brookhouse024@gmail.com,0.1,0.1
+Pineapplepumpkin21@gmail.com,0.1,0.1
+cherielarsen74@gmail.com,0.1,0.1
+erika.davilaf@hotmail.com,0.1,0.1
+bjmraiders1@gmail.com,0.1,0.1
+Lori.basha13@gmail.com,0.1,0.1
+kellideniro@yahoo.com,0.1,0.1
+fadelabbas122713@gmail.com,0.1,0.1
+nunya@yahoo.com,0.1,0.1
+FinneyNGrace4Ever@yahoo.com,0.1,0.1
+mpm1970@hotmail.com,0.1,0.1
+KristenSecrist@gmail.com,0.1,0.1
+hcommons1871@gmail.com,0.1,0.1
+kgilleapie3@gmail.com,0.1,0.1
+dhtreasures760@gmail.com,0.1,0.1
+ykong@yahoo.com,0.1,0.1
+kja_munchkin31@hotmail.com,0.1,0.1
+rspurlock1974@gmail.com,0.1,0.1
+sugarocksta@aol.com,0.1,0.1
+12345@aol.com,0.1,0.1
+levenseller93@gmail.com,0.1,0.1
+destiny.griggs26@gmail.com,0.1,0.1
+kylerose61@gmail.com,0.1,0.1
+stephtripp2974@gmail.com,0.1,0.1
+saleste0101@hotmail.com,0.1,0.1
+tina391969@gmail.com,0.1,0.1
+prefernottoanswer1@yahoo.com,0.1,0.1
+yasmin_ne_777@outlook.com,0.1,0.1
+Anniesazi@gmail.com,0.1,0.1
+noneofyourbusiness@aol.com,0.1,0.1
+dixon.topteacher@yahoo.com,0.1,0.1
+rachelk.cherba@gmail.com,0.1,0.1
+lmjyahoo@gmail.com,0.1,0.1
+astralrubies22@gmail.com,0.1,0.1
+allieandalexis@yahoo.com,0.1,0.1
+lkronowit@gmail.com,0.1,0.1
+brookenicoleduncan@gmail.com,0.1,0.1
+kmiche22@yahoo.com,0.1,0.1
+bersabehsisay1@gmail.com,0.1,0.1
+murdaru27@icloud.com,0.1,0.1
+khmartin811@gmail.com,0.1,0.1
+chrisbyar@gmail.com,0.1,0.1
+kking3388@gmail.com,0.1,0.1
+amitchelson8@gmail.com,0.1,0.1
+susan.ostrow@yahoo.com,0.1,0.1
+YTodriff@yahoo.com,0.1,0.1
+delanie1979@gmail.com,0.1,0.1
+kristina.aka.chicken@gmail.com,0.1,0.1
+jennaleighcrawford@gmail.com,0.1,0.1
+bpinkevicz11@gmail.com,0.1,0.1
+cekauffman92@gmail.com,0.1,0.1
+aKrissP1@gmx.com,0.1,0.1
+blawrence@grandecom.net,0.1,0.1
+Grey6200@hotmail.com,0.1,0.1
+onlymoe4me@yahoo.com,0.1,0.1
+kashley2001@gmail.com,0.1,0.1
+mkoukios@hotmail.com,0.1,0.1
+Howiepizzaman@gmail.com,0.1,0.1
+msdecorate@gmail.com,0.1,0.1
+ngagspa@gmail.com,0.1,0.1
+carol.martin09@gmail.com,0.1,0.1
+mrjayhawaii014@yahoo.com,0.1,0.1
+Shadora@gmail.com,0.1,0.1
+pete47posie@gmail.com,0.1,0.1
+fpcap@yahoo.com,0.1,0.1
+smir45@gmail.com,0.1,0.1
+sandraschomberg@yahoo.com,0.1,0.1
+epoch3ship@gmail.com,0.1,0.1
+jvnazzaro@aol.com,0.1,0.1
+calvinflowers10@gmail.com,0.1,0.1
+rosealleypress@juno.com,0.1,0.1
+DEBRARHENAE@SBCGLOBAL.NET,0.1,0.1
+bsatyckoski@att.net,0.1,0.1
+maggieteebo@gmail.com,0.1,0.1
+runningwithscissorsx85@gmail.com,0.1,0.1
+kjblevins@att.net,0.1,0.1
+hilite618@gmail.com,0.1,0.1
+cheytrusty@gmail.com,0.1,0.1
+alineboutz@hotmail.com,0.1,0.1
+kaekalk@hotmail.com,0.1,0.1
+bradleym_c@yahoo.com,0.1,0.1
+gholske@yahoo.com,0.1,0.1
+theresamerritt1013@yahoo.com,0.1,0.1
+vde20172017@yahoo.com,0.1,0.1
+fwdixon1@msn.com,0.1,0.1
+crystalg712@gmail.com,0.1,0.1
+Normajeanmargot@gmail.com,0.1,0.1
+vencilmom05@gmail.com,0.1,0.1
+theroned1950@gmail.com,0.1,0.1
+kk4567@bellsouth.net,0.1,0.1
+mbrs95@aol.co,0.1,0.1
+wilburmilford6@gmail.com,0.1,0.1
+ejtred@gmail.com,0.1,0.1
+ramsassyx3x3@icloud.com,0.1,0.1
+rmaldonado61@yahoo.com,0.1,0.1
+rrkng821@rochester.rr.com,0.1,0.1
+catherine.mcfarland@gmail.com,0.1,0.1
+karenkording@icloud.com,0.1,0.1
+bscottnnc@ec.rr.com,0.1,0.1
+amkurat@aol.com,0.1,0.1
+ronheri@gmail.com,0.1,0.1
+dalegauthier@sbcglobal.net,0.1,0.1
+honorljang@gmail.com,0.1,0.1
+carljbolz5@gmail.com,0.1,0.1
+jvitone@outlook.com,0.1,0.1
+brendanicholson118@gmail.com,0.1,0.1
+jilenny.29@outlook.com,0.1,0.1
+closedendman@aol.com,0.1,0.1
+ashleyedobbins@icloud.com,0.1,0.1
+ateht3@aol.com,0.1,0.1
+dswjane@msn.com,0.1,0.1
+jamie.nieman1064@outlook.com,0.1,0.1
+jdarge@comcast.net,0.1,0.1
+tyronedupree608@gmail.com,0.1,0.1
+ek@gmail.com,0.1,0.1
+andreastultz8@gmail.com,0.1,0.1
+tatoguapo1@mail.com,0.1,0.1
+Jbackencamp@verizon.net,0.1,0.1
+paullons@aol.com,0.1,0.1
+james.a.rivera81@gmail.com,0.1,0.1
+leah5202@aol.com,0.1,0.1
+zachkelly86@gmail.com,0.1,0.1
+lamonjihn@yahoo.com,0.1,0.1
+mattybham25@gmail.com,0.1,0.1
+garjoe97@gmail.com,0.1,0.1
+nicolemukelyan7@gmail.com,0.1,0.1
+starsindust@me.com,0.1,0.1
+jf_witt@gpcom.net,0.1,0.1
+mjp2253@gmail.com,0.1,0.1
+defriesd@bellsouth.net,0.1,0.1
+jncdale@yahoo.com,0.1,0.1
+glorialogan834@gmail.com,0.1,0.1
+shoprite.888@gmail.com,0.1,0.1
+dreyz.bsu@gmail.com,0.1,0.1
+mwa4205@gmail.com,0.1,0.1
+amberyork88@hotmail.com,0.1,0.1
+mamaync@gmail.com,0.1,0.1
+shannondawn1981@hotmail.com,0.1,0.1
+stephaniemabey43@gmail.com,0.1,0.1
+queenbess1917@yahoo.com,0.1,0.1
+firefly10am@hotmail.com,0.1,0.1
+sana@gmail.com,0.1,0.1
+marquis2066@yahoo.com,0.1,0.1
+cyndi.ducote@gmail.com,0.1,0.1
+datnoyd@msn.com,0.1,0.1
+connie.michels@yahoo.com,0.1,0.1
+D11TYDAV@GMAIL.COM,0.1,0.1
+sfaris1221@gmail.com,0.1,0.1
+aeposner@aol.com,0.1,0.1
+ckingdollar@hotmail.com,0.1,0.1
+seymorebutts@gmail.com,0.1,0.1
+jendjchick@gmail.com,0.1,0.1
+sout77@gmail.com,0.1,0.1
+Bbaurichter@gmail.com,0.1,0.1
+rewardgal@gmail.com,0.1,0.1
+dordee987@yahoo.com,0.1,0.1
+momcota@netzero.net,0.1,0.1
+hurricanesfan619@suddenlink.net,0.1,0.1
+kokomd@comcast.net,0.1,0.1
+inboxdollars@gorunge.com,0.1,0.1
+trishklein@aol.com,0.1,0.1
+cpkgirl1116@yahoo.com,0.1,0.1
+rzanghi@comcast.net,0.1,0.1
+PENFAN_68@hotmail.com,0.1,0.1
+katiedionne54@yahoo.com,0.1,0.1
+amber.billiot@aol.com,0.1,0.1
+cathyws@outlook.com,0.1,0.1
+joeman_hulke@yahoo.com,0.1,0.1
+lsavana70@gmail.com,0.1,0.1
+rlw5021@gmail.com,0.1,0.1
+lsugalsmi@gmail.com,0.1,0.1
+maya_thampi@yahoo.co.in,0.1,0.1
+cfox@juno.com,0.1,0.1
+missyj11@sbcglobal.net,0.1,0.1
+nathanhughes18@gmail.com,0.1,0.1
+jojavillavicencio@gmail.com,0.1,0.1
+sarayu_s@hotmail.com,0.1,0.1
+gloomboyhatesyou@yahoo.com,0.1,0.1
+jamesraborn80@gmail.com,0.1,0.1
+ross775@yahoo.com,0.1,0.1
+jo923@aol.com,0.1,0.1
+philmatbart1983@gmail.com,0.1,0.1
+twinjjn2000@gmail.com,0.1,0.1
+rachelj7@comcast.net,0.1,0.1
+greggybone72@gmail.com,0.1,0.1
+jbgniffer@yahoo.com,0.1,0.1
+idafaye001@gmail.com,0.1,0.1
+Chrisfooster@yahoo.com,0.1,0.1
+nothappening101@gmail.com,0.1,0.1
+lynetteguerino@aol.com,0.1,0.1
+catslivenow@gmail.com,0.1,0.1
+Marissajostoler@gmail.com,0.1,0.1
+victoriaglennblue@yahoo.com,0.1,0.1
+shanpem3000@gmail.com,0.1,0.1
+wdwhite80@gmail.com,0.1,0.1
+maxinemgipson@gmail.com,0.1,0.1
+sewkerrie@gmail.com,0.1,0.1
+spriya.4000@gmail.com,0.1,0.1
+chifang0733@gmail.com,0.1,0.1
+mbrennan1284@gmail.com,0.1,0.1
+terrycostello1959@gmail.com,0.1,0.1
+kierstenleone@aol.com,0.1,0.1
+weili20192019@163.com,0.1,0.1
+bharathsupriya54@gmail.com,0.1,0.1
+bfresh52@gmail.com,0.1,0.1
+mhoff1986@yahoo.com,0.1,0.1
+rockyreppert@gmail.com,0.1,0.1
+jesses@bis.midco.net,0.1,0.1
+btusinac@zoominternet.net,0.1,0.1
+minecraftman26augs@gmail.com,0.1,0.1
+brandon6192@yahoo.com,0.1,0.1
+wootsoncr@gmail.com,0.1,0.1
+ryan.moran2421@gmail.com,0.1,0.1
+harkerinboxdollars@gmail.com,0.1,0.1
+ronroyrupe@gmail.com,0.1,0.1
+nhunter@gmail.com,0.1,0.1
+none@email.com,0.1,0.1
+6482cadillac@gmail.com,0.1,0.1
+pookeybear291@gmail.com,0.1,0.1
+mwg70@hotmail.com,0.1,0.1
+daveduke420@aol.com,0.1,0.1
+ptws2929@gmail.com,0.1,0.1
+sawdust91195@yahoo.com,0.1,0.1
+storm64007@gmail.com,0.1,0.1
+ouzoaru1@gmail.com,0.1,0.1
+rmazur77@ptd.net,0.1,0.1
+miller.vanessa@live.com,0.1,0.1
+onistee1@aol.com,0.1,0.1
+lady_sable2006@yahoo.com,0.1,0.1
+indiestarlet85@yahoo.com,0.1,0.1
+gary_griffin4747@yahoo.com,0.1,0.1
+companyformation80@gmail.com,0.1,0.1
+vetramur@windstream.net,0.1,0.1
+fortev72@earthlink.net,0.1,0.1
+cathar@gmail.com,0.1,0.1
+katz554@hotmail.com,0.1,0.1
+king3@gmail.com,0.1,0.1
+Bridget1074@gmail.com,0.1,0.1
+corrinafourney@yahoo.com,0.1,0.1
+reneeb40@optonline.net,0.1,0.1
+jackiesolberg@hotmail.com,0.1,0.1
+shinebrightlikeastar03@gmail.com,0.1,0.1
+ernieis3@yahoo.com,0.1,0.1
+gr30501@yahoo.com,0.1,0.1
+efes11@yahoo.com,0.1,0.1
+indigirrl@gmail.com,0.1,0.1
+buggax2@gmail.com,0.1,0.1
+sem12@comcast.net,0.1,0.1
+ecdhotchkiss@gmail.com,0.1,0.1
+maryannplatz@gmail.com,0.1,0.1
+wittysmithywithy@gmail.com,0.1,0.1
+Kimberly.Vinzant@gmail.com,0.1,0.1
+jredds2000@yahoo.com,0.1,0.1
+haleycowles@gmail.com,0.1,0.1
+andreasopiwnik@gmail.com,0.1,0.1
+SHANNONRAEGREEN68@GMAIL.COM,0.1,0.1
+freesesusan1@gmail.com,0.1,0.1
+kellyannecoleman93@gmail.com,0.1,0.1
+jessemccoy10@gmail.com,0.1,0.1
+hillarydelarosa@gmail.com,0.1,0.1
+jacksondestiny921@gmail.com,0.1,0.1
+Morrjess821@gmail.com,0.1,0.1
+10003235sr@gmail.com,0.1,0.1
+kendallkroner@yahoo.com,0.1,0.1
+sparkytda50@gmail.com,0.1,0.1
+carolinejiron@gmail.com,0.1,0.1
+k1966js@gmail.com,0.1,0.1
+Redstarr40@gmail.com,0.1,0.1
+goldy0204@aol.com,0.1,0.1
+ginadimichele@gmail.com,0.1,0.1
+gowanlock_dm@yahoo.com,0.1,0.1
+shereesb01@gmail.com,0.1,0.1
+dreamatnight99@yahoo.com,0.1,0.1
+jolenermrz@gmail.com,0.1,0.1
+fenixrisng21@gmail.com,0.1,0.1
+jlsmith103@icloud.com,0.1,0.1
+Hiram.hernandez25@gmail.com,0.1,0.1
+jjcookie1969@gmail.com,0.1,0.1
+eurocan83@hotmail.com,0.1,0.1
+toniacascio@yahoo.com,0.1,0.1
+elizabethschwartzbrown@gmail.com,0.1,0.1
+bonnie22061@gmail.com,0.1,0.1
+jennybyars21@gmail.com,0.1,0.1
+twilliams2127@gmail.com,0.1,0.1
+armie7@verizon.net,0.1,0.1
+KATHYJESPERSEN@ATT.NET,0.1,0.1
+jennyrbeach@gmail.com,0.1,0.1
+Wperkinsjr.0708@gmail.com,0.1,0.1
+humzaahmad15@gmail.com,0.1,0.1
+vajj1489@gmail.com,0.1,0.1
+notonyourlife@yahoo.com,0.1,0.1
+yellowlolo1947@gmail.com,0.1,0.1
+athom80353@aol.com,0.1,0.1
+sladeamanda99@gmail.com,0.1,0.1
+nahcj@yahoo.com,0.1,0.1
+adaraathompson@gmail.com,0.1,0.1
+79kelly.ables@gmail.com,0.1,0.1
+dively.chris@yahoo.com,0.1,0.1
+jamiefox2742@gmail.com,0.1,0.1
+slightlyoffcenterstl@gmail.com,0.1,0.1
+knicole87@gmail.com,0.1,0.1
+myz.amakaz@gmail.com,0.1,0.1
+bigcritter421@gmail.com,0.1,0.1
+garrett.morgan.m@gmail.com,0.1,0.1
+rammy1@gmx.com,0.1,0.1
+jlkeck1138@gmail.com,0.1,0.1
+hmnky@msn.com,0.1,0.1
+frankbiskit@hotmail.com,0.1,0.1
+Bdover@gmail.com,0.1,0.1
+1547northwoodhoa@gmail.com,0.1,0.1
+lmatt9920@gmail.com,0.1,0.1
+siebra2006@gmail.com,0.1,0.1
+pooflopp@gmail.com,0.1,0.1
+xenuisbae@gmail.com,0.1,0.1
+geckothekid@yahoo.com,0.1,0.1
+dande@aol.com,0.1,0.1
+mickeywindsor@yahoo.com,0.1,0.1
+Alexaz1718@gmail.com,0.1,0.1
+trimble.jessica@gmail.com,0.1,0.1
+tpms717@gmail.com,0.1,0.1
+kotc.gavin@gmail.com,0.1,0.1
+neptunegrl3@gmail.com,0.1,0.1
+restlessinjudsonia@gmail.com,0.1,0.1
+Palepink@live.com,0.1,0.1
+okeefeabby@gmail.com,0.1,0.1
+jrh1306@gmail.com,0.1,0.1
+chevyman81@hotmail.com,0.1,0.1
+danaparker76@yahoo.com,0.1,0.1
+endangeredpotion111@gmail.com,0.1,0.1
+jensenrocks3@yahoo.com,0.1,0.1
+anna.n.jean@gmail.com,0.1,0.1
+Drewczirjak@yahoo.com,0.1,0.1
+paschaguerin@rocketmail.com,0.1,0.1
+kakelly0822@gmail.com,0.1,0.1
+POCONO46@GMAIL.COM,0.1,0.1
+chrisdavidson1980@gmail.com,0.1,0.1
+2canstoo@gmail.com,0.1,0.1
+02che.ge.vara02@gmail.com,0.1,0.1
+roshondahicks884@yahoo.com,0.1,0.1
+rknudson78@gmail.com,0.1,0.1
+fcrone73@gmail.com,0.1,0.1
+johnbailey2084@gmail.com,0.1,0.1
+tgoldmay@gmail.com,0.1,0.1
+ashleyadrayer@gmail.com,0.1,0.1
+dkh2408@aol.com,0.1,0.1
+shuvettey@Yahoo.com,0.1,0.1
+jasey27@hotmail.com,0.1,0.1
+jonparker85@outlook.com,0.1,0.1
+jojosiwah@yahoo.com,0.1,0.1
+erickeagle2000@yahoo.com,0.1,0.1
+james.voight@gmail.com,0.1,0.1
+kevin.wilkinson7@aol.com,0.1,0.1
+derek_towles@yahoo.com,0.1,0.1
+richrandy@icloud.com,0.1,0.1
+bulverde757@gmail.com,0.1,0.1
+binghamc23@gmail.com,0.1,0.1
+mattylou@hotmail.com,0.1,0.1
+junemcarthur354@gmail.com,0.1,0.1
+pierce5206@yahoo.com,0.1,0.1
+jenkinsaldryll@gmail.com,0.1,0.1
+davylewis0074@gmail.com,0.1,0.1
+sjskolozdra@htomail.com,0.1,0.1
+dogma_65807@yahoo.com,0.1,0.1
+odoacre.globus@alice.it,0.1,0.1
+Mr.j.beanzz1982@gmail.com,0.1,0.1
+Robbyhofelich@gmail.com,0.1,0.1
+rodney98498@yahoo.com,0.1,0.1
+Dougdotz@yahoo.com,0.1,0.1
+kliff.bajraktari@yahoo.com,0.1,0.1
+timlock177@hotmail.com,0.1,0.1
+jessetiffjung@gmail.com,0.1,0.1
+jerjax0211@gmail.com,0.1,0.1
+vancleve93@gmail.com,0.1,0.1
+notgiving@yahoo.com,0.1,0.1
+sk8trboi6893@yahoo.com,0.1,0.1
+jaypierce223@gmail.com,0.1,0.1
+stephanhughes377@gmail.com,0.1,0.1
+metfanbren@gmail.com,0.1,0.1
+kctrain72@yahoo.com,0.1,0.1
+siscobl@hotmail.com,0.1,0.1
+CHASECHRISMAN1022@HOTMAIL.COM,0.1,0.1
+m1v111@yahoo.com,0.1,0.1
+samj8806@yahoo.com,0.1,0.1
+carroll.armer@gmail.com,0.1,0.1
+justin.stewart1442@gmail.com,0.1,0.1
+sabiodice@yahoo.com,0.1,0.1
+dwaldron1216@yahoo.com,0.1,0.1
+jpworkeremail.com@gmail.com,0.1,0.1
+nickk.tassinari@yahoo.com,0.1,0.1
+Swiftboy244@gmail.com,0.1,0.1
+dalton.shackelford@gmail.com,0.1,0.1
+stlblo1@gmail.com,0.1,0.1
+keeprewarding@mail.com,0.1,0.1
+parker22@gmail.com,0.1,0.1
+patricklablache15@gmail.com,0.1,0.1
+vincentnapoli6@gmail.com,0.1,0.1
+boonton@gmail.com,0.1,0.1
+flaalwayzburnin@gmail.com,0.1,0.1
+starter005@yahoo.com,0.1,0.1
+dallineric@gmail.com,0.1,0.1
+aisiteotc@gmail.com,0.1,0.1
+johnqsmith@yahoo.com,0.1,0.1
+lowellhenderson@hotmail.com,0.1,0.1
+Jesusmuchacho85@gmail.com,0.1,0.1
+cwatson58@ivytech.edu,0.1,0.1
+katrina.magoon@yahoo.com,0.1,0.1
+lordlubu1987@gmail.com,0.1,0.1
+ryu4life@gmail.com,0.1,0.1
+Onethankfulwoman@gmail.com,0.1,0.1
+shirleyandarrow@gmail.com,0.1,0.1
+chuckawinggotit@gmail.com,0.1,0.1
+tessa343479@gmail.com,0.1,0.1
+mrcarson9@aol.com,0.1,0.1
+caggey2000@aol.com,0.1,0.1
+redstoy8@gmail.com,0.1,0.1
+zancoo121@yahoo.com,0.1,0.1
+bobkay10001@gmail.com,0.1,0.1
+nancyswan3@gmail.com,0.1,0.1
+mbhutz1@yaho.com,0.1,0.1
+heavin0007@aol.com,0.1,0.1
+sunblazer33@yahoo.com,0.1,0.1
+cbuchter1@hotmail.com,0.1,0.1
+jdubfla@yahoo.com,0.1,0.1
+kandrut@yahoo.com,0.1,0.1
+cin.renshaw@gmail.com,0.1,0.1
+Romans828114@gmail.com,0.1,0.1
+rdymom@gmail.com,0.1,0.1
+mcollins5@roadrunner.com,0.1,0.1
+kenesay10@gmail.com,0.1,0.1
+bullfrogdlewis@aol.com,0.1,0.1
+oelkhodary123@yahoo.com,0.1,0.1
+amandaprincesrosa@hotmail.com,0.1,0.1
+JRICHARDSONPRODUCTIONS@YAHOO.COM,0.1,0.1
+tgarciamontanez@yahoo.com,0.1,0.1
+gregfayne1@gmail.com,0.1,0.1
+brynnb99@gmail.com,0.1,0.1
+matthewb18330@yahoo.com,0.1,0.1
+Stick09@juno.com,0.1,0.1
+battgurl5@yahoi.com,0.1,0.1
+brimstonexolic@gmail.com,0.1,0.1
+michalskidicy17@gmail.com,0.1,0.1
+salstar912@bellsouth.net,0.1,0.1
+dakiang3@gmail.com,0.1,0.1
+allallcash371@gmail.com,0.1,0.1
+durdentttt@gmail.com,0.1,0.1
+lcrowellesq@yahoo.com,0.1,0.1
+belzers@comcast.net,0.1,0.1
+Akcollector@gmail.com,0.1,0.1
+chicklady1@comcast.net,0.1,0.1
+amx72man@yahoo.com,0.1,0.1
+reneevans70@yahoo.com,0.1,0.1
+joebloe35519@hotmail.com,0.1,0.1
+antmanfoosin@yahoo.com,0.1,0.1
+candlesonlake@aol.com,0.1,0.1
+hy007y007@yahoo.com,0.1,0.1
+james_wiliamson@yahoo.com,0.1,0.1
+dauger@mail.com,0.1,0.1
+tlholsinger@gmail.com,0.1,0.1
+killermike528@gmail.com,0.1,0.1
+robinconderconderr@hotmail.com,0.1,0.1
+willie.knighten813@gmail.com,0.1,0.1
+keller@gmail.com,0.1,0.1
+daniseg65@gmail.com,0.1,0.1
+calbob1@yahoo.com,0.1,0.1
+taylorharris22@gmail.com,0.1,0.1
+maruehling7@gmail.com,0.1,0.1
+gina45@yahoo.com,0.1,0.1
+rvandame49.rv@gmail.com,0.1,0.1
+schickedeborah@gmail.com,0.1,0.1
+jbohos@jps.net,0.1,0.1
+kshomura@gmail.com,0.1,0.1
+scottaharris8892@gmail.com,0.1,0.1
+erinsears@ymail.com,0.1,0.1
+Cluestar@swbell.net,0.1,0.1
+hunter112@yahoo.com,0.1,0.1
+dk.yogachick@gmail.com,0.1,0.1
+vitmor5@yahoo.com,0.1,0.1
+ernierv@hotmail.com,0.1,0.1
+rtrolley@ptd.net,0.1,0.1
+nantommy@hotmail.com,0.1,0.1
+cmorris12@ivytech.edu,0.1,0.1
+sherrywahl3@gmail.com,0.1,0.1
+ckasica@sbcglobal.net,0.1,0.1
+mfrankie@comcast.net,0.1,0.1
+storm64007@yahoo.com,0.1,0.1
+joejoedeerhunter@yahoo.com,0.1,0.1
+jvankure@maine.rr.com,0.1,0.1
+chronostribal76@gmail.com,0.1,0.1
+glschauf@gmx.com,0.1,0.1
+rexwaldon46@gmail.com,0.1,0.1
+theirishkidfromenumclaw@yahoo.com,0.1,0.1
+lorraineb831@gmail.com,0.1,0.1
+kayrudicell3@gmail.com,0.1,0.1
+brijack26@hotmail.com,0.1,0.1
+ljmruk@yahoo.com,0.1,0.1
+t_etter@bellsouth.net,0.1,0.1
+bdpjacobs@verizon.net,0.1,0.1
+dcfisher@windstream.net,0.1,0.1
+pkwash35@gmail.com,0.1,0.1
+lianevelasco@gmail.com,0.1,0.1
+kyleogdenmn@gmail.com,0.1,0.1
+anneusjerry@gmail.com,0.1,0.1
+sahernandez1216@gmail.com,0.1,0.1
+patsy1612@yahoo.com,0.1,0.1
+hihoag2@gmail.com,0.1,0.1
+mangogreens@yahoo.com,0.1,0.1
+temple50@frontier.com,0.1,0.1
+lisahendrickson222@gmail.com,0.1,0.1
+Tfinizia@aol.com,0.1,0.1
+heatherr0420@gmail.com,0.1,0.1
+cocogurl3@icloud.com,0.1,0.1
+dclark920@yahoo.com,0.1,0.1
+rbridges1716@gmail.com,0.1,0.1
+DeborahsBlessings@hotmail.com,0.1,0.1
+evasivedice3@gmail.com,0.1,0.1
+ffdoc@protonmail.com,0.1,0.1
+dimple01s@aol.com,0.1,0.1
+Susanjones@gmail.com,0.1,0.1
+MaryMom628@gmail.com,0.1,0.1
+Lambj@email.com,0.1,0.1
+Dchinfla@yahoo.com,0.1,0.1
+lizreister@hotmail.com,0.1,0.1
+ps_endreson@hotmail.com,0.1,0.1
+normie81@yahoo.com,0.1,0.1
+test@test.con,0.1,0.1
+judygail45@gmail.com,0.1,0.1
+ryan@lesherhome.com,0.1,0.1
+newtonapple@comcast.net,0.1,0.1
+jentan137@gmail.com,0.1,0.1
+mindovermatterknowledge728@gmail.com,0.1,0.1
+aeveillo@uno.edu,0.1,0.1
+mikemcd65@yahoo.com,0.1,0.1
+marydonnelly0106@aol.com,0.1,0.1
+kathylefevre55@gmail.com,0.1,0.1
+vmkmadamant@yahoo.com,0.1,0.1
+arnemily56@gmail.com,0.1,0.1
+pachangchang@hotmail.com,0.1,0.1
+jamiyah32708@gmail.com,0.1,0.1
+mikebh_vend@yahoo.com,0.1,0.1
+annewellervp@gmail.com,0.1,0.1
+wwesley820@hotmail.com,0.1,0.1
+sn11115@gmail.com,0.1,0.1
+joedog2317@hotmail.com,0.1,0.1
+annaaparis7@gmail.com,0.1,0.1
+rofitz@att.net,0.1,0.1
+rabideau.se@gmail.com,0.1,0.1
+bettystufflebeam1@gmail.com,0.1,0.1
+jcarollo@rocketmail.com,0.1,0.1
+pkaize@gmail.com,0.1,0.1
+81ricearoni@gmail.com,0.1,0.1
+mcdonaldkm@gmail.com,0.1,0.1
+ryleighsgrammie@gmail.com,0.1,0.1
+mbandcbrewer@comcast.net,0.1,0.1
+Cvangramza@roadrunner.com,0.1,0.1
+kthomas133@gmail.com,0.1,0.1
+rgruber42@gmail.com,0.1,0.1
+kbethge43@gmail.com,0.1,0.1
+dhastye222@gmail.com,0.1,0.1
+Ogulbee1@gmail.com,0.1,0.1
+ranisiojo@gmail.com,0.1,0.1
+twtrans@pacbell.net,0.1,0.1
+Lynnwelden49@gmail.com,0.1,0.1
+ashlynsnanna4052@gmail.com,0.1,0.1
+jeff@oherron.com,0.1,0.1
+libbyb51@gmail.com,0.1,0.1
+Mewise@dakotacom.net,0.1,0.1
+Panusbaum@aol.com,0.1,0.1
+cherylharris29@gmail.com,0.1,0.1
+janicetornow52@msn.com,0.1,0.1
+janisbaskin@yahoo.com,0.1,0.1
+Jennigilman@gmail.com,0.1,0.1
+rajahsnana@aol.com,0.1,0.1
+Jdslinton@comcast.net,0.1,0.1
+kathyscott0612@gmail.com,0.1,0.1
+pionex3@yahoo.com,0.1,0.1
+earlandsweetpotato@yahoo.com,0.1,0.1
+michllcasta1195@gmail.com,0.1,0.1
+teddybear04073@yahoo.com,0.1,0.1
+amandajacobs2005@yahoo.com,0.1,0.1
+l.jenkins1380@gmail.com,0.1,0.1
+nutsbolts55@yahoo.com,0.1,0.1
+soubi_@gmail.com,0.1,0.1
+gaylynnr@ymail.com,0.1,0.1
+bcmatson@sbcglobal.net,0.1,0.1
+adamdean86@hotmail.com,0.1,0.1
+peerooney1119@aol.com,0.1,0.1
+srinu.vr181@gmail.com,0.1,0.1
+kayjj@gmail.com,0.1,0.1
+robynne.hubert@yahoo.com,0.1,0.1
+jimadamiak@yahoo.com,0.1,0.1
+melapathetic@yahoo.com,0.1,0.1
+pammi317@yahoo.com,0.1,0.1
+parker223@gmail.com,0.1,0.1
+tonnaree@yahoo.com,0.1,0.1
+chckbest@gmail.com,0.1,0.1
+jazzyj@gmail.com,0.1,0.1
+jennifershelton1@comcast.net,0.1,0.1
+michael.moreland.pdx@gmail.com,0.1,0.1
+bigpkmgo131@gmail.com,0.1,0.1
+morrisdonovan78@gmail.com,0.1,0.1
+jwheel42283@gmail.com,0.1,0.1
+refuse@no.com,0.1,0.1
+thepastalover@yahoo.com,0.1,0.1
+sydneyupbin@gmail.com,0.1,0.1
+spear.kaitlin@yahoo.com,0.1,0.1
+zync355@gmail.com,0.1,0.1
+laraeshipley@gmail.com,0.1,0.1
+oakesb1970@gmail.com,0.1,0.1
+april.mott@wrightnow.com,0.1,0.1
+nezkag@gmail.com,0.1,0.1
+lilyip8@gmail.com,0.1,0.1
+Sap97@hotmail.com,0.1,0.1
+joe1234@gmail.com,0.1,0.1
+vivianma68@gmail.com,0.1,0.1
+markbulnes@comcast.net,0.1,0.1
+lam-60@hotmail.com,0.1,0.1
+auntjojo17@yahoo.com,0.1,0.1
+houghtammy123@gmail.com,0.1,0.1
+shanr68@yahoo.com,0.1,0.1
+veussi55@gmail.com,0.1,0.1
+franktank1976@outlook.com,0.1,0.1
+jojot0627@gmail.com,0.1,0.1
+willy_1900@yahoo.com,0.1,0.1
+tms623@comcast.net,0.1,0.1
+merchantjeremiah0@gmail.com,0.1,0.1
+howardgail4850@gmail.com,0.1,0.1
+annamessenger8@gmail.com,0.1,0.1
+vickiltaylor60@yahoo.com,0.1,0.1
+mrseasons154@gmail.com,0.1,0.1
+jlmonger@yahoo.com,0.1,0.1
+odeguiseshs@gmail.com,0.1,0.1
+lynn_provins@msn.com,0.1,0.1
+kdibruno@aol.com,0.1,0.1
+dcalanese@aol.com,0.1,0.1
+28162@yahoo.com,0.1,0.1
+mcuster505@yahoo.com,0.1,0.1
+cschuster@hotmail.com,0.1,0.1
+mysillygirl05@Yahoo.com,0.1,0.1
+michaels8616@gmail.com,0.1,0.1
+reezy@yahoo.com,0.1,0.1
+trasagates@gmail.com,0.1,0.1
+yankeyfan1123@yahoo.com,0.1,0.1
+CINDYZALEWSKI54@GMAIL.COM,0.1,0.1
+robsonbb@aol.com,0.1,0.1
+noemailaddress@gmail.com,0.1,0.1
+tengeldrum@gmail.com,0.1,0.1
+morganvonesse@gmail.com,0.1,0.1
+rositaminter@gmail.com,0.1,0.1
+lthurbs@gmail.com,0.1,0.1
+gas541@outlook.com,0.1,0.1
+Brujamk8@yahoo.com,0.1,0.1
+pnthrrse2@yahoo.com,0.1,0.1
+heartsease21@yahoo.com,0.1,0.1
+mhodges2@ec.rr.com,0.1,0.1
+pgray4@yahoo.com,0.1,0.1
+melody.alizrivera0829@gmail.com,0.1,0.1
+berbez68@gmail.com,0.1,0.1
+dwilliray@aol.com,0.1,0.1
+darkwitchgirl66@icloud.com,0.1,0.1
+longbrenda7@gmail.com,0.1,0.1
+haackjudy@hotmail.com,0.1,0.1
+foxykate2001@yahoo.com,0.1,0.1
+tishal73@gmail.com,0.1,0.1
+britrigg@rocketmail.com,0.1,0.1
+markduffy07@gmail.com,0.1,0.1
+sykeseverett40@gmail.com,0.1,0.1
+lisaandangela123@gmail.com,0.1,0.1
+ddrraabb@aol.com,0.1,0.1
+danlrmarlow@gmail.com,0.1,0.1
+johnmboyd@outlook.com,0.1,0.1
+rdt1230@yahoo.com,0.1,0.1
+donna_t74@yahoo.com,0.1,0.1
+yusuck@aol.com,0.1,0.1
+lisaearl48183@gmail.com,0.1,0.1
+one@gmail.com,0.1,0.1
+amberreid0325@gmail.com,0.1,0.1
+palix53@gmail.com,0.1,0.1
+sarahm.iller@gmail.com,0.1,0.1
+snmc56@gmail.com,0.1,0.1
+aprilcieply@gmail.com,0.1,0.1
+marandmar@outlook.com,0.1,0.1
+joeva63@outlook.com,0.1,0.1
+Teri73@aol.com,0.1,0.1
+noway@aol.com,0.1,0.1
+Ljeremy462@gmail.com,0.1,0.1
+hlaurie349@gmail.com,0.1,0.1
+lesliehastings87@gmail.com,0.1,0.1
+Birdbrain59@yahoo.com,0.1,0.1
+hajekbeth11@gmail.com,0.1,0.1
+grading@pacbell.net,0.1,0.1
+debzb123@gmail.com,0.1,0.1
+jimallison@yahoo.com,0.1,0.1
+nfronek@att.net,0.1,0.1
+tagramck3512@gmail.com,0.1,0.1
+cregner@gmail.com,0.1,0.1
+allenmw33@gmail.com,0.1,0.1
+lynnrudkin@aol.com,0.1,0.1
+Arodman@aol.ccm,0.1,0.1
+justdabest25@gmail.com,0.1,0.1
+dh766281@gmail.com,0.1,0.1
+ddhbkh@gmail.com,0.1,0.1
+klemmermeg@gmail.com,0.1,0.1
+sylbtinker2@gmail.com,0.1,0.1
+linbon5577@gmail.com,0.1,0.1
+rcanton133@comcast.net,0.1,0.1
+deedan51@optonline.net,0.1,0.1
+berniesavage21@yahoo.com,0.1,0.1
+sharongood1@juno.com,0.1,0.1
+quarnsux@gmail.com,0.1,0.1
+wanda4thewin@yahoo.com,0.1,0.1
+mkclark548@gmail.com,0.1,0.1
+dem95610@yahoo.com,0.1,0.1
+sinner4god@aim.com,0.1,0.1
+cannalves21@gmail.com,0.1,0.1
+papabear178@gmail.com,0.1,0.1
+debbie60johnson@gmail.com,0.1,0.1
+rmanzolillo@gmail.com,0.1,0.1
+gule12@gmail.com,0.1,0.1
+Barbstalla1952@gmail.com,0.1,0.1
+na@gmail.com,0.1,0.1
+annettebrehm@icloud.com,0.1,0.1
+em2704@gmail.com,0.1,0.1
+alexandria_523@yahoo.com,0.1,0.1
+kyleismith69@gmail.com,0.1,0.1
+ingridmaria6491@gmail.com,0.1,0.1
+mamaflum@gmail.com,0.1,0.1
+otisemattox@gmail.com,0.1,0.1
+foghornmus@aol.com,0.1,0.1
+dsmith4643@yahoo.com,0.1,0.1
+bigmarine97@q.com,0.1,0.1
+orchid101151@yahoo.com,0.1,0.1
+teresaadams987@gmail.com,0.1,0.1
+hdmellon@aol.com,0.1,0.1
+fardellajoey@yahoo.com,0.1,0.1
+khkaplan@verizon.net,0.1,0.1
+acr1946.ar@gmail.com,0.1,0.1
+doughausser@sbcglobal.net,0.1,0.1
+maskmango2@gmail.com,0.1,0.1
+vjdail1@gmail.com,0.1,0.1
+tjzxplo56@hotmail.com,0.1,0.1
+2303jt@msn.com,0.1,0.1
+leas92@cox.net,0.1,0.1
+jenniferfraz33@aol.com,0.1,0.1
+jmuhlenbec@verizon.net,0.1,0.1
+agnesguba@yahoo.com,0.1,0.1
+rmhmmo@gmail.com,0.1,0.1
+npennell52@hotmail.com,0.1,0.1
+Bookwormdls@gmail.com,0.1,0.1
+swielgosh@yahoo.com,0.1,0.1
+yountjames@rocketmail.com,0.1,0.1
+rettycat1@gmail.com,0.1,0.1
+skcain11@yahoo.com,0.1,0.1
+cwjay@sbcglobal.net,0.1,0.1
+kddj@yahpo.com,0.1,0.1
+4kelleys2@gmail.com,0.1,0.1
+Kristiemrogers@gmail.com,0.1,0.1
+kyra.holmes2018@gmail.com,0.1,0.1
+msrbymsr@gmail.com,0.1,0.1
+Sdrawkcab_7@yahoo.com,0.1,0.1
+zundel.karen@gmail.cim,0.1,0.1
+bonroybent@gmail.com,0.1,0.1
+va2pa2007@comcast.net,0.1,0.1
+nightowljeff1@gmail.com,0.1,0.1
+my4027076847@gmail.com,0.1,0.1
+dedraallen61@yahoo.com,0.1,0.1
+shelbywhite28@yahoo.com,0.1,0.1
+milunchow@hotmail.com,0.1,0.1
+bbmills511@gmail.com,0.1,0.1
+goodgrlgonebad01@hotmail.com,0.1,0.1
+egildemeister@yahoo.com,0.1,0.1
+ignathomer@outlook.com,0.1,0.1
+danwild6@outlook.com,0.1,0.1
+ann.leverton@waldenu.edu,0.1,0.1
+kyle.matlack66@gmail.com,0.1,0.1
+Taylorlu@gmail.com,0.1,0.1
+kcristianrushing@yahoo.com,0.1,0.1
+tslone1@bright.net,0.1,0.1
+cmjenk2000@yahoo.com,0.1,0.1
+4752lmb@gmail.com,0.1,0.1
+cheyennejp5@gmail.com,0.1,0.1
+shelleyou4@yahoo.com,0.1,0.1
+cparis453@gmail.com,0.1,0.1
+sdoss5414@gmail.com,0.1,0.1
+raylenetritt@yahoo.com,0.1,0.1
+hachie17@sbcglobal.net,0.1,0.1
+rmfrederick@live.com,0.1,0.1
+faevans4@hotmail.com,0.1,0.1
+playcat41@aol.com,0.1,0.1
+cashserve21@gmail.com,0.1,0.1
+debbiekay1027@yahoo.com,0.1,0.1
+Salshpr@aol.com,0.1,0.1
+l.staffin@comcast.net,0.1,0.1
+chelsykoutche@gmail.com,0.1,0.1
+pieterrabie@yahoo.com,0.1,0.1
+shortlilfire@yaho.com,0.1,0.1
+bernicesugarman@hotmail.com,0.1,0.1
+dragonmoon58@yahoo.com,0.1,0.1
+knightfrankie46@yahoo.com,0.1,0.1
+mercedes.slaughter@yahoo.com,0.1,0.1
+bestempress@yahoo.com,0.1,0.1
+parrotfreak@att.net,0.1,0.1
+sophiatort@gmail.com,0.1,0.1
+jcoon9447@gmail.com,0.1,0.1
+apgupta1@hotmail.com,0.1,0.1
+pppaaawww@msn.com,0.1,0.1
+curogers@gmail.com,0.1,0.1
+kr3ridge.2@gmail.com,0.1,0.1
+mweisbeck@wi.rr.com,0.1,0.1
+annelisesmom@yahoo.com,0.1,0.1
+brandymarlene@gmail.com,0.1,0.1
+roconnell1016@gmail.com,0.1,0.1
+wisdomseekerbbw@aol.com,0.1,0.1
+mvgv@gmail.com,0.1,0.1
+jebrab99@yahoo.com,0.1,0.1
+nathan_chdlr@yahoo.com,0.1,0.1
+ambai@aol.com,0.1,0.1
+lacassjo@yahoo.com,0.1,0.1
+deismaracevedo0620@gmail.com,0.1,0.1
+xxx,0.1,0.1
+Jbelcastro91@gmail.com,0.1,0.1
+greenteach17@aol.com,0.1,0.1
+barbhoover4@gmail.com,0.1,0.1
+amtrans714@hotmail.com,0.1,0.1
+debbie.dinsmore@twc.com,0.1,0.1
+sunsetseeker69@yahoo.com,0.1,0.1
+scottnancy0@gmail.com,0.1,0.1
+parkerbean1@hotmail.com,0.1,0.1
+gklinebriel1@outlook.com,0.1,0.1
+kimcav715@gmail.com,0.1,0.1
+kskripka@yahoo.com,0.1,0.1
+dylan_durrell@msn.com,0.1,0.1
+mia_zavala@hotmail.com,0.1,0.1
+decline@gmail.com,0.1,0.1
+rmsur44te@yahoo.com,0.1,0.1
+chuntz8064@hotmail.com,0.1,0.1
+nancy1red78@yahoo.com,0.1,0.1
+kristinbillings79@yahoo.com,0.1,0.1
+kathrynanz@gmail.com,0.1,0.1
+anotherkinsey@gmail.com,0.1,0.1
+rossibd4344@gmail.com,0.1,0.1
+lpssherrill@gmail.com,0.1,0.1
+DAN.MCGRAW@TRANE.COM,0.1,0.1
+mojowork54@yahoo.com,0.1,0.1
+haley.mccoy@yahoo.com,0.1,0.1
+tbone111541@yahoo.com,0.1,0.1
+stephenjbuk@aol.com,0.1,0.1
+jlk692017@yahoo.com,0.1,0.1
+guppyup@me.com,0.1,0.1
+jntsell@msn.com,0.1,0.1
+lmarchido@outlook.com,0.1,0.1
+stanleypathfinder@yahoo.com,0.1,0.1
+criner4@frontier.com,0.1,0.1
+debcap108@gmail.com,0.1,0.1
+beezwiz@yahoo.com,0.1,0.1
+raygozamarie209@gmail.com,0.1,0.1
+orangewhite1979@gmail.com,0.1,0.1
+mistyandchance@aol.com,0.1,0.1
+tham8l@yahoo.com,0.1,0.1
+gchild77@verizon.net,0.1,0.1
+reneemull2@hotmail.com,0.1,0.1
+fpabian@wi.rr.com,0.1,0.1
+myeldorado@lighthouse.net,0.1,0.1
+jksapp15@gmail.com,0.1,0.1
+richardneroni@aol.com,0.1,0.1
+pamelaw395@gmail.com,0.1,0.1
+bmedwed@aol.com,0.1,0.1
+mistralinc@yahoo.com,0.1,0.1
+a1boss@optonline.net,0.1,0.1
+y-hi@sbcglobal.net,0.1,0.1
+no@idontthinkso.com,0.1,0.1
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+What is your mobile phone number?, 
+,cluster1,cluster2
+NoAnswer,3.4,23.2
+not shown,0.1,0.6
+0,0.1,0.4
+5555555555,0.1,0.3
+7203059170,0.5,0.1
+3084284007,0.1,0.3
+6174166139,0.1,0.3
+5012937044,0.1,0.2
+4043457145,0.1,0.2
+8433382247,0.1,0.1
+8179214234,0.1,0.1
+4806059933,0.1,0.2
+6142184629,0.1,0.2
+7243014402,0.1,0.2
+2133629200,0.1,0.2
+9998887777,0.1,0.2
+12547186172,0.1,0.2
+2523781284,0.1,0.2
+4072052489,0.1,0.2
+7025812462,0.1,0.2
+5099014809,0.1,0.2
+5164932625,0.1,0.2
+4705036492,0.1,0.2
+1111111111,0.1,0.2
+7028409849,0.2,0.1
+1234567890,0.1,0.2
+8038258346,0.1,0.2
+6062051747,0.1,0.1
+2187701785,0.1,0.1
+2056212823,0.1,0.1
+8722109318,0.1,0.1
+5074300891,0.1,0.1
+4142708100,0.1,0.1
+5164459316,0.1,0.1
+2163162262,0.1,0.1
+864337903,0.1,0.1
+6142640887,0.1,0.1
+7166801494,0.1,0.1
+6172910479,0.1,0.1
+5177634022,0.1,0.1
+8654658077,0.1,0.1
+2678163108,0.1,0.1
+4047999303,0.1,0.1
+4105150856,0.1,0.1
+7134923782,0.1,0.1
+12027148016,0.1,0.1
+4072676158,0.1,0.1
+7753004754,0.1,0.1
+2488345654,0.1,0.1
+14094437367,0.1,0.1
+8128015300,0.1,0.1
+9807454693,0.1,0.1
+2149003016,0.1,0.1
+4084775083,0.1,0.1
+5088209430,0.1,0.1
+2064275622,0.1,0.1
+5412135701,0.1,0.1
+4212357444,0.1,0.1
+6517959541,0.1,0.1
+6014705970,0.1,0.1
+9372706409,0.1,0.1
+8154711665,0.1,0.1
+3049722165,0.1,0.1
+2817062499,0.1,0.1
+6362971967,0.1,0.1
+2524134283,0.1,0.1
+5853517283,0.1,0.1
+3239479696,0.1,0.1
+3137422873,0.1,0.1
+4073003490,0.1,0.1
+3082246856,0.1,0.1
+9133892227,0.1,0.1
+5035442327,0.1,0.1
+5072017499,0.1,0.1
+9039005954,0.1,0.1
+8124266005,0.1,0.1
+4192275852,0.1,0.1
+4134783851,0.1,0.1
+6145960814,0.1,0.1
+2222222222,0.1,0.1
+5859934930,0.1,0.1
+5749933160,0.1,0.1
+9374229892,0.1,0.1
+7205706750,0.1,0.1
+7346527585,0.1,0.1
+8182646251,0.1,0.1
+6467329009,0.1,0.1
+6083771051,0.1,0.1
+6069751533,0.1,0.1
+8327137145,0.1,0.1
+7158894742,0.1,0.1
+9373049872,0.1,0.1
+8143308976,0.1,0.1
+2182050685,0.1,0.1
+8018658952,0.1,0.1
+8127361284,0.1,0.1
+3368583622,0.1,0.1
+6158646638,0.1,0.1
+4325288622,0.1,0.1
+9288758633,0.1,0.1
+5052421264,0.1,0.1
+5613235033,0.1,0.1
+8594093244,0.1,0.1
+6029101821,0.1,0.1
+5053820894,0.1,0.1
+7032976949,0.1,0.1
+6173899400,0.1,0.1
+8135192270,0.1,0.1
+8642025689,0.1,0.1
+5044187722,0.1,0.1
+6168431133,0.1,0.1
+8136024955,0.1,0.1
+4404095628,0.1,0.1
+6192066284,0.1,0.1
+8047203176,0.1,0.1
+3344018324,0.1,0.1
+5853663474,0.1,0.1
+8284494508,0.1,0.1
+9204153909,0.1,0.1
+9797777887,0.1,0.1
+8109640756,0.1,0.1
+203993027,0.1,0.1
+7877188985,0.1,0.1
+9293548011,0.1,0.1
+17407062251,0.1,0.1
+6193686374,0.1,0.1
+17042801107,0.1,0.1
+4232485705,0.1,0.1
+6087095669,0.1,0.1
+3149543974,0.1,0.1
+8129723846,0.1,0.1
+6164437918,0.1,0.1
+9204796273,0.1,0.1
+8452290652,0.1,0.1
+9034405194,0.1,0.1
+8087227211,0.1,0.1
+7069147899,0.1,0.1
+4043685431,0.1,0.1
+2106367428,0.1,0.1
+15419085525,0.1,0.1
+7757420247,0.1,0.1
+6305448805,0.1,0.1
+3343790894,0.1,0.1
+2064729629,0.1,0.1
+4806896603,0.1,0.1
+5865565590,0.1,0.1
+7327417347,0.1,0.1
+4195120698,0.1,0.1
+3217510350,0.1,0.1
+6304642925,0.1,0.1
+9729681006,0.1,0.1
+5059071458,0.1,0.1
+8153861679,0.1,0.1
+4403419211,0.1,0.1
+2293086853,0.1,0.1
+8122176669,0.1,0.1
+8434508252,0.1,0.1
+8186013874,0.1,0.1
+6784291797,0.1,0.1
+12036152903,0.1,0.1
+8649186784,0.1,0.1
+4433987785,0.1,0.1
+5126682828,0.1,0.1
+7164184864,0.1,0.1
+5012475613,0.1,0.1
+7209374305,0.1,0.1
+5956332394,0.1,0.1
+4257504838,0.1,0.1
+19549837327,0.1,0.1
+9105481030,0.1,0.1
+13136556758,0.1,0.1
+7859179623,0.1,0.1
+9796652272,0.1,0.1
+2402564052,0.1,0.1
+13176201802,0.1,0.1
+8434243365,0.1,0.1
+3463043073,0.1,0.1
+4082235720,0.1,0.1
+3044820930,0.1,0.1
+2124444444,0.1,0.1
+4236152213,0.1,0.1
+6194908968,0.1,0.1
+15629727954,0.1,0.1
+2144031114,0.1,0.1
+7634150567,0.1,0.1
+9546292029,0.1,0.1
+3214276480,0.1,0.1
+6163375993,0.1,0.1
+8185178180,0.1,0.1
+2527013366,0.1,0.1
+2489691152,0.1,0.1
+13309659522,0.1,0.1
+3862377982,0.1,0.1
+2199029693,0.1,0.1
+5704010471,0.1,0.1
+6786433285,0.1,0.1
+3083796245,0.1,0.1
+8653175544,0.1,0.1
+7272396151,0.1,0.1
+5708518964,0.1,0.1
+8458499078,0.1,0.1
+3174596492,0.1,0.1
+6189720473,0.1,0.1
+5132571387,0.1,0.1
+7852462375,0.1,0.1
+7083745756,0.1,0.1
+3158574758,0.1,0.1
+15037848287,0.1,0.1
+6505766962,0.1,0.1
+4023801257,0.1,0.1
+7016442478,0.1,0.1
+6023732320,0.1,0.1
+5716004210,0.1,0.1
+5086487088,0.1,0.1
+2704698017,0.1,0.1
+17735227739,0.1,0.1
+2056039442,0.1,0.1
+2817943165,0.1,0.1
+3016429056,0.1,0.1
+13153438267,0.1,0.1
+4104303107,0.1,0.1
+7037221212,0.1,0.1
+9143003803,0.1,0.1
+4699150408,0.1,0.1
+4055680292,0.1,0.1
+8709269177,0.1,0.1
+7206563607,0.1,0.1
+3145917859,0.1,0.1
+4152187191,0.1,0.1
+5403363674,0.1,0.1
+3165502814,0.1,0.1
+7024264937,0.1,0.1
+5162510550,0.1,0.1
+3366599272,0.1,0.1
+7046095597,0.1,0.1
+9095551212,0.1,0.1
+8432029560,0.1,0.1
+2569047259,0.1,0.1
+2012475871,0.1,0.1
+9083474345,0.1,0.1
+2673831201,0.1,0.1
+2529454847,0.1,0.1
+7139859095,0.1,0.1
+8034257192,0.1,0.1
+6016746101,0.1,0.1
+8134173994,0.1,0.1
+5516556281,0.1,0.1
+5187210733,0.1,0.1
+2074318829,0.1,0.1
+3369530785,0.1,0.1
+6107210637,0.1,0.1
+8568826857,0.1,0.1
+9149070703,0.1,0.1
+19189642026,0.1,0.1
+7579622487,0.1,0.1
+8088687642,0.1,0.1
+6108447124,0.1,0.1
+7012141293,0.1,0.1
+3305030706,0.1,0.1
+2538616116,0.1,0.1
+6095515396,0.1,0.1
+9042289578,0.1,0.1
+8162550145,0.1,0.1
+4632010075,0.1,0.1
+7187207558,0.1,0.1
+6462216957,0.1,0.1
+1112223456,0.1,0.1
+5405700038,0.1,0.1
+2548333195,0.1,0.1
+5404609043,0.1,0.1
+9312661341,0.1,0.1
+2174157563,0.1,0.1
+4404271354,0.1,0.1
+9735180670,0.1,0.1
+3309561286,0.1,0.1
+4028210299,0.1,0.1
+3093638165,0.1,0.1
+5099990443,0.1,0.1
+8035434609,0.1,0.1
+7876722543,0.1,0.1
+3163473147,0.1,0.1
+6198721448,0.1,0.1
+7132043324,0.1,0.1
+7047805071,0.1,0.1
+2031234567,0.1,0.1
+3302347264,0.1,0.1
+6782004824,0.1,0.1
+5028395349,0.1,0.1
+2105844007,0.1,0.1
+6028726071,0.1,0.1
+9105754017,0.1,0.1
+3045731850,0.1,0.1
+8477121212,0.1,0.1
+7134923781,0.1,0.1
+9492823640,0.1,0.1
+9564511497,0.1,0.1
+9188717450,0.1,0.1
+8103096945,0.1,0.1
+9258192018,0.1,0.1
+9378691644,0.1,0.1
+12075780093,0.1,0.1
+5853508257,0.1,0.1
+4783055756,0.1,0.1
+4099982775,0.1,0.1
+4792488590,0.1,0.1
+4079237898,0.1,0.1
+5176104016,0.1,0.1
+3235190563,0.1,0.1
+3085302541,0.1,0.1
+2392334568,0.1,0.1
+2167139333,0.1,0.1
+7163533534,0.1,0.1
+4042107327,0.1,0.1
+6921704,0.1,0.1
+9782371488,0.1,0.1
+5738200840,0.1,0.1
+5097216870,0.1,0.1
+9122811022,0.1,0.1
+3073152645,0.1,0.1
+3478241737,0.1,0.1
+2142136579,0.1,0.1
+18143279605,0.1,0.1
+6625627892,0.1,0.1
+3632127,0.1,0.1
+8145904263,0.1,0.1
+5596865631,0.1,0.1
+9285805021,0.1,0.1
+7865379425,0.1,0.1
+4232060060,0.1,0.1
+6468076659,0.1,0.1
+7069014210,0.1,0.1
+2105023500,0.1,0.1
+6102692741,0.1,0.1
+9316254460,0.1,0.1
+8145021534,0.1,0.1
+8594333190,0.1,0.1
+2019575405,0.1,0.1
+2023501138,0.1,0.1
+4408554582,0.1,0.1
+2149692143,0.1,0.1
+4327702065,0.1,0.1
+4799571930,0.1,0.1
+5012762696,0.1,0.1
+7279023423,0.1,0.1
+7088675309,0.1,0.1
+8478675309,0.1,0.1
+3476143235,0.1,0.1
+5043146274,0.1,0.1
+5012038542,0.1,0.1
+6603418348,0.1,0.1
+8156678585,0.1,0.1
+6152107816,0.1,0.1
+2182485566,0.1,0.1
+8705575309,0.1,0.1
+5414997984,0.1,0.1
+6024127440,0.1,0.1
+8142206899,0.1,0.1
+6619168205,0.1,0.1
+5015306566,0.1,0.1
+2107604272,0.1,0.1
+7817083237,0.1,0.1
+6106088793,0.1,0.1
+6036205182,0.1,0.1
+3366138457,0.1,0.1
+2242560602,0.1,0.1
+6164999641,0.1,0.1
+8084515763,0.1,0.1
+7324025810,0.1,0.1
+5408919428,0.1,0.1
+5039158911,0.1,0.1
+5704212542,0.1,0.1
+3608509991,0.1,0.1
+6366712406,0.1,0.1
+6625375367,0.1,0.1
+8122251732,0.1,0.1
+4075562305,0.1,0.1
+3049010049,0.1,0.1
+4255779151,0.1,0.1
+3012217126,0.1,0.1
+5735875146,0.1,0.1
+8453044120,0.1,0.1
+6157793712,0.1,0.1
+12407067292,0.1,0.1
+6207046437,0.1,0.1
+2095525644,0.1,0.1
+3164092847,0.1,0.1
+4125272197,0.1,0.1
+2108333649,0.1,0.1
+7203150274,0.1,0.1
+8568964988,0.1,0.1
+5704792543,0.1,0.1
+9019302417,0.1,0.1
+8642084158,0.1,0.1
+6097449387,0.1,0.1
+631000000,0.1,0.1
+4012229107,0.1,0.1
+6894448423,0.1,0.1
+8282911425,0.1,0.1
+17027421283,0.1,0.1
+8184480309,0.1,0.1
+2016811726,0.1,0.1
+16012609156,0.1,0.1
+4043502614,0.1,0.1
+4789521848,0.1,0.1
+5307641352,0.1,0.1
+2079510352,0.1,0.1
+9185212323,0.1,0.1
+5623880206,0.1,0.1
+2488196315,0.1,0.1
+6302726825,0.1,0.1
+8178859867,0.1,0.1
+2074413929,0.1,0.1
+3057020038,0.1,0.1
+8608060306,0.1,0.1
+2017653456,0.1,0.1
+9788869634,0.1,0.1
+7708657847,0.1,0.1
+8593100149,0.1,0.1
+3146663275,0.1,0.1
+8147320516,0.1,0.1
+2034371521,0.1,0.1
+9186307209,0.1,0.1
+9739548662,0.1,0.1
+4074735012,0.1,0.1
+2032310607,0.1,0.1
+5012475614,0.1,0.1
+2283460513,0.1,0.1
+3126086782,0.1,0.1
+5017548175,0.1,0.1
+9084560727,0.1,0.1
+4808236247,0.1,0.1
+4174630667,0.1,0.1
+7047961126,0.1,0.1
+9892401142,0.1,0.1
+3163126967,0.1,0.1
+3174436310,0.1,0.1
+6303658356,0.1,0.1
+3145657537,0.1,0.1
+3179658880,0.1,0.1
+9545045717,0.1,0.1
+2513122656,0.1,0.1
+3305218503,0.1,0.1
+2039103675,0.1,0.1
+4057602496,0.1,0.1
+7733546826,0.1,0.1
+6126361278,0.1,0.1
+4232280783,0.1,0.1
+7148221506,0.1,0.1
+2392651485,0.1,0.1
+8132050154,0.1,0.1
+9723653475,0.1,0.1
+6415305181,0.1,0.1
+4137771892,0.1,0.1
+6365354128,0.1,0.1
+4702724137,0.1,0.1
+5672881150,0.1,0.1
+8122054937,0.1,0.1
+5087763775,0.1,0.1
+3472023072,0.1,0.1
+6154234977,0.1,0.1
+4234303558,0.1,0.1
+7172661894,0.1,0.1
+6032614042,0.1,0.1
+7752412078,0.1,0.1
+7163744725,0.1,0.1
+3136146921,0.1,0.1
+7708239011,0.1,0.1
+3475555555,0.1,0.1
+3177218833,0.1,0.1
+17605674747,0.1,0.1
+6309896157,0.1,0.1
+2316693216,0.1,0.1
+16785706044,0.1,0.1
+6174485583,0.1,0.1
+5023821756,0.1,0.1
+2082925833,0.1,0.1
+16208993670,0.1,0.1
+8454964189,0.1,0.1
+3475912150,0.1,0.1
+7272646053,0.1,0.1
+4406456330,0.1,0.1
+8472506637,0.1,0.1
+5038168154,0.1,0.1
+8137935354,0.1,0.1
+7047056385,0.1,0.1
+9165333524,0.1,0.1
+7797729906,0.1,0.1
+2487606066,0.1,0.1
+3093571624,0.1,0.1
+4802176521,0.1,0.1
+2055555555,0.1,0.1
+3025132935,0.1,0.1
+9792406755,0.1,0.1
+2098474626,0.1,0.1
+9259987123,0.1,0.1
+5012293844,0.1,0.1
+3618168206,0.1,0.1
+8455072120,0.1,0.1
+17277094877,0.1,0.1
+4072422853,0.1,0.1
+5102999936,0.1,0.1
+5704291360,0.1,0.1
+13532869440,0.1,0.1
+7653071403,0.1,0.1
+5127992276,0.1,0.1
+12102323021,0.1,0.1
+15089971633,0.1,0.1
+7155670443,0.1,0.1
+2074200382,0.1,0.1
+9198056481,0.1,0.1
+7702980169,0.1,0.1
+4805485,0.1,0.1
+8046587372,0.1,0.1
+4088294287,0.1,0.1
+7032202890,0.1,0.1
+9254378853,0.1,0.1
+2123650369,0.1,0.1
+8140000000,0.1,0.1
+6789334825,0.1,0.1
+6193701723,0.1,0.1
+6028280469,0.1,0.1
+9802108436,0.1,0.1
+2104288248,0.1,0.1
+6202852256,0.1,0.1
+3092569852,0.1,0.1
+8153355175,0.1,0.1
+2393530313,0.1,0.1
+5613084990,0.1,0.1
+8489008633,0.1,0.1
+5188135133,0.1,0.1
+6812851894,0.1,0.1
+2294458902,0.1,0.1
+4964798540,0.1,0.1
+7044628856,0.1,0.1
+7247109931,0.1,0.1
+2604193787,0.1,0.1
+3042072500,0.1,0.1
+7275991696,0.1,0.1
+9165215581,0.1,0.1
+2167622998,0.1,0.1
+9143290735,0.1,0.1
+4232470054,0.1,0.1
+8045725488,0.1,0.1
+2156661930,0.1,0.1
+2242440096,0.1,0.1
+9852285739,0.1,0.1
+2017968072,0.1,0.1
+6035553443,0.1,0.1
+6012609156,0.1,0.1
+9898600482,0.1,0.1
+3153990371,0.1,0.1
+9073010440,0.1,0.1
+6464275663,0.1,0.1
+3368622418,0.1,0.1
+6126165584,0.1,0.1
+6107910824,0.1,0.1
+8108140723,0.1,0.1
+3147998081,0.1,0.1
+8505103255,0.1,0.1
+5097811759,0.1,0.1
+6027434117,0.1,0.1
+8143755335,0.1,0.1
+1231234123,0.1,0.1
+6159958748,0.1,0.1
+8607194109,0.1,0.1
+8288775620,0.1,0.1
+17243174124,0.1,0.1
+16089211483,0.1,0.1
+5025417210,0.1,0.1
+3105580485,0.1,0.1
+413,0.1,0.1
+9512852760,0.1,0.1
+9162969112,0.1,0.1
+2012493136,0.1,0.1
+4057652146,0.1,0.1
+2174746738,0.1,0.1
+520-403-6919,0.1,0.1
+12073247404,0.1,0.1
+7077288934,0.1,0.1
+7406446337,0.1,0.1
+2537520928,0.1,0.1
+8642803043,0.1,0.1
+4105078425,0.1,0.1
+3056102651,0.1,0.1
+8047230782,0.1,0.1
+7249532333,0.1,0.1
+2243613229,0.1,0.1
+13235528231,0.1,0.1
+7249311912,0.1,0.1
+2533501674,0.1,0.1
+2767809184,0.1,0.1
+4144260005,0.1,0.1
+17329663822,0.1,0.1
+8604209097,0.1,0.1
+9189166979,0.1,0.1
+3058247945,0.1,0.1
+8646429938,0.1,0.1
+9728630708,0.1,0.1
+7736546674,0.1,0.1
+9147746759,0.1,0.1
+2187805328,0.1,0.1
+3213620544,0.1,0.1
+6785255353,0.1,0.1
+5073775419,0.1,0.1
+6095016419,0.1,0.1
+7657147950,0.1,0.1
+5036089491,0.1,0.1
+6065554569,0.1,0.1
+2607403724,0.1,0.1
+17402604304,0.1,0.1
+2054430134,0.1,0.1
+5163059888,0.1,0.1
+26028,0.1,0.1
+3013002390,0.1,0.1
+8137886825,0.1,0.1
+3034703915,0.1,0.1
+16313694348,0.1,0.1
+8053364844,0.1,0.1
+9259840676,0.1,0.1
+9209826165,0.1,0.1
+6262029028,0.1,0.1
+4156949113,0.1,0.1
+4027442961,0.1,0.1
+16822583862,0.1,0.1
+7653748426,0.1,0.1
+6028821412,0.1,0.1
+5185241168,0.1,0.1
+7703242858,0.1,0.1
+7143264510,0.1,0.1
+7857063167,0.1,0.1
+7245676110,0.1,0.1
+7275803290,0.1,0.1
+4794229307,0.1,0.1
+4104990174,0.1,0.1
+6467063350,0.1,0.1
+2604189627,0.1,0.1
+4794317034,0.1,0.1
+19042356481,0.1,0.1
+8563740540,0.1,0.1
+5404067314,0.1,0.1
+2483969283,0.1,0.1
+3608255892,0.1,0.1
+4129517478,0.1,0.1
+4015456997,0.1,0.1
+4053558092,0.1,0.1
+4156371992,0.1,0.1
+5187729989,0.1,0.1
+3525120082,0.1,0.1
+12197899188,0.1,0.1
+7062895445,0.1,0.1
+4076195442,0.1,0.1
+4797193780,0.1,0.1
+2012653186,0.1,0.1
+7065198997,0.1,0.1
+6316124810,0.1,0.1
+3152500420,0.1,0.1
+3528075483,0.1,0.1
+727,0.1,0.1
+914,0.1,0.1
+2035831647,0.1,0.1
+2525312332,0.1,0.1
+9795878753,0.1,0.1
+18604557626,0.1,0.1
+5418087126,0.1,0.1
+3184981145,0.1,0.1
+7406305364,0.1,0.1
+5412419511,0.1,0.1
+8635888834,0.1,0.1
+9102321656,0.1,0.1
+7342503559,0.1,0.1
+9068463247,0.1,0.1
+5803705593,0.1,0.1
+9092029657,0.1,0.1
+5752588613,0.1,0.1
+7278238758,0.1,0.1
+2677993338,0.1,0.1
+9402795402,0.1,0.1
+5202375885,0.1,0.1
+5083092477,0.1,0.1
+6817258536,0.1,0.1
+4563451234,0.1,0.1
+7064505293,0.1,0.1
+9407827471,0.1,0.1
+3219176336,0.1,0.1
+17189560987,0.1,0.1
+7077333989,0.1,0.1
+4126576544,0.1,0.1
+13096219298,0.1,0.1
+2197981278,0.1,0.1
+5743703503,0.1,0.1
+5707591333,0.1,0.1
+9547478226,0.1,0.1
+8184564975,0.1,0.1
+4845604522,0.1,0.1
+8607711635,0.1,0.1
+256886886,0.1,0.1
+8045196050,0.1,0.1
+5132133469,0.1,0.1
+2162339060,0.1,0.1
+6184667695,0.1,0.1
+9202296390,0.1,0.1
+4125630675,0.1,0.1
+2254473738,0.1,0.1
+5613460198,0.1,0.1
+8605970661,0.1,0.1
+5136738105,0.1,0.1
+7472666337,0.1,0.1
+16106912137,0.1,0.1
+4053301161,0.1,0.1
+3178596230,0.1,0.1
+5187123310,0.1,0.1
+7249717669,0.1,0.1
+19413580587,0.1,0.1
+8145905316,0.1,0.1
+6312157979,0.1,0.1
+5072739513,0.1,0.1
+2405060732,0.1,0.1
+5037579515,0.1,0.1
+12072401990,0.1,0.1
+4849290568,0.1,0.1
+2622127578,0.1,0.1
+9723170809,0.1,0.1
+9183061766,0.1,0.1
+17045830308,0.1,0.1
+5415130931,0.1,0.1
+5182398003,0.1,0.1
+3364321358,0.1,0.1
+5123755168,0.1,0.1
+7732255463,0.1,0.1
+6158485260,0.1,0.1
+4086275678,0.1,0.1
+4693154542,0.1,0.1
+7068409364,0.1,0.1
+7722151871,0.1,0.1
+9407823855,0.1,0.1
+3607037970,0.1,0.1
+4074163049,0.1,0.1
+4097817806,0.1,0.1
+7144911196,0.1,0.1
+3474494950,0.1,0.1
+4103715774,0.1,0.1
+6265107380,0.1,0.1
+6184091240,0.1,0.1
+8089900749,0.1,0.1
+4085806396,0.1,0.1
+2085901638,0.1,0.1
+5035396055,0.1,0.1
+6146335078,0.1,0.1
+7377032601,0.1,0.1
+9106009966,0.1,0.1
+7143358895,0.1,0.1
+7578139009,0.1,0.1
+3149711418,0.1,0.1
+7198499902,0.1,0.1
+17174968573,0.1,0.1
+2527152774,0.1,0.1
+14028851005,0.1,0.1
+7579983384,0.1,0.1
+3012881183,0.1,0.1
+3105129569,0.1,0.1
+3047433230,0.1,0.1
+5705167417,0.1,0.1
+2108670512,0.1,0.1
+8658508118,0.1,0.1
+2092424021,0.1,0.1
+9094755022,0.1,0.1
+6145806110,0.1,0.1
+7342310108,0.1,0.1
+8175846329,0.1,0.1
+4192960524,0.1,0.1
+8434693706,0.1,0.1
+9783821582,0.1,0.1
+6168870909,0.1,0.1
+5865302906,0.1,0.1
+7046744208,0.1,0.1
+5202235643,0.1,0.1
+4072476350,0.1,0.1
+7572290830,0.1,0.1
+9102612879,0.1,0.1
+2762020665,0.1,0.1
+16307404288,0.1,0.1
+8649673710,0.1,0.1
+3039532585,0.1,0.1
+2407281309,0.1,0.1
+7246791663,0.1,0.1
+8179883615,0.1,0.1
+9413784763,0.1,0.1
+3154018327,0.1,0.1
+6626077943,0.1,0.1
+8457015077,0.1,0.1
+7073338318,0.1,0.1
+2247358958,0.1,0.1
+3152097208,0.1,0.1
+9782013683,0.1,0.1
+4143062911,0.1,0.1
+4148880285,0.1,0.1
+2403964578,0.1,0.1
+9287107245,0.1,0.1
+2402706831,0.1,0.1
+7152260596,0.1,0.1
+7703312155,0.1,0.1
+2063254663,0.1,0.1
+8455921339,0.1,0.1
+3618137473,0.1,0.1
+8644264346,0.1,0.1
+4253241174,0.1,0.1
+9377768582,0.1,0.1
+4238367728,0.1,0.1
+2092889353,0.1,0.1
+3109808792,0.1,0.1
+7866231234,0.1,0.1
+9185504853,0.1,0.1
+7725849797,0.1,0.1
+2173060479,0.1,0.1
+7654702988,0.1,0.1
+8475665389,0.1,0.1
+5024726888,0.1,0.1
+9416610000,0.1,0.1
+3615858149,0.1,0.1
+3162098147,0.1,0.1
+17403853506,0.1,0.1
+6103483106,0.1,0.1
+8703602156,0.1,0.1
+9518937284,0.1,0.1
+8109224597,0.1,0.1
+9061234567,0.1,0.1
+2709221897,0.1,0.1
+3179910906,0.1,0.1
+2147270317,0.1,0.1
+9258038537,0.1,0.1
+3148090156,0.1,0.1
+5137225502,0.1,0.1
+4122981913,0.1,0.1
+4012627089,0.1,0.1
+6193951201,0.1,0.1
+9164001699,0.1,0.1
+3368235136,0.1,0.1
+8162069152,0.1,0.1
+7404182122,0.1,0.1
+9999999,0.1,0.1
+8109625105,0.1,0.1
+2098728202,0.1,0.1
+6157616970,0.1,0.1
+5126624712,0.1,0.1
+4105918900,0.1,0.1
+4197972076,0.1,0.1
+4038226,0.1,0.1
+2125553298,0.1,0.1
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+REGION, 
+,cluster1,cluster2
+South,36.5,42.6
+Midwest,19.0,22.8
+Northeast,21.4,18.3
+West,23.0,16.4
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+weight, 
+,cluster1,cluster2
+0.6867991711867057,2.1,2.1
+0.7454750639378075,2.1,2.1
+0.6827734555886507,2.1,2.1
+0.8577220925088789,2.1,2.1
+0.7153889435980492,2.1,2.1
+0.9738605658336088,2.1,2.1
+0.6453037825757664,2.1,2.1
+0.9204164305010958,2.1,2.1
+1.063293778688878,2.1,2.1
+1.268563079911375,2.1,2.1
+0.7765073704845488,2.1,2.1
+0.6721662032862379,2.1,2.1
+1.2233951327509232,2.1,2.1
+0.6930055087917247,2.1,2.1
+0.6970915538238589,2.1,2.1
+0.756646764380088,2.1,2.1
+1.1687152448520697,2.1,2.1
+1.4595720662118172,2.1,2.1
+0.711195647289985,2.1,2.1
+0.9796025665486588,2.1,2.1
+0.958731118951024,2.1,2.1
+1.1075561022536928,2.1,2.1
+1.3117044362020498,2.1,2.1
+1.079228315137227,2.1,2.1
+1.1618647485377591,2.1,2.1
+0.6549743146994382,2.1,2.1
+0.9884548548183716,2.1,2.1
+1.6669741337098931,2.1,2.1
+1.0981032009020593,2.1,2.1
+0.9342098048755456,2.1,2.1
+0.8934269687606062,2.1,2.1
+1.2417289504824542,2.1,2.1
+1.8093901405891928,2.1,2.1
+0.8705759285978006,2.1,2.1
+1.0144000031329534,2.1,2.1
+1.5662580257344647,2.1,2.1
+1.2743220847361147,2.1,2.1
+1.0203810293164606,2.1,2.1
+1.3663074888486753,2.1,2.1
+2.0818320727634294,2.1,2.1
+0.9942829052418976,2.1,2.1
+1.9488059667546724,2.1,2.1
+1.331361658474051,2.1,2.1
+1.6572030622625682,2.1,2.1
+1.8709239704476552,2.1,2.1
+2.2321066123020668,2.1,2.1
+1.898961665012133,2.1,2.1
+3.1837216146361933,2.1,2.1
+Proportion,10.7,89.3
+ , , 
+ , , 
+ , 
+cluster, 
+,cluster1,cluster2
+2,50.0,50.0
+1,50.0,50.0
+Proportion,10.7,89.3
+ , , 
+ , , 
