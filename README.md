@@ -5,7 +5,7 @@ Each question tests aspects of what we require from our data scientists at Qudo.
 **Please choose one and only one question to answer. You must use python as the core programming language. You may submit your solution however you like (i.e. Github/GitLab repo, compressed folder). The questions are meant to be challenging and somewhat open-ended - Be creative. You must submit your work no later 10 AM (GMT) on Monday the 25th of October.**
 
 ## 1. Exploratory Data Analysis ([statista](https://github.com/sigamani/technical-test/tree/main/statista) folder)
-Here we have two waves of a consumer survey conducted in the UK between 2020 and 2021. An hotel company has come to you wanting to understand the various dynamics of the UK market when it comes to travel and hospitality. They would like to start a chain of hotels next year in the UK. What can we tell them just based on the data we have? Things to explore (for ideas but feel free to choose your own):
+Here we have two waves of a consumer survey conducted in the UK between 2020 and 2021. An hotel company has come to you wanting to understand the various dynamics of the UK market when it comes to travel and hospitality. They would like to start a chain of hotels next year in the UK. The area of interest is domestic tourism in the UK and they want to understand broadly in their market/category where something could be interesting. What can we tell them just based on the data we have? Things to explore (for ideas but feel free to choose your own):
 - Clustering to find groups which are based on their travel habits. 
 - Are there any distinct audiences you can see to target on Google/Social Media?
 - Can you spot anything interesting in terms of trends when you look at the two waves?
